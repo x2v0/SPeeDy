@@ -1,0 +1,39 @@
+-- The C compiler identification is GNU 11.1.0
+-- The CXX compiler identification is GNU 11.1.0
+-- Check for working C compiler: /cvmfs/sft.cern.ch/lcg/releases/gcc/11.1.0-e80bf/x86_64-centos7/bin/gcc
+-- Check for working C compiler: /cvmfs/sft.cern.ch/lcg/releases/gcc/11.1.0-e80bf/x86_64-centos7/bin/gcc - works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /cvmfs/sft.cern.ch/lcg/releases/gcc/11.1.0-e80bf/x86_64-centos7/bin/g++
+-- Check for working CXX compiler: /cvmfs/sft.cern.ch/lcg/releases/gcc/11.1.0-e80bf/x86_64-centos7/bin/g++ - works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- default momentum and length are MEV MM
+-- documents WILL NOT be installed
+--  version 2.06.11 parses to 2 06 11
+-- The Fortran compiler identification is GNU 11.1.0
+-- cmake build type is Release
+-- compiler version: 11.1.0
+-- compiling with g++  -O -ansi -pedantic -Wall -D_GNU_SOURCE -O3 -DNDEBUG
+-- building testHepMC for testHepMC.sh
+-- building testStreamIO for testStreamIO.sh
+-- building testHepMCIteration for testHepMCIteration.sh
+-- building testMass for testMass.sh
+-- building testFlow for testFlow.sh
+-- building testPrintBug for testPrintBug.sh
+-- building testPolarization for testPolarization.sh
+-- building simple test testSimpleVector 
+-- building simple test testUnits 
+-- building simple test testMultipleCopies 
+-- building simple test testWeights 
+-- Using compiler -gcc111
+-- CMAKE_HOST_SYSTEM_VERSION: 4.18.0-193.19.1.el8_2.x86_64
+-- CMAKE_SYSTEM_VERSION: 4.18.0-193.19.1.el8_2.x86_64
+-- CPACK_SYSTEM_NAME = x86_64-slc-gcc111-opt
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /build/jenkins/workspace/lcg_nightly_pipeline/build/externals/HepMC-2.06.11/src/HepMC-2.06.11-build

@@ -1,0 +1,7 @@
+v2::libDDGDMLPlugins.so.1.23:DD4hepGeometry2GDML
+v2::libDDGDMLPlugins.so.1.23:DD4hep_DetElementCreator
+v2::libDDGDMLPlugins.so.1.23:DD4hep_DetNominalCreator
+v2::libDDGDMLPlugins.so.1.23:DD4hep_GdmlDetector
+v2::libDDGDMLPlugins.so.1.23:DD4hep_PlainROOT
+v2::libDDGDMLPlugins.so.1.23:DD4hep_ROOTGDMLExtract
+v2::libDDGDMLPlugins.so.1.23:DD4hep_ROOTGDMLParse

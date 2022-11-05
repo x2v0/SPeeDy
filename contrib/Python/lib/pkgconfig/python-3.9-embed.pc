@@ -1,0 +1,13 @@
+# See: man pkg-config
+prefix=/cvmfs/sft-nightlies.cern.ch/lcg/latest/Python/3.9.6-b0f98/x86_64-centos7-gcc11-opt
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: Python
+Description: Embed Python into an application
+Requires:
+Version: 3.9
+Libs.private: -lcrypt -lpthread -ldl  -lutil -lm
+Libs: -L${libdir} -lpython3.9
+Cflags: -I${includedir}/python3.9

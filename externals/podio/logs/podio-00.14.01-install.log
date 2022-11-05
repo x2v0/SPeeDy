@@ -1,0 +1,84 @@
+Consolidate compiler generated dependencies of target podio
+[ 29%] Built target podio
+Consolidate compiler generated dependencies of target podioRootIO
+[ 52%] Built target podioRootIO
+Consolidate compiler generated dependencies of target podioDict
+Consolidate compiler generated dependencies of target podioSioIO
+[ 82%] Built target podioSioIO
+[100%] Built target podioDict
+Install the project...
+-- Install configuration: "Release"
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/podioVersion.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/share/doc/podio/LICENSE
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/share/doc/podio/NOTICE
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/lib64/cmake/podio/podioConfig.cmake
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/lib64/cmake/podio/podioConfigVersion.cmake
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/lib64/cmake/podio/podioMacros.cmake
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/lib64/cmake/podio/podioTargets.cmake
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/lib64/cmake/podio/podioTargets-release.cmake
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/EventStore.py
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/figure.txt
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/generator_utils.py
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/podio_class_generator.py
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/podio_config_reader.py
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/podio_create_package.py
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/Obj.cc.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/Object.h.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/MutableObject.cc.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/macros
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/macros/declarations.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/macros/collections.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/macros/utils.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/macros/sioblocks.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/macros/implementations.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/macros/iterator.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/Collection.h.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/MutableObject.h.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/SIOBlock.cc.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/CollectionData.h.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/Obj.h.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/CollectionData.cc.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/SIOBlock.h.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/selection.xml.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/CMakeLists.txt
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/Collection.cc.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/Object.cc.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/Data.h.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/python/templates/Component.h.jinja2
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/lib64/libpodio.so
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/lib64/libpodioDict.so
+-- Set runtime path of "/build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/lib64/libpodioDict.so" to ""
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/lib64/libpodioRootIO.so
+-- Set runtime path of "/build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/lib64/libpodioRootIO.so" to ""
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/lib64/libpodioSioIO.so
+-- Set runtime path of "/build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/lib64/libpodioSioIO.so" to ""
+-- Up-to-date: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/SIOBlockUserData.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/SIOWriter.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/IMetaDataProvider.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/ICollectionProvider.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/TimedWriter.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/TimedReader.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/BenchmarkUtil.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/ASCIIWriter.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/CollectionBranches.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/CollectionBase.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/IReader.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/SIOBlock.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/PythonEventStore.h
+-- Up-to-date: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/podioVersion.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/SIOReader.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/ObjBase.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/GenericParameters.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/BenchmarkRecorder.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/UserDataCollection.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/RelationRange.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/CollectionBuffers.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/EventStore.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/ObjectID.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/CollectionIDTable.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/ROOTReader.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/include/podio/ROOTWriter.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/lib64/podioDictDict.rootmap
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/podio/00.14.01/x86_64-centos7-gcc10fp-opt/lib64/libpodioDict_rdict.pcm

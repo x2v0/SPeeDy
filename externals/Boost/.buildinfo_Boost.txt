@@ -1,0 +1,1 @@
+ COMPILER: GNU 11.3.0, HOSTNAME: centos7-docker, GITHASH: 'c2b8dbe', HASH: 0eb18, DESTINATION: Boost, DIRECTORY: Boost, NAME: Boost, VERSION: 1.80.0, REVISION: 2, PLATFORM: x86_64-centos7-gcc11-opt, SRC: https://lcgpackages.web.cern.ch/tarFiles/sources/boost_1_80_0.tar.gz, DEPENDS: zlib-1.2.11-8af4c,Python-3.9.12-9a1bc,numpy-1.22.3-1af8f,

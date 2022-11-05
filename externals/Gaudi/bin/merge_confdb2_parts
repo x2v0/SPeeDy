@@ -1,0 +1,71 @@
+#!/usr/bin/env python
+#####################################################################################
+# (c) Copyright 1998-2020 CERN for the benefit of the LHCb and ATLAS collaborations #
+#                                                                                   #
+# This software is distributed under the terms of the Apache version 2 licence,     #
+# copied verbatim in the file "LICENSE".                                            #
+#                                                                                   #
+# In applying this licence, CERN does not waive the privileges and immunities       #
+# granted to it by virtue of its status as an Intergovernmental Organization        #
+# or submit itself to any jurisdiction.                                             #
+#####################################################################################
+
+import os
+import shelve
+import sys
+from optparse import OptionParser
+
+from GaudiKernel.DataHandle import DataHandle
+from GaudiKernel.GaudiHandles import *
+
+parser = OptionParser(  # desc='simple script to merge files',
+    usage="%prog [options] input1 input2 ... [output|--output output]"
+)
+parser.add_option(
+    "--ignore-missing",
+    action="store_true",
+    help="do not fail if an input file is missing, " "just ignore it",
+)
+parser.add_option(
+    "-o", "--output", help="output filename (by default use the last argument)"
+)
+
+if __name__ == "__main__":
+    opts, args = parser.parse_args()
+    if len(args) < 1:
+        parser.print_usage()
+        sys.exit(0)
+
+    import logging
+
+    logging.basicConfig()
+
+    output = opts.output or args.pop()
+    inputs = args
+    missing = [i for i in inputs if not os.path.isfile(i)]
+
+    if missing:
+        if opts.ignore_missing:
+            inputs = [i for i in inputs if i not in missing]
+            for i in missing:
+                logging.warning("file %s not found", i)
+        else:
+            for i in missing:
+                logging.error("file %s not found", i)
+            sys.exit(1)
+    try:
+        # create the destination directory if missing
+        if not os.path.isdir(os.path.dirname(output)):
+            os.makedirs(os.path.dirname(output))
+        logging.debug("opening %r for writing", output)
+        if os.path.exists(output):
+            os.remove(output)
+        out = shelve.open(output)
+        for input in inputs:
+            logging.debug("adding %r", input)
+            out.update(eval(open(input, "rb").read()))
+        out.close()
+    except:
+        if os.path.exists(output):
+            os.remove(output)
+        raise

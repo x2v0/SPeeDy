@@ -1,0 +1,60 @@
+-- The CXX compiler identification is GNU 10.3.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /cvmfs/sft.cern.ch/lcg/releases/gcc/10.3.0-f5826/x86_64-centos7/bin/g++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Performing Test GAUDI_HAVE_CXX_ATOMICS_WITHOUT_LIB
+-- Performing Test GAUDI_HAVE_CXX_ATOMICS_WITHOUT_LIB - Success
+-- Explicit atomic library usage does not seem to be necessary
+-- Looking for C++ include pthread.h
+-- Looking for C++ include pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Check if compiler accepts -pthread
+-- Check if compiler accepts -pthread - yes
+-- Found Threads: TRUE  
+-- Found Python: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/Python/3.9.12/x86_64-centos7-gcc10-opt/bin/python3.9 (found suitable version "3.9.12", minimum required is "3.7") found components: Interpreter Development Development.Module Development.Embed 
+-- Found nlohmann_json: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/jsonmcpp/3.10.5/x86_64-centos7-gcc10-opt/lib64/cmake/nlohmann_json/nlohmann_jsonConfig.cmake (found suitable version "3.10.5", minimum required is "3.10.5") 
+-- Found ROOT: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/ROOT/HEAD/x86_64-centos7-gcc10-opt/cmake (found version 6.27.01)
+-- Found UUID: /usr/include  
+--   Import target: UUID::uuid
+-- Found ZLIB: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/zlib/1.2.11/x86_64-centos7-gcc10-opt/lib/libz.so (found suitable version "1.2.11", minimum required is "1.2.11") 
+-- Found Rangev3: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/rangev3/0.11.0/x86_64-centos7-gcc10-opt/include  
+--   Import target: Rangev3::rangev3
+-- Found cppgsl: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/cppgsl/3.1.0/x86_64-centos7-gcc10-opt/include  
+--   Import target: cppgsl::cppgsl
+-- Found nlohmann_json: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/jsonmcpp/3.10.5/x86_64-centos7-gcc10-opt/lib64/cmake/nlohmann_json/nlohmann_jsonConfig.cmake (found version "3.10.5") 
+-- Found AIDA: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/AIDA/3.2.1/x86_64-centos7-gcc10-opt/src/cpp  
+--   Import target: AIDA::aida
+-- Found HepPDT: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/HepPDT/2.06.01/x86_64-centos7-gcc10-opt/include  
+--   Import target: HepPDT::heppdt
+-- Found PkgConfig: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/pkg_config/0.29.2/x86_64-centos7-gcc10-opt/bin/pkg-config (found version "0.29.2") 
+-- Checking for module 'libprofiler>=2.7.0'
+--   Found libprofiler, version 2.9.1
+-- Found jemalloc: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/jemalloc/5.2.1/x86_64-centos7-gcc10-opt/lib/libjemalloc.so  
+--   Import target: jemalloc::jemalloc
+-- Found unwind: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/libunwind/1.3.1/x86_64-centos7-gcc10-opt/include  
+--   Import target: unwind::unwind
+-- Found XercesC: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/XercesC/3.2.3/x86_64-centos7-gcc10-opt/lib/libxerces-c.so (found version "3.2.3") 
+-- Found CppUnit: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/CppUnit/1.14.0/x86_64-centos7-gcc10-opt/include  
+--   Import target: CppUnit::cppunit
+-- Found Doxygen: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/doxygen/1.8.18/x86_64-centos7-gcc10-opt/bin/doxygen (found suitable version "1.8.18", minimum required is "1.8.15") found components: doxygen dot 
+-- Gaudi will be built using C++17 standard.
+CMake Warning at GaudiKernel/CMakeLists.txt:31 (message):
+  using internal VectorClass instrset_detect (2.01.02)
+
+
+-- Using VectorClass instrset_detect 1.25 at /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/contrib
+-- GaudiProfiling: the module Intel VTune profiler is disabled
+-- Found nlohmann_json: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/jsonmcpp/3.10.5/x86_64-centos7-gcc10-opt/lib64/cmake/nlohmann_json/nlohmann_jsonConfig.cmake (found suitable version "3.10.5", minimum required is "3.10.5") 
+-- Configuring done
+-- Generating done
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    Boost_NO_BOOST_CMAKE
+    HOST_BINARY_TAG
+
+
+-- Build files have been written to: /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi-master-build

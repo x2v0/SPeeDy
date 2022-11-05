@@ -1,0 +1,8 @@
+
+
+install(FILES ${CMAKE_CURRENT_LIST_DIR}/scripts/fccrun
+        DESTINATION ${CMAKE_INSTALL_BINDIR}
+        PERMISSIONS OWNER_EXECUTE OWNER_WRITE OWNER_READ
+                    GROUP_EXECUTE GROUP_READ
+                    WORLD_EXECUTE WORLD_READ
+        )

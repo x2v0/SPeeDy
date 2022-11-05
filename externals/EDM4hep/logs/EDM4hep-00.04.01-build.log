@@ -1,0 +1,231 @@
+make[3]: warning: -jN forced in submake: disabling jobserver mode.
+[  1%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/EventHeaderObj.cc.o
+[  2%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableEventHeader.cc.o
+[  2%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/EventHeaderCollection.cc.o
+[  2%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/EventHeader.cc.o
+[  3%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/EventHeaderCollectionData.cc.o
+[  4%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCParticle.cc.o
+[  4%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableMCParticle.cc.o
+[  5%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCParticleObj.cc.o
+[  6%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCParticleCollection.cc.o
+[  7%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/SimTrackerHit.cc.o
+[  7%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCParticleCollectionData.cc.o
+[  8%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableSimTrackerHit.cc.o
+[  8%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/SimTrackerHitObj.cc.o
+[  9%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/SimTrackerHitCollection.cc.o
+[ 10%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/SimTrackerHitCollectionData.cc.o
+[ 10%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/CaloHitContribution.cc.o
+[ 11%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableCaloHitContribution.cc.o
+[ 12%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/CaloHitContributionObj.cc.o
+[ 12%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/CaloHitContributionCollection.cc.o
+[ 13%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/CaloHitContributionCollectionData.cc.o
+[ 14%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/SimCalorimeterHit.cc.o
+[ 15%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/SimCalorimeterHitObj.cc.o
+[ 15%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableSimCalorimeterHit.cc.o
+[ 16%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/SimCalorimeterHitCollection.cc.o
+[ 16%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/SimCalorimeterHitCollectionData.cc.o
+[ 17%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/RawCalorimeterHit.cc.o
+[ 18%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableRawCalorimeterHit.cc.o
+[ 18%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/RawCalorimeterHitObj.cc.o
+[ 19%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/RawCalorimeterHitCollectionData.cc.o
+[ 19%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/CalorimeterHit.cc.o
+[ 20%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/RawCalorimeterHitCollection.cc.o
+[ 21%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableCalorimeterHit.cc.o
+[ 22%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/CalorimeterHitObj.cc.o
+[ 22%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/CalorimeterHitCollection.cc.o
+[ 23%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/ParticleID.cc.o
+[ 24%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/CalorimeterHitCollectionData.cc.o
+[ 24%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableParticleID.cc.o
+[ 25%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/ParticleIDObj.cc.o
+[ 26%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/ParticleIDCollection.cc.o
+[ 26%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/ParticleIDCollectionData.cc.o
+[ 27%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/Cluster.cc.o
+[ 28%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableCluster.cc.o
+[ 28%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/ClusterObj.cc.o
+[ 29%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/ClusterCollection.cc.o
+[ 30%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/ClusterCollectionData.cc.o
+[ 30%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/TrackerHit.cc.o
+[ 31%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableTrackerHit.cc.o
+[ 32%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/TrackerHitObj.cc.o
+[ 33%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/TrackerHitCollectionData.cc.o
+[ 33%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/TrackerHitCollection.cc.o
+[ 34%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/TrackerHitPlane.cc.o
+[ 34%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableTrackerHitPlane.cc.o
+[ 35%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/TrackerHitPlaneObj.cc.o
+[ 36%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/TrackerHitPlaneCollection.cc.o
+[ 36%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/TrackerHitPlaneCollectionData.cc.o
+[ 38%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/TPCHit.cc.o
+[ 38%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableTPCHit.cc.o
+[ 38%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/TPCHitObj.cc.o
+[ 39%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/TPCHitCollection.cc.o
+[ 40%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/TPCHitCollectionData.cc.o
+[ 40%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/Track.cc.o
+[ 41%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableTrack.cc.o
+[ 42%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/TrackObj.cc.o
+[ 43%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/TrackCollectionData.cc.o
+[ 43%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/TrackCollection.cc.o
+[ 44%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/Vertex.cc.o
+[ 44%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableVertex.cc.o
+[ 45%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/VertexCollection.cc.o
+[ 45%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/VertexCollectionData.cc.o
+[ 46%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/VertexObj.cc.o
+[ 47%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/ReconstructedParticle.cc.o
+[ 48%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableReconstructedParticle.cc.o
+[ 48%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/ReconstructedParticleObj.cc.o
+[ 49%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/ReconstructedParticleCollection.cc.o
+[ 50%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/ReconstructedParticleCollectionData.cc.o
+[ 51%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoParticleAssociation.cc.o
+[ 51%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableMCRecoParticleAssociation.cc.o
+[ 52%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoParticleAssociationObj.cc.o
+[ 53%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoParticleAssociationCollection.cc.o
+[ 53%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoParticleAssociationCollectionData.cc.o
+[ 54%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoCaloAssociation.cc.o
+[ 55%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableMCRecoCaloAssociation.cc.o
+[ 55%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoCaloAssociationObj.cc.o
+[ 56%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoCaloAssociationCollection.cc.o
+[ 57%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoCaloAssociationCollectionData.cc.o
+[ 58%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableMCRecoTrackerAssociation.cc.o
+[ 58%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoTrackerAssociation.cc.o
+[ 59%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoTrackerAssociationObj.cc.o
+[ 59%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoTrackerAssociationCollection.cc.o
+[ 60%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoTrackerAssociationCollectionData.cc.o
+[ 61%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoTrackerHitPlaneAssociation.cc.o
+[ 61%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableMCRecoTrackerHitPlaneAssociation.cc.o
+[ 62%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoTrackerHitPlaneAssociationObj.cc.o
+[ 62%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoTrackerHitPlaneAssociationCollectionData.cc.o
+[ 63%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoCaloParticleAssociation.cc.o
+[ 64%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoTrackerHitPlaneAssociationCollection.cc.o
+[ 65%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableMCRecoCaloParticleAssociation.cc.o
+[ 65%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoCaloParticleAssociationObj.cc.o
+[ 66%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoCaloParticleAssociationCollectionData.cc.o
+[ 67%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoCaloParticleAssociationCollection.cc.o
+[ 67%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoClusterParticleAssociation.cc.o
+[ 68%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableMCRecoClusterParticleAssociation.cc.o
+[ 69%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoClusterParticleAssociationObj.cc.o
+[ 69%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoClusterParticleAssociationCollection.cc.o
+[ 70%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoClusterParticleAssociationCollectionData.cc.o
+[ 70%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableMCRecoTrackParticleAssociation.cc.o
+[ 71%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoTrackParticleAssociation.cc.o
+[ 72%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoTrackParticleAssociationObj.cc.o
+[ 73%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoTrackParticleAssociationCollection.cc.o
+[ 73%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MCRecoTrackParticleAssociationCollectionData.cc.o
+[ 74%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/RecoParticleVertexAssociation.cc.o
+[ 75%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/MutableRecoParticleVertexAssociation.cc.o
+[ 75%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/RecoParticleVertexAssociationObj.cc.o
+[ 76%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/RecoParticleVertexAssociationCollection.cc.o
+[ 77%] Building CXX object edm4hep/CMakeFiles/edm4hep.dir/src/RecoParticleVertexAssociationCollectionData.cc.o
+[ 77%] Linking CXX shared library libedm4hep.so
+/cvmfs/sft.cern.ch/lcg/releases/gcc/10.3.0-f5826/x86_64-centos7/bin/g++ -fPIC -Wno-unused-parameter -Wno-unused-variable -Wpedantic -Wextra -Wall -fPIC        -DDROP_CGAL -O3 -DNDEBUG  -Wl,--allow-shlib-undefined -shared -Wl,-soname,libedm4hep.so -o libedm4hep.so CMakeFiles/edm4hep.dir/src/EventHeader.cc.o CMakeFiles/edm4hep.dir/src/MutableEventHeader.cc.o CMakeFiles/edm4hep.dir/src/EventHeaderObj.cc.o CMakeFiles/edm4hep.dir/src/EventHeaderCollection.cc.o CMakeFiles/edm4hep.dir/src/EventHeaderCollectionData.cc.o CMakeFiles/edm4hep.dir/src/MCParticle.cc.o CMakeFiles/edm4hep.dir/src/MutableMCParticle.cc.o CMakeFiles/edm4hep.dir/src/MCParticleObj.cc.o CMakeFiles/edm4hep.dir/src/MCParticleCollection.cc.o CMakeFiles/edm4hep.dir/src/MCParticleCollectionData.cc.o CMakeFiles/edm4hep.dir/src/SimTrackerHit.cc.o CMakeFiles/edm4hep.dir/src/MutableSimTrackerHit.cc.o CMakeFiles/edm4hep.dir/src/SimTrackerHitObj.cc.o CMakeFiles/edm4hep.dir/src/SimTrackerHitCollection.cc.o CMakeFiles/edm4hep.dir/src/SimTrackerHitCollectionData.cc.o CMakeFiles/edm4hep.dir/src/CaloHitContribution.cc.o CMakeFiles/edm4hep.dir/src/MutableCaloHitContribution.cc.o CMakeFiles/edm4hep.dir/src/CaloHitContributionObj.cc.o CMakeFiles/edm4hep.dir/src/CaloHitContributionCollection.cc.o CMakeFiles/edm4hep.dir/src/CaloHitContributionCollectionData.cc.o CMakeFiles/edm4hep.dir/src/SimCalorimeterHit.cc.o CMakeFiles/edm4hep.dir/src/MutableSimCalorimeterHit.cc.o CMakeFiles/edm4hep.dir/src/SimCalorimeterHitObj.cc.o CMakeFiles/edm4hep.dir/src/SimCalorimeterHitCollection.cc.o CMakeFiles/edm4hep.dir/src/SimCalorimeterHitCollectionData.cc.o CMakeFiles/edm4hep.dir/src/RawCalorimeterHit.cc.o CMakeFiles/edm4hep.dir/src/MutableRawCalorimeterHit.cc.o CMakeFiles/edm4hep.dir/src/RawCalorimeterHitObj.cc.o CMakeFiles/edm4hep.dir/src/RawCalorimeterHitCollection.cc.o CMakeFiles/edm4hep.dir/src/RawCalorimeterHitCollectionData.cc.o CMakeFiles/edm4hep.dir/src/CalorimeterHit.cc.o CMakeFiles/edm4hep.dir/src/MutableCalorimeterHit.cc.o CMakeFiles/edm4hep.dir/src/CalorimeterHitObj.cc.o CMakeFiles/edm4hep.dir/src/CalorimeterHitCollection.cc.o CMakeFiles/edm4hep.dir/src/CalorimeterHitCollectionData.cc.o CMakeFiles/edm4hep.dir/src/ParticleID.cc.o CMakeFiles/edm4hep.dir/src/MutableParticleID.cc.o CMakeFiles/edm4hep.dir/src/ParticleIDObj.cc.o CMakeFiles/edm4hep.dir/src/ParticleIDCollection.cc.o CMakeFiles/edm4hep.dir/src/ParticleIDCollectionData.cc.o CMakeFiles/edm4hep.dir/src/Cluster.cc.o CMakeFiles/edm4hep.dir/src/MutableCluster.cc.o CMakeFiles/edm4hep.dir/src/ClusterObj.cc.o CMakeFiles/edm4hep.dir/src/ClusterCollection.cc.o CMakeFiles/edm4hep.dir/src/ClusterCollectionData.cc.o CMakeFiles/edm4hep.dir/src/TrackerHit.cc.o CMakeFiles/edm4hep.dir/src/MutableTrackerHit.cc.o CMakeFiles/edm4hep.dir/src/TrackerHitObj.cc.o CMakeFiles/edm4hep.dir/src/TrackerHitCollection.cc.o CMakeFiles/edm4hep.dir/src/TrackerHitCollectionData.cc.o CMakeFiles/edm4hep.dir/src/TrackerHitPlane.cc.o CMakeFiles/edm4hep.dir/src/MutableTrackerHitPlane.cc.o CMakeFiles/edm4hep.dir/src/TrackerHitPlaneObj.cc.o CMakeFiles/edm4hep.dir/src/TrackerHitPlaneCollection.cc.o CMakeFiles/edm4hep.dir/src/TrackerHitPlaneCollectionData.cc.o CMakeFiles/edm4hep.dir/src/TPCHit.cc.o CMakeFiles/edm4hep.dir/src/MutableTPCHit.cc.o CMakeFiles/edm4hep.dir/src/TPCHitObj.cc.o CMakeFiles/edm4hep.dir/src/TPCHitCollection.cc.o CMakeFiles/edm4hep.dir/src/TPCHitCollectionData.cc.o CMakeFiles/edm4hep.dir/src/Track.cc.o CMakeFiles/edm4hep.dir/src/MutableTrack.cc.o CMakeFiles/edm4hep.dir/src/TrackObj.cc.o CMakeFiles/edm4hep.dir/src/TrackCollection.cc.o CMakeFiles/edm4hep.dir/src/TrackCollectionData.cc.o CMakeFiles/edm4hep.dir/src/Vertex.cc.o CMakeFiles/edm4hep.dir/src/MutableVertex.cc.o CMakeFiles/edm4hep.dir/src/VertexObj.cc.o CMakeFiles/edm4hep.dir/src/VertexCollection.cc.o CMakeFiles/edm4hep.dir/src/VertexCollectionData.cc.o CMakeFiles/edm4hep.dir/src/ReconstructedParticle.cc.o CMakeFiles/edm4hep.dir/src/MutableReconstructedParticle.cc.o CMakeFiles/edm4hep.dir/src/ReconstructedParticleObj.cc.o CMakeFiles/edm4hep.dir/src/ReconstructedParticleCollection.cc.o CMakeFiles/edm4hep.dir/src/ReconstructedParticleCollectionData.cc.o CMakeFiles/edm4hep.dir/src/MCRecoParticleAssociation.cc.o CMakeFiles/edm4hep.dir/src/MutableMCRecoParticleAssociation.cc.o CMakeFiles/edm4hep.dir/src/MCRecoParticleAssociationObj.cc.o CMakeFiles/edm4hep.dir/src/MCRecoParticleAssociationCollection.cc.o CMakeFiles/edm4hep.dir/src/MCRecoParticleAssociationCollectionData.cc.o CMakeFiles/edm4hep.dir/src/MCRecoCaloAssociation.cc.o CMakeFiles/edm4hep.dir/src/MutableMCRecoCaloAssociation.cc.o CMakeFiles/edm4hep.dir/src/MCRecoCaloAssociationObj.cc.o CMakeFiles/edm4hep.dir/src/MCRecoCaloAssociationCollection.cc.o CMakeFiles/edm4hep.dir/src/MCRecoCaloAssociationCollectionData.cc.o CMakeFiles/edm4hep.dir/src/MCRecoTrackerAssociation.cc.o CMakeFiles/edm4hep.dir/src/MutableMCRecoTrackerAssociation.cc.o CMakeFiles/edm4hep.dir/src/MCRecoTrackerAssociationObj.cc.o CMakeFiles/edm4hep.dir/src/MCRecoTrackerAssociationCollection.cc.o CMakeFiles/edm4hep.dir/src/MCRecoTrackerAssociationCollectionData.cc.o CMakeFiles/edm4hep.dir/src/MCRecoTrackerHitPlaneAssociation.cc.o CMakeFiles/edm4hep.dir/src/MutableMCRecoTrackerHitPlaneAssociation.cc.o CMakeFiles/edm4hep.dir/src/MCRecoTrackerHitPlaneAssociationObj.cc.o CMakeFiles/edm4hep.dir/src/MCRecoTrackerHitPlaneAssociationCollection.cc.o CMakeFiles/edm4hep.dir/src/MCRecoTrackerHitPlaneAssociationCollectionData.cc.o CMakeFiles/edm4hep.dir/src/MCRecoCaloParticleAssociation.cc.o CMakeFiles/edm4hep.dir/src/MutableMCRecoCaloParticleAssociation.cc.o CMakeFiles/edm4hep.dir/src/MCRecoCaloParticleAssociationObj.cc.o CMakeFiles/edm4hep.dir/src/MCRecoCaloParticleAssociationCollection.cc.o CMakeFiles/edm4hep.dir/src/MCRecoCaloParticleAssociationCollectionData.cc.o CMakeFiles/edm4hep.dir/src/MCRecoClusterParticleAssociation.cc.o CMakeFiles/edm4hep.dir/src/MutableMCRecoClusterParticleAssociation.cc.o CMakeFiles/edm4hep.dir/src/MCRecoClusterParticleAssociationObj.cc.o CMakeFiles/edm4hep.dir/src/MCRecoClusterParticleAssociationCollection.cc.o CMakeFiles/edm4hep.dir/src/MCRecoClusterParticleAssociationCollectionData.cc.o CMakeFiles/edm4hep.dir/src/MCRecoTrackParticleAssociation.cc.o CMakeFiles/edm4hep.dir/src/MutableMCRecoTrackParticleAssociation.cc.o CMakeFiles/edm4hep.dir/src/MCRecoTrackParticleAssociationObj.cc.o CMakeFiles/edm4hep.dir/src/MCRecoTrackParticleAssociationCollection.cc.o CMakeFiles/edm4hep.dir/src/MCRecoTrackParticleAssociationCollectionData.cc.o CMakeFiles/edm4hep.dir/src/RecoParticleVertexAssociation.cc.o CMakeFiles/edm4hep.dir/src/MutableRecoParticleVertexAssociation.cc.o CMakeFiles/edm4hep.dir/src/RecoParticleVertexAssociationObj.cc.o CMakeFiles/edm4hep.dir/src/RecoParticleVertexAssociationCollection.cc.o CMakeFiles/edm4hep.dir/src/RecoParticleVertexAssociationCollectionData.cc.o  -Wl,-rpath,/build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/podio/00.14.01/x86_64-centos7-gcc10-opt/lib64: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/podio/00.14.01/x86_64-centos7-gcc10-opt/lib64/libpodio.so 
+[ 77%] Built target edm4hep
+[ 78%] Generating edm4hepDict.cxx, edm4hepDictDict.rootmap
+[ 79%] Generating edm4hepRDF.cxx, edm4hepRDFDict.rootmap
+[ 80%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/MCParticleSIOBlock.cc.o
+[ 81%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/EventHeaderSIOBlock.cc.o
+Selected class -> edm4hep::Vector3f for ROOT: edm4hep::Vector3f
+Selected class -> edm4hep::Vector3d for ROOT: edm4hep::Vector3d
+Selected class -> edm4hep::Vector2i for ROOT: edm4hep::Vector2i
+Selected class -> edm4hep::Vector2f for ROOT: edm4hep::Vector2f
+Selected class -> edm4hep::TrackState for ROOT: edm4hep::TrackState
+Selected class -> edm4hep::ObjectID for ROOT: edm4hep::ObjectID
+Selected class -> edm4hep::EventHeaderData for ROOT: edm4hep::EventHeaderData
+Selected class -> edm4hep::EventHeader for ROOT: edm4hep::EventHeader
+Selected class -> edm4hep::EventHeaderCollection for ROOT: edm4hep::EventHeaderCollection
+Selected class -> edm4hep::MCParticleData for ROOT: edm4hep::MCParticleData
+Selected class -> edm4hep::MCParticle for ROOT: edm4hep::MCParticle
+Selected class -> edm4hep::MCParticleCollection for ROOT: edm4hep::MCParticleCollection
+Selected class -> edm4hep::SimTrackerHitData for ROOT: edm4hep::SimTrackerHitData
+Selected class -> edm4hep::SimTrackerHit for ROOT: edm4hep::SimTrackerHit
+Selected class -> edm4hep::SimTrackerHitCollection for ROOT: edm4hep::SimTrackerHitCollection
+Selected class -> edm4hep::CaloHitContributionData for ROOT: edm4hep::CaloHitContributionData
+Selected class -> edm4hep::CaloHitContribution for ROOT: edm4hep::CaloHitContribution
+Selected class -> edm4hep::CaloHitContributionCollection for ROOT: edm4hep::CaloHitContributionCollection
+Selected class -> edm4hep::SimCalorimeterHitData for ROOT: edm4hep::SimCalorimeterHitData
+Selected class -> edm4hep::SimCalorimeterHit for ROOT: edm4hep::SimCalorimeterHit
+Selected class -> edm4hep::SimCalorimeterHitCollection for ROOT: edm4hep::SimCalorimeterHitCollection
+Selected class -> edm4hep::RawCalorimeterHitData for ROOT: edm4hep::RawCalorimeterHitData
+Selected class -> edm4hep::RawCalorimeterHit for ROOT: edm4hep::RawCalorimeterHit
+Selected class -> edm4hep::RawCalorimeterHitCollection for ROOT: edm4hep::RawCalorimeterHitCollection
+Selected class -> edm4hep::CalorimeterHitData for ROOT: edm4hep::CalorimeterHitData
+Selected class -> edm4hep::CalorimeterHit for ROOT: edm4hep::CalorimeterHit
+Selected class -> edm4hep::CalorimeterHitCollection for ROOT: edm4hep::CalorimeterHitCollection
+Selected class -> edm4hep::ParticleIDData for ROOT: edm4hep::ParticleIDData
+Selected class -> edm4hep::ParticleID for ROOT: edm4hep::ParticleID
+Selected class -> edm4hep::ParticleIDCollection for ROOT: edm4hep::ParticleIDCollection
+Selected class -> edm4hep::ClusterData for ROOT: edm4hep::ClusterData
+Selected class -> edm4hep::Cluster for ROOT: edm4hep::Cluster
+Selected class -> edm4hep::ClusterCollection for ROOT: edm4hep::ClusterCollection
+Selected class -> edm4hep::TrackerHitData for ROOT: edm4hep::TrackerHitData
+Selected class -> edm4hep::TrackerHit for ROOT: edm4hep::TrackerHit
+Selected class -> edm4hep::TrackerHitCollection for ROOT: edm4hep::TrackerHitCollection
+Selected class -> edm4hep::TrackerHitPlaneData for ROOT: edm4hep::TrackerHitPlaneData
+Selected class -> edm4hep::TrackerHitPlane for ROOT: edm4hep::TrackerHitPlane
+Selected class -> edm4hep::TrackerHitPlaneCollection for ROOT: edm4hep::TrackerHitPlaneCollection
+Selected class -> edm4hep::TPCHitData for ROOT: edm4hep::TPCHitData
+Selected class -> edm4hep::TPCHit for ROOT: edm4hep::TPCHit
+Selected class -> edm4hep::TPCHitCollection for ROOT: edm4hep::TPCHitCollection
+Selected class -> edm4hep::TrackData for ROOT: edm4hep::TrackData
+Selected class -> edm4hep::Track for ROOT: edm4hep::Track
+Selected class -> edm4hep::TrackCollection for ROOT: edm4hep::TrackCollection
+Selected class -> edm4hep::VertexData for ROOT: edm4hep::VertexData
+Selected class -> edm4hep::Vertex for ROOT: edm4hep::Vertex
+Selected class -> edm4hep::ReconstructedParticleData for ROOT: edm4hep::ReconstructedParticleData
+Selected class -> edm4hep::ReconstructedParticle for ROOT: edm4hep::ReconstructedParticle
+Selected class -> edm4hep::VertexCollection for ROOT: edm4hep::VertexCollection
+Selected class -> edm4hep::ReconstructedParticleCollection for ROOT: edm4hep::ReconstructedParticleCollection
+Selected class -> edm4hep::MCRecoParticleA[ 81%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/SimTrackerHitSIOBlock.cc.o
+[ 82%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/CaloHitContributionSIOBlock.cc.o
+ssociationData for ROOT: edm4hep::MCRecoParticleAssociationData
+Selected class -> edm4hep::MCRecoParticleAssociation for ROOT: edm4hep::MCRecoParticleAssociation
+Selected class -> edm4hep::MCRecoParticleAssociationCollection for ROOT: edm4hep::MCRecoParticleAssociationCollection
+Selected class -> edm4hep::MCRecoCaloAssociationData for ROOT: edm4hep::MCRecoCaloAssociationData
+Selected class -> edm4hep::MCRecoCaloAssociation for ROOT: edm4hep::MCRecoCaloAssociation
+Selected class -> edm4hep::MCRecoCaloAssociationCollection for ROOT: edm4hep::MCRecoCaloAssociationCollection
+Selected class -> edm4hep::MCRecoTrackerAssociationData for ROOT: edm4hep::MCRecoTrackerAssociationData
+Selected class -> edm4hep::MCRecoTrackerAssociation for ROOT: edm4hep::MCRecoTrackerAssociation
+Selected class -> edm4hep::MCRecoTrackerAssociationCollection for ROOT: edm4hep::MCRecoTrackerAssociationCollection
+Selected class -> edm4hep::MCRecoTrackerHitPlaneAssociationData for ROOT: edm4hep::MCRecoTrackerHitPlaneAssociationData
+Selected class -> edm4hep::MCRecoTrackerHitPlaneAssociation for ROOT: edm4hep::MCRecoTrackerHitPlaneAssociation
+Selected class -> edm4hep::MCRecoTrackerHitPlaneAssociationCollection for ROOT: edm4hep::MCRecoTrackerHitPlaneAssociationCollection
+Selected class -> edm4hep::MCRecoCaloParticleAssociationData for ROOT: edm4hep::MCRecoCaloParticleAssociationData
+Selected class -> edm4hep::MCRecoCaloParticleAssociation for ROOT: edm4hep::MCRecoCaloParticleAssociation
+Selected class -> edm4hep::MCRecoCaloParticleAssociationCollection for ROOT: edm4hep::MCRecoCaloParticleAssociationCollection
+Selected class -> edm4hep::MCRecoClusterParticleAssociationData for ROOT: edm4hep::MCRecoClusterParticleAssociationData
+Selected class -> edm4hep::MCRecoClusterParticleAssociation for ROOT: edm4hep::MCRecoClusterParticleAssociation
+Selected class -> edm4hep::MCRecoClusterParticleAssociationCollection for ROOT: edm4hep::MCRecoClusterParticleAssociationCollection
+Selected class -> edm4hep::MCRecoTrackParticleAssociationData for ROOT: edm4hep::MCRecoTrackParticleAssociationData
+Selected class -> edm4hep::MCRecoTrackParticleAssociation for ROOT: edm4hep::MCRecoTrackParticleAssociation
+Selected class -> edm4hep::MCRecoTrackParticleAssociationCollection for ROOT: edm4hep::MCRecoTrackParticleAssociationCollection
+Selected class -> edm4hep::RecoParticleVertexAssociationData for ROOT: edm4hep::RecoParticleVertexAssociationData
+Selected class -> edm4hep::RecoParticleVertexAssociation for ROOT: edm4hep::RecoParticleVertexAssociation
+Selected class -> edm4hep::RecoParticleVertexAssociationCollection for ROOT: edm4hep::RecoParticleVertexAssociationCollection
+[ 82%] Building CXX object dataframe/CMakeFiles/edm4hepRDF.dir/edm4hepRDF.cc.o
+[ 83%] Building CXX object edm4hep/CMakeFiles/edm4hepDict.dir/edm4hepDict.cxx.o
+[ 84%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/SimCalorimeterHitSIOBlock.cc.o
+[ 85%] Building CXX object dataframe/CMakeFiles/edm4hepRDF.dir/edm4hepRDF.cxx.o
+[ 85%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/RawCalorimeterHitSIOBlock.cc.o
+[ 86%] Linking CXX shared library libedm4hepRDF.so
+[ 87%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/CalorimeterHitSIOBlock.cc.o
+/cvmfs/sft.cern.ch/lcg/releases/gcc/10.3.0-f5826/x86_64-centos7/bin/g++ -fPIC -Wno-unused-parameter -Wno-unused-variable -Wpedantic -Wextra -Wall -fPIC        -DDROP_CGAL -O3 -DNDEBUG  -Wl,--allow-shlib-undefined -shared -Wl,-soname,libedm4hepRDF.so -o libedm4hepRDF.so CMakeFiles/edm4hepRDF.dir/edm4hepRDF.cc.o CMakeFiles/edm4hepRDF.dir/edm4hepRDF.cxx.o  -Wl,-rpath,/build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/EDM4hep-00.04.01/src/EDM4hep-00.04.01-build/edm4hep:/build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/ROOT/v6-26-00-patches/x86_64-centos7-gcc10-opt/lib:/build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/podio/00.14.01/x86_64-centos7-gcc10-opt/lib64: ../edm4hep/libedm4hep.so /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/ROOT/v6-26-00-patches/x86_64-centos7-gcc10-opt/lib/libPhysics.so /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/podio/00.14.01/x86_64-centos7-gcc10-opt/lib64/libpodio.so /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/ROOT/v6-26-00-patches/x86_64-centos7-gcc10-opt/lib/libMatrix.so /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/ROOT/v6-26-00-patches/x86_64-centos7-gcc10-opt/lib/libMathCore.so /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/ROOT/v6-26-00-patches/x86_64-centos7-gcc10-opt/lib/libImt.so /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/ROOT/v6-26-00-patches/x86_64-centos7-gcc10-opt/lib/libMultiProc.so /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/ROOT/v6-26-00-patches/x86_64-centos7-gcc10-opt/lib/libNet.so /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/ROOT/v6-26-00-patches/x86_64-centos7-gcc10-opt/lib/libRIO.so /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/ROOT/v6-26-00-patches/x86_64-centos7-gcc10-opt/lib/libThread.so /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/ROOT/v6-26-00-patches/x86_64-centos7-gcc10-opt/lib/libCore.so -lpthread 
+[ 87%] Built target edm4hepRDF
+[ 88%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/ParticleIDSIOBlock.cc.o
+[ 88%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/ClusterSIOBlock.cc.o
+[ 88%] Linking CXX shared library libedm4hepDict.so
+/cvmfs/sft.cern.ch/lcg/releases/gcc/10.3.0-f5826/x86_64-centos7/bin/g++ -fPIC -Wno-unused-parameter -Wno-unused-variable -Wpedantic -Wextra -Wall -fPIC        -DDROP_CGAL -O3 -DNDEBUG  -Wl,--allow-shlib-undefined -shared -Wl,-soname,libedm4hepDict.so -o libedm4hepDict.so CMakeFiles/edm4hepDict.dir/edm4hepDict.cxx.o  -Wl,-rpath,/build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/EDM4hep-00.04.01/src/EDM4hep-00.04.01-build/edm4hep:/build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/podio/00.14.01/x86_64-centos7-gcc10-opt/lib64:/build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/ROOT/v6-26-00-patches/x86_64-centos7-gcc10-opt/lib: libedm4hep.so /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/podio/00.14.01/x86_64-centos7-gcc10-opt/lib64/libpodio.so /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/ROOT/v6-26-00-patches/x86_64-centos7-gcc10-opt/lib/libCore.so 
+[ 89%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/TrackerHitSIOBlock.cc.o
+[ 89%] Built target edm4hepDict
+[ 90%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/TrackerHitPlaneSIOBlock.cc.o
+[ 90%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/TPCHitSIOBlock.cc.o
+[ 91%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/TrackSIOBlock.cc.o
+[ 92%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/VertexSIOBlock.cc.o
+[ 92%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/ReconstructedParticleSIOBlock.cc.o
+[ 93%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/MCRecoParticleAssociationSIOBlock.cc.o
+[ 94%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/MCRecoCaloAssociationSIOBlock.cc.o
+[ 94%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/MCRecoTrackerAssociationSIOBlock.cc.o
+[ 95%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/MCRecoTrackerHitPlaneAssociationSIOBlock.cc.o
+[ 96%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/MCRecoCaloParticleAssociationSIOBlock.cc.o
+[ 96%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/MCRecoClusterParticleAssociationSIOBlock.cc.o
+[ 97%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/MCRecoTrackParticleAssociationSIOBlock.cc.o
+[ 98%] Building CXX object edm4hep/CMakeFiles/edm4hepSioBlocks.dir/src/RecoParticleVertexAssociationSIOBlock.cc.o
+[100%] Linking CXX shared library libedm4hepSioBlocks.so
+/cvmfs/sft.cern.ch/lcg/releases/gcc/10.3.0-f5826/x86_64-centos7/bin/g++ -fPIC -Wno-unused-parameter -Wno-unused-variable -Wpedantic -Wextra -Wall -fPIC        -DDROP_CGAL -O3 -DNDEBUG  -Wl,--allow-shlib-undefined -shared -Wl,-soname,libedm4hepSioBlocks.so -o libedm4hepSioBlocks.so CMakeFiles/edm4hepSioBlocks.dir/src/EventHeaderSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/MCParticleSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/SimTrackerHitSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/CaloHitContributionSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/SimCalorimeterHitSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/RawCalorimeterHitSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/CalorimeterHitSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/ParticleIDSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/ClusterSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/TrackerHitSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/TrackerHitPlaneSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/TPCHitSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/TrackSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/VertexSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/ReconstructedParticleSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/MCRecoParticleAssociationSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/MCRecoCaloAssociationSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/MCRecoTrackerAssociationSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/MCRecoTrackerHitPlaneAssociationSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/MCRecoCaloParticleAssociationSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/MCRecoClusterParticleAssociationSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/MCRecoTrackParticleAssociationSIOBlock.cc.o CMakeFiles/edm4hepSioBlocks.dir/src/RecoParticleVertexAssociationSIOBlock.cc.o  -Wl,-rpath,/build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/EDM4hep-00.04.01/src/EDM4hep-00.04.01-build/edm4hep:/build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/podio/00.14.01/x86_64-centos7-gcc10-opt/lib64:/build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/SIO/00.01.00/x86_64-centos7-gcc10-opt/lib64: libedm4hep.so /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/podio/00.14.01/x86_64-centos7-gcc10-opt/lib64/libpodioSioIO.so /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/SIO/00.01.00/x86_64-centos7-gcc10-opt/lib64/libsio.so.0.1.0 /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/podio/00.14.01/x86_64-centos7-gcc10-opt/lib64/libpodio.so -ldl 
+[100%] Built target edm4hepSioBlocks

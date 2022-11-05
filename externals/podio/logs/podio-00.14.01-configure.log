@@ -1,0 +1,53 @@
+-- The C compiler identification is GNU 10.3.0
+-- The CXX compiler identification is GNU 10.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /cvmfs/sft.cern.ch/lcg/releases/gcc/10.3.0.fp-95d4b/x86_64-centos7/bin/gcc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /cvmfs/sft.cern.ch/lcg/releases/gcc/10.3.0.fp-95d4b/x86_64-centos7/bin/g++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Setting C++ standard: '17'.
+-- Performing Test CXX_FLAG_WORKS__Wshadow
+-- Performing Test CXX_FLAG_WORKS__Wshadow - Success
+-- Adding -Wshadow to CXX_FLAGS
+-- Performing Test CXX_FLAG_WORKS__Wformat_security
+-- Performing Test CXX_FLAG_WORKS__Wformat_security - Success
+-- Adding -Wformat-security to CXX_FLAGS
+-- Performing Test CXX_FLAG_WORKS__Wno_long_long
+-- Performing Test CXX_FLAG_WORKS__Wno_long_long - Success
+-- Adding -Wno-long-long to CXX_FLAGS
+-- Performing Test CXX_FLAG_WORKS__Wdeprecated
+-- Performing Test CXX_FLAG_WORKS__Wdeprecated - Success
+-- Adding -Wdeprecated to CXX_FLAGS
+-- Performing Test CXX_FLAG_WORKS__fdiagnostics_color=auto
+-- Performing Test CXX_FLAG_WORKS__fdiagnostics_color=auto - Success
+-- Adding -fdiagnostics-color=auto to CXX_FLAGS
+-- Performing Test CXX_FLAG_WORKS__Wall
+-- Performing Test CXX_FLAG_WORKS__Wall - Success
+-- Adding -Wall to CXX_FLAGS
+-- Performing Test CXX_FLAG_WORKS__Wextra
+-- Performing Test CXX_FLAG_WORKS__Wextra - Success
+-- Adding -Wextra to CXX_FLAGS
+-- Performing Test CXX_FLAG_WORKS__pedantic
+-- Performing Test CXX_FLAG_WORKS__pedantic - Success
+-- Adding -pedantic to CXX_FLAGS
+-- Performing Test CXX_FLAG_WORKS__WeffcPP
+-- Performing Test CXX_FLAG_WORKS__WeffcPP - Success
+-- Adding -Weffc++ to CXX_FLAGS
+-- Detected GNU compatible linker
+-- Found nlohmann_json: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/jsonmcpp/3.10.5/x86_64-centos7-gcc10fp-opt/lib64/cmake/nlohmann_json/nlohmann_jsonConfig.cmake (found suitable version "3.10.5", minimum required is "3.10.5") 
+-- Python version used for building ROOT 3.9.12
+-- Required python version 3.9.12
+-- Found Python: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/Python/3.9.12/x86_64-centos7-gcc10fp-opt/bin/python3.9 (found suitable exact version "3.9.12") found components: Development Interpreter Development.Module Development.Embed 
+-- Found ZLIB: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/zlib/1.2.11/x86_64-centos7-gcc10fp-opt/lib/libz.so (found version "1.2.11") 
+-- Found SIO: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3/SIO/00.01.00/x86_64-centos7-gcc10fp-opt/include  
+-- Checking for filesystem library support of compiler
+-- Compiler supports filesystem when linking against ''
+-- Found SIO library - will build SIO I/O support
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/podio-00.14.01/src/podio-00.14.01-build

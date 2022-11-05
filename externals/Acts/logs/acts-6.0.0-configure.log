@@ -1,0 +1,124 @@
+-- The CXX compiler identification is GNU 10.3.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /cvmfs/sft.cern.ch/lcg/releases/gcc/10.3.0-f5826/x86_64-centos7/bin/g++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Including DD4hepBuild.cmake
+-- Found Boost: /home/jenkins/agent/workspace/lcg_jenk8s_nightly/install/devjenk8s/Boost/1.75.0/x86_64-centos7-gcc10-opt/include (found version "1.75.0")  
+-- |++> Compiler supports filesystem when linking against stdc++fs
+-- DD4hep uses Geant4
+-- Looking for C++ include pthread.h
+-- Looking for C++ include pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Check if compiler accepts -pthread
+-- Check if compiler accepts -pthread - yes
+-- Found Threads: TRUE  
+-- Found XercesC: /home/jenkins/agent/workspace/lcg_jenk8s_nightly/install/devjenk8s/XercesC/3.2.3/x86_64-centos7-gcc10-opt/lib/libxerces-c.so (found suitable version "3.2.3", minimum required is "3.2.3") 
+-- Detected Compiler: GCC 10.3.0
+-- Performing Test check_cxx_compiler_flag__Wabi
+-- Performing Test check_cxx_compiler_flag__Wabi - Success
+-- Performing Test check_cxx_compiler_flag__fabi_version_0
+-- Performing Test check_cxx_compiler_flag__fabi_version_0 - Success
+-- Performing Test check_cxx_compiler_flag__fabi_compat_version_0
+-- Performing Test check_cxx_compiler_flag__fabi_compat_version_0 - Success
+-- Performing Test check_cxx_compiler_flag__ffp_contract_fast
+-- Performing Test check_cxx_compiler_flag__ffp_contract_fast - Success
+-- target changed from "" to "auto"
+-- Detected CPU: broadwell
+-- Performing Test check_cxx_compiler_flag__march_broadwell
+-- Performing Test check_cxx_compiler_flag__march_broadwell - Success
+-- Performing Test check_cxx_compiler_flag__msse2
+-- Performing Test check_cxx_compiler_flag__msse2 - Success
+-- Performing Test check_cxx_compiler_flag__msse3
+-- Performing Test check_cxx_compiler_flag__msse3 - Success
+-- Looking for C++ include pmmintrin.h
+-- Looking for C++ include pmmintrin.h - found
+-- Performing Test check_cxx_compiler_flag__mssse3
+-- Performing Test check_cxx_compiler_flag__mssse3 - Success
+-- Looking for C++ include tmmintrin.h
+-- Looking for C++ include tmmintrin.h - found
+-- Performing Test check_cxx_compiler_flag__msse4_1
+-- Performing Test check_cxx_compiler_flag__msse4_1 - Success
+-- Looking for C++ include smmintrin.h
+-- Looking for C++ include smmintrin.h - found
+-- Performing Test check_cxx_compiler_flag__msse4_2
+-- Performing Test check_cxx_compiler_flag__msse4_2 - Success
+-- Performing Test check_cxx_compiler_flag__mavx
+-- Performing Test check_cxx_compiler_flag__mavx - Success
+-- Looking for C++ include immintrin.h
+-- Looking for C++ include immintrin.h - found
+-- Performing Test check_cxx_compiler_flag__mfma
+-- Performing Test check_cxx_compiler_flag__mfma - Success
+-- Performing Test check_cxx_compiler_flag__mbmi2
+-- Performing Test check_cxx_compiler_flag__mbmi2 - Success
+-- Performing Test check_cxx_compiler_flag__mavx2
+-- Performing Test check_cxx_compiler_flag__mavx2 - Success
+-- Performing Test check_cxx_compiler_flag__mno_sse4a
+-- Performing Test check_cxx_compiler_flag__mno_sse4a - Success
+-- Performing Test check_cxx_compiler_flag__mno_xop
+-- Performing Test check_cxx_compiler_flag__mno_xop - Success
+-- Performing Test check_cxx_compiler_flag__mno_fma4
+-- Performing Test check_cxx_compiler_flag__mno_fma4 - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512f
+-- Performing Test check_cxx_compiler_flag__mno_avx512f - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512vl
+-- Performing Test check_cxx_compiler_flag__mno_avx512vl - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512pf
+-- Performing Test check_cxx_compiler_flag__mno_avx512pf - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512er
+-- Performing Test check_cxx_compiler_flag__mno_avx512er - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512cd
+-- Performing Test check_cxx_compiler_flag__mno_avx512cd - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512dq
+-- Performing Test check_cxx_compiler_flag__mno_avx512dq - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512bw
+-- Performing Test check_cxx_compiler_flag__mno_avx512bw - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512ifma
+-- Performing Test check_cxx_compiler_flag__mno_avx512ifma - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512vbmi
+-- Performing Test check_cxx_compiler_flag__mno_avx512vbmi - Success
+-- Found XercesC: /home/jenkins/agent/workspace/lcg_jenk8s_nightly/install/devjenk8s/XercesC/3.2.3/x86_64-centos7-gcc10-opt/lib/libxerces-c.so (found version "3.2.3") 
+-- Found X11: /usr/include   
+-- Looking for XOpenDisplay in /usr/lib64/libX11.so;/usr/lib64/libXext.so
+-- Looking for XOpenDisplay in /usr/lib64/libX11.so;/usr/lib64/libXext.so - found
+-- Looking for gethostbyname
+-- Looking for gethostbyname - found
+-- Looking for connect
+-- Looking for connect - found
+-- Looking for remove
+-- Looking for remove - found
+-- Looking for shmat
+-- Looking for shmat - found
+-- Looking for IceConnectionNumber in ICE
+-- Looking for IceConnectionNumber in ICE - found
+-- Found OpenGL: /usr/lib64/libOpenGL.so   
+-- Found Motif: /usr/lib64/libXm.so  
+-- Found nlohmann_json: /home/jenkins/agent/workspace/lcg_jenk8s_nightly/install/devjenk8s/jsonmcpp/3.9.1/x86_64-centos7-gcc10-opt/lib64/cmake/nlohmann_json/nlohmann_jsonConfig.cmake (found suitable version "3.9.1", minimum required is "3.9.1") 
+-- Found Python: /cvmfs/sft-nightlies.cern.ch/lcg/latest/Python/3.9.6-b0f98/x86_64-centos7-gcc10-opt/include/python3.9 (found suitable exact version "3.9.6") found components: Development Development.Module Development.Embed 
+-- DD4hep uses LCIO
+-- Check for LCIO (2.16.1)
+-- Check for LCIO_LIBRARIES: lcio
+-- Check for LCIO_LCIO_LIBRARY: /home/jenkins/agent/workspace/lcg_jenk8s_nightly/install/devjenk8s/LCIO/02.16.01/x86_64-centos7-gcc10-opt/lib/liblcio.so -- ok
+-- Found LCIO: /home/jenkins/agent/workspace/lcg_jenk8s_nightly/install/devjenk8s/LCIO/02.16.01/x86_64-centos7-gcc10-opt  
+-- DD4hep uses TBB
+-- |++> DD4hep: Looking for Components: DDCoreDDDetectors
+-- Found DD4hep: /home/jenkins/agent/workspace/lcg_jenk8s_nightly/install/devjenk8s/DD4hep/01.16.01/x86_64-centos7-gcc10-opt (Required is at least version "1.11") 
+-- Enable component 'Core' in 'Core'
+-- Ignore component 'PluginAutodiff' in 'Plugins/Autodiff'
+-- Ignore component 'PluginCuda' in 'Plugins/Cuda'
+-- Enable component 'PluginDigitization' in 'Plugins/Digitization'
+-- Enable component 'PluginIdentification' in 'Plugins/Identification'
+-- Ignore component 'PluginJson' in 'Plugins/Json'
+-- Ignore component 'PluginLegacy' in 'Plugins/Legacy'
+-- Ignore component 'PluginOnnx' in 'Plugins/Onnx'
+-- Ignore component 'PluginSycl' in 'Plugins/Sycl'
+-- Enable component 'PluginTGeo' in 'Plugins/TGeo'
+-- Enable component 'PluginDD4hep' in 'Plugins/DD4hep'
+-- Ignore component 'Fatras' in 'Fatras'
+-- Ignore subdirectory 'Examples'
+-- Ignore subdirectory 'docs'
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jenkins/agent/workspace/lcg_jenk8s_nightly/build/frameworks/acts-6.0.0/src/acts-6.0.0-build

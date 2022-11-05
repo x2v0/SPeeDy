@@ -1,0 +1,177 @@
+-- The C compiler identification is GNU 11.3.0
+-- The CXX compiler identification is GNU 11.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /cvmfs/sft.cern.ch/lcg/releases/gcc/11.3.0-ad0f5/x86_64-centos7/bin/gcc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /cvmfs/sft.cern.ch/lcg/releases/gcc/11.3.0-ad0f5/x86_64-centos7/bin/g++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Checking C++ feature CXXSTDLIB_FILESYSTEM_NATIVE - Success
+-- Performing Test HAVE_TLS
+-- Performing Test HAVE_TLS - Success
+-- Found XercesC: /build/jenkins/workspace/lcg_nightly_pipeline/install/devnxcals/XercesC/3.2.3/x86_64-centos7-gcc11-opt/lib/libxerces-c.so (found version "3.2.3") 
+-- Detected Compiler: GCC 11.3.0
+-- Performing Test check_cxx_compiler_flag__Wabi
+-- Performing Test check_cxx_compiler_flag__Wabi - Success
+-- Performing Test check_cxx_compiler_flag__fabi_version_0
+-- Performing Test check_cxx_compiler_flag__fabi_version_0 - Success
+-- Performing Test check_cxx_compiler_flag__fabi_compat_version_0
+-- Performing Test check_cxx_compiler_flag__fabi_compat_version_0 - Success
+-- Performing Test check_cxx_compiler_flag__ffp_contract_fast
+-- Performing Test check_cxx_compiler_flag__ffp_contract_fast - Success
+-- target changed from "" to "auto"
+-- Detected CPU: broadwell
+-- Performing Test check_cxx_compiler_flag__march_broadwell
+-- Performing Test check_cxx_compiler_flag__march_broadwell - Success
+-- Performing Test check_cxx_compiler_flag__msse2
+-- Performing Test check_cxx_compiler_flag__msse2 - Success
+-- Performing Test check_cxx_compiler_flag__msse3
+-- Performing Test check_cxx_compiler_flag__msse3 - Success
+-- Looking for C++ include pmmintrin.h
+-- Looking for C++ include pmmintrin.h - found
+-- Performing Test check_cxx_compiler_flag__mssse3
+-- Performing Test check_cxx_compiler_flag__mssse3 - Success
+-- Looking for C++ include tmmintrin.h
+-- Looking for C++ include tmmintrin.h - found
+-- Performing Test check_cxx_compiler_flag__msse4_1
+-- Performing Test check_cxx_compiler_flag__msse4_1 - Success
+-- Looking for C++ include smmintrin.h
+-- Looking for C++ include smmintrin.h - found
+-- Performing Test check_cxx_compiler_flag__msse4_2
+-- Performing Test check_cxx_compiler_flag__msse4_2 - Success
+-- Performing Test check_cxx_compiler_flag__mavx
+-- Performing Test check_cxx_compiler_flag__mavx - Success
+-- Looking for C++ include immintrin.h
+-- Looking for C++ include immintrin.h - found
+-- Performing Test check_cxx_compiler_flag__mfma
+-- Performing Test check_cxx_compiler_flag__mfma - Success
+-- Performing Test check_cxx_compiler_flag__mbmi2
+-- Performing Test check_cxx_compiler_flag__mbmi2 - Success
+-- Performing Test check_cxx_compiler_flag__mavx2
+-- Performing Test check_cxx_compiler_flag__mavx2 - Success
+-- Performing Test check_cxx_compiler_flag__mno_sse4a
+-- Performing Test check_cxx_compiler_flag__mno_sse4a - Success
+-- Performing Test check_cxx_compiler_flag__mno_xop
+-- Performing Test check_cxx_compiler_flag__mno_xop - Success
+-- Performing Test check_cxx_compiler_flag__mno_fma4
+-- Performing Test check_cxx_compiler_flag__mno_fma4 - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512f
+-- Performing Test check_cxx_compiler_flag__mno_avx512f - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512vl
+-- Performing Test check_cxx_compiler_flag__mno_avx512vl - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512pf
+-- Performing Test check_cxx_compiler_flag__mno_avx512pf - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512er
+-- Performing Test check_cxx_compiler_flag__mno_avx512er - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512cd
+-- Performing Test check_cxx_compiler_flag__mno_avx512cd - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512dq
+-- Performing Test check_cxx_compiler_flag__mno_avx512dq - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512bw
+-- Performing Test check_cxx_compiler_flag__mno_avx512bw - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512ifma
+-- Performing Test check_cxx_compiler_flag__mno_avx512ifma - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512vbmi
+-- Performing Test check_cxx_compiler_flag__mno_avx512vbmi - Success
+-- Found OpenGL: /usr/lib64/libOpenGL.so   
+-- Found X11: /usr/include   
+-- Looking for XOpenDisplay in /usr/lib64/libX11.so;/usr/lib64/libXext.so
+-- Looking for XOpenDisplay in /usr/lib64/libX11.so;/usr/lib64/libXext.so - found
+-- Looking for gethostbyname
+-- Looking for gethostbyname - found
+-- Looking for connect
+-- Looking for connect - found
+-- Looking for remove
+-- Looking for remove - found
+-- Looking for shmat
+-- Looking for shmat - found
+-- Looking for IceConnectionNumber in ICE
+-- Looking for IceConnectionNumber in ICE - found
+-- Found Motif: /usr/lib64/libXm.so  
+-- Reusing dataset G4NDL (4.6)
+-- Reusing dataset G4EMLOW (8.0)
+-- Reusing dataset PhotonEvaporation (5.7)
+-- Reusing dataset RadioactiveDecay (5.6)
+-- Reusing dataset G4PARTICLEXS (4.0)
+-- Reusing dataset G4PII (1.3)
+-- Reusing dataset RealSurface (2.2)
+-- Reusing dataset G4SAIDDATA (2.0)
+-- Reusing dataset G4ABLA (3.1)
+-- Reusing dataset G4INCL (1.0)
+-- Reusing dataset G4ENSDFSTATE (2.3)
+-- Looking for dlfcn.h
+-- Looking for dlfcn.h - found
+-- Looking for fcntl.h
+-- Looking for fcntl.h - found
+-- Looking for inttypes.h
+-- Looking for inttypes.h - found
+-- Looking for memory.h
+-- Looking for memory.h - found
+-- Looking for stdint.h
+-- Looking for stdint.h - found
+-- Looking for stdlib.h
+-- Looking for stdlib.h - found
+-- Looking for strings.h
+-- Looking for strings.h - found
+-- Looking for string.h
+-- Looking for string.h - found
+-- Looking for sys/stat.h
+-- Looking for sys/stat.h - found
+-- Looking for sys/types.h
+-- Looking for sys/types.h - found
+-- Looking for unistd.h
+-- Looking for unistd.h - found
+-- Looking for getpagesize
+-- Looking for getpagesize - found
+-- Looking for bcopy
+-- Looking for bcopy - found
+-- Looking for memmove
+-- Looking for memmove - found
+-- Looking for mmap
+-- Looking for mmap - found
+-- Looking for 4 include files stdlib.h, ..., float.h
+-- Looking for 4 include files stdlib.h, ..., float.h - found
+-- Looking for off_t
+-- Looking for off_t - not found
+-- Looking for size_t
+-- Looking for size_t - not found
+-- Looking for stddef.h
+-- Looking for stddef.h - found
+-- Check size of off64_t
+-- Check size of off64_t - done
+-- Looking for fseeko
+-- Looking for fseeko - found
+-- Looking for unistd.h
+-- Looking for unistd.h - found
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Check if compiler accepts -pthread
+-- Check if compiler accepts -pthread - yes
+-- Found Threads: TRUE  
+-- Found PythonInterp: /build/jenkins/workspace/lcg_nightly_pipeline/install/devnxcals/Python/3.9.12/x86_64-centos7-gcc11-opt/bin/python3 (found suitable version "3.9.12", minimum required is "3.0") 
+-- Found PythonLibs: /build/jenkins/workspace/lcg_nightly_pipeline/install/devnxcals/Python/3.9.12/x86_64-centos7-gcc11-opt/lib/libpython3.9.so (found version "3.9.12") 
+-- Found Boost: /build/jenkins/workspace/lcg_nightly_pipeline/install/devnxcals/Boost/1.80.0/x86_64-centos7-gcc11-opt/lib/cmake/Boost-1.80.0/BoostConfig.cmake (found suitable version "1.80.0", minimum required is "1.65") found components: python39 
+-- The following Geant4 features are enabled:
+CMAKE_CXX_STANDARD: Compiling against C++ Standard '17'
+GEANT4_BUILD_MULTITHREADED: Build multithread enabled libraries
+GEANT4_BUILD_TLS_MODEL: Building with TLS model 'global-dynamic'
+GEANT4_USE_SYSTEM_CLHEP: Using system CLHEP library
+GEANT4_USE_GDML: Building Geant4 with GDML support
+GEANT4_USE_G3TOG4: Building Geant3 ASCII call list reader library
+GEANT4_USE_USOLIDS: Replacing Geant4 solids with all VecGeom equivalents (EXPERIMENTAL)
+GEANT4_USE_QT: Build Geant4 with Qt support
+GEANT4_USE_XM: Build Geant4 with Xm Support
+GEANT4_USE_OPENGL_X11: Build Geant4 OpenGL driver with X11 support
+GEANT4_USE_RAYTRACER_X11: Build RayTracer driver with X11 support
+GEANT4_USE_QT3D: Build Geant4 Qt3D driver
+GEANT4_USE_PYTHON: Building bindings for Python 3.9
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /build/jenkins/workspace/lcg_nightly_pipeline/build/projects/Geant4-11.0.3/src/Geant4-11.0.3-build

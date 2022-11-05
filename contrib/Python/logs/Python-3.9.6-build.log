@@ -1,0 +1,236 @@
+LD_LIBRARY_PATH=/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python-3.9.6-build:/build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/libffi/3.2.1/x86_64-centos7-gcc11-opt/lib64:/build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/libffi/3.2.1/x86_64-centos7-gcc11-opt/lib:/build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/sqlite/3320300/x86_64-centos7-gcc11-opt/lib64:/build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/sqlite/3320300/x86_64-centos7-gcc11-opt/lib:/cvmfs/sft.cern.ch/lcg/releases/gcc/11.1.0-e80bf/x86_64-centos7/lib:/cvmfs/sft.cern.ch/lcg/releases/gcc/11.1.0-e80bf/x86_64-centos7/lib64:/cvmfs/sft.cern.ch/lcg/releases/binutils/2.36.1-a9696/x86_64-centos7/lib CC='/cvmfs/sft.cern.ch/lcg/releases/gcc/11.1.0-e80bf/x86_64-centos7/bin/gcc -pthread' LDSHARED='/cvmfs/sft.cern.ch/lcg/releases/gcc/11.1.0-e80bf/x86_64-centos7/bin/gcc -pthread -shared -Wl,-rpath,'/../lib' -L/build/jenkins/workspace/lcg_nightly_pipeline/install/dev4/libffi/3.2.1/x86_64-centos7-gcc11-opt/lib64   ' OPT='-DNDEBUG -g -fwrapv -O3 -Wall' 	_TCLTK_INCLUDES='' _TCLTK_LIBS='' 	./python -E /build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/setup.py -q build
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c: In function ‘word_to_string’:
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |         ^~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:354:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  354 |     case 20: EXTRACT_DIGIT(s, x, 10000000000000000000ULL, dot); /* GCOV_NOT_REACHED */
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:35: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |                                   ^
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:354:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  354 |     case 20: EXTRACT_DIGIT(s, x, 10000000000000000000ULL, dot); /* GCOV_NOT_REACHED */
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |         ^~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:355:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  355 |     case 19: EXTRACT_DIGIT(s, x, 1000000000000000000ULL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:35: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |                                   ^
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:355:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  355 |     case 19: EXTRACT_DIGIT(s, x, 1000000000000000000ULL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |         ^~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:356:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  356 |     case 18: EXTRACT_DIGIT(s, x, 100000000000000000ULL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:35: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |                                   ^
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:356:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  356 |     case 18: EXTRACT_DIGIT(s, x, 100000000000000000ULL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |         ^~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:357:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  357 |     case 17: EXTRACT_DIGIT(s, x, 10000000000000000ULL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:35: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |                                   ^
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:357:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  357 |     case 17: EXTRACT_DIGIT(s, x, 10000000000000000ULL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |         ^~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:358:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  358 |     case 16: EXTRACT_DIGIT(s, x, 1000000000000000ULL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:35: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |                                   ^
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:358:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  358 |     case 16: EXTRACT_DIGIT(s, x, 1000000000000000ULL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |         ^~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:359:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  359 |     case 15: EXTRACT_DIGIT(s, x, 100000000000000ULL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:35: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |                                   ^
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:359:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  359 |     case 15: EXTRACT_DIGIT(s, x, 100000000000000ULL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |         ^~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:360:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  360 |     case 14: EXTRACT_DIGIT(s, x, 10000000000000ULL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:35: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |                                   ^
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:360:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  360 |     case 14: EXTRACT_DIGIT(s, x, 10000000000000ULL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |         ^~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:361:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  361 |     case 13: EXTRACT_DIGIT(s, x, 1000000000000ULL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:35: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |                                   ^
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:361:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  361 |     case 13: EXTRACT_DIGIT(s, x, 1000000000000ULL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |         ^~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:362:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  362 |     case 12: EXTRACT_DIGIT(s, x, 100000000000ULL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:35: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |                                   ^
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:362:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  362 |     case 12: EXTRACT_DIGIT(s, x, 100000000000ULL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |         ^~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:363:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  363 |     case 11: EXTRACT_DIGIT(s, x, 10000000000ULL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:35: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |                                   ^
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:363:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  363 |     case 11: EXTRACT_DIGIT(s, x, 10000000000ULL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |         ^~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:365:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  365 |     case 10: EXTRACT_DIGIT(s, x, 1000000000UL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:35: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |                                   ^
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:365:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  365 |     case 10: EXTRACT_DIGIT(s, x, 1000000000UL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |         ^~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:366:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  366 |     case 9:  EXTRACT_DIGIT(s, x, 100000000UL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:35: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |                                   ^
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:366:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  366 |     case 9:  EXTRACT_DIGIT(s, x, 100000000UL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |         ^~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:367:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  367 |     case 8:  EXTRACT_DIGIT(s, x, 10000000UL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:35: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |                                   ^
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:367:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  367 |     case 8:  EXTRACT_DIGIT(s, x, 10000000UL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |         ^~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:368:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  368 |     case 7:  EXTRACT_DIGIT(s, x, 1000000UL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:35: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |                                   ^
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:368:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  368 |     case 7:  EXTRACT_DIGIT(s, x, 1000000UL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |         ^~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:369:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  369 |     case 6:  EXTRACT_DIGIT(s, x, 100000UL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:35: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |                                   ^
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:369:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  369 |     case 6:  EXTRACT_DIGIT(s, x, 100000UL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |         ^~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:370:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  370 |     case 5:  EXTRACT_DIGIT(s, x, 10000UL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:35: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |                                   ^
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:370:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  370 |     case 5:  EXTRACT_DIGIT(s, x, 10000UL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |         ^~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:371:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  371 |     case 4:  EXTRACT_DIGIT(s, x, 1000UL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:35: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |                                   ^
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:371:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  371 |     case 4:  EXTRACT_DIGIT(s, x, 1000UL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |         ^~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:372:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  372 |     case 3:  EXTRACT_DIGIT(s, x, 100UL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:35: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |                                   ^
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:372:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  372 |     case 3:  EXTRACT_DIGIT(s, x, 100UL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |         ^~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:373:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  373 |     case 2:  EXTRACT_DIGIT(s, x, 10UL, dot);
+      |              ^~~~~~~~~~~~~
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:348:35: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+  348 |         if (s == dot) *s++ = '.'; *s++ = '0' + (char)(x / d); x %= d
+      |                                   ^
+/build/jenkins/workspace/lcg_nightly_pipeline/build/externals/Python-3.9.6/src/Python/3.9.6/Modules/_decimal/libmpdec/io.c:373:14: note: in expansion of macro ‘EXTRACT_DIGIT’
+  373 |     case 2:  EXTRACT_DIGIT(s, x, 10UL, dot);
+      |              ^~~~~~~~~~~~~
+
+The following modules found by detect_modules() in setup.py, have been
+built by the Makefile instead, as configured by the Setup files:
+_abc                  atexit                pwd                
+time                                                           
+

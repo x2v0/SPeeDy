@@ -1,0 +1,334 @@
+-- The C compiler identification is GNU 11.1.0
+-- The CXX compiler identification is GNU 11.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /cvmfs/sft.cern.ch/lcg/releases/gcc/11.1.0-e80bf/x86_64-centos7/bin/gcc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /cvmfs/sft.cern.ch/lcg/releases/gcc/11.1.0-e80bf/x86_64-centos7/bin/g++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Git: /usr/bin/git (found version "1.8.3.1") 
+-- Looking for Python
+-- Found Python3: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/Python/3.9.6/x86_64-centos7-gcc11-opt/bin/python (found version "3.9.6") found components: Interpreter Development NumPy Development.Module Development.Embed 
+-- Looking for a Fortran compiler
+-- Looking for a Fortran compiler - /cvmfs/sft.cern.ch/lcg/releases/gcc/11.1.0-e80bf/x86_64-centos7/bin/gfortran
+-- The Fortran compiler identification is GNU 11.1.0
+-- Detecting Fortran compiler ABI info
+-- Detecting Fortran compiler ABI info - done
+-- Check for working Fortran compiler: /cvmfs/sft.cern.ch/lcg/releases/gcc/11.1.0-e80bf/x86_64-centos7/bin/gfortran - skipped
+-- Checking whether /cvmfs/sft.cern.ch/lcg/releases/gcc/11.1.0-e80bf/x86_64-centos7/bin/gfortran supports Fortran 90
+-- Checking whether /cvmfs/sft.cern.ch/lcg/releases/gcc/11.1.0-e80bf/x86_64-centos7/bin/gfortran supports Fortran 90 - yes
+-- Found GCC. Major version 11, minor version 1
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Performing Test GLIBCXX_USE_CXX11_ABI
+-- Performing Test GLIBCXX_USE_CXX11_ABI - Success
+-- ROOT Platform: linux
+-- ROOT Compiler: GNU 11.1.0
+-- ROOT Processor: x86_64
+-- ROOT Architecture: linuxx8664gcc
+-- Build Type: 'Release' (flags = '-O3')
+-- Compiler Flags:  -std=c++17 -Wno-implicit-fallthrough -Wno-noexcept-type -pipe  -Wshadow -Wall -W -Woverloaded-virtual -fsigned-char -pthread -O3
+-- ROOT default compression algorithm: zlib
+-- PyROOT will be built for version 3.9.6
+-- Looking for ZLib
+-- Found ZLIB: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/zlib/1.2.11/x86_64-centos7-gcc11-opt/lib/libz.so (found version "1.2.11") 
+-- Looking for nlohmann/json.hpp
+-- Found nlohmann_json: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/jsonmcpp/3.9.1/x86_64-centos7-gcc11-opt/lib64/cmake/nlohmann_json/nlohmann_jsonConfig.cmake (found version "3.9.1") 
+-- Looking for Freetype
+-- Found Freetype: /usr/lib64/libfreetype.so (found version "2.8.0") 
+-- Looking for LZMA
+-- Looking for lzma_auto_decoder in /usr/lib64/liblzma.so
+-- Looking for lzma_auto_decoder in /usr/lib64/liblzma.so - found
+-- Looking for lzma_easy_encoder in /usr/lib64/liblzma.so
+-- Looking for lzma_easy_encoder in /usr/lib64/liblzma.so - found
+-- Looking for lzma_lzma_preset in /usr/lib64/liblzma.so
+-- Looking for lzma_lzma_preset in /usr/lib64/liblzma.so - found
+-- Found LibLZMA: /usr/lib64/liblzma.so (found version "5.2.2") 
+-- Performing Test CXX_FLAG_STD_CPLUSPLUS11
+-- Performing Test CXX_FLAG_STD_CPLUSPLUS11 - Success
+-- Performing Test C_FLAG_STD_C99
+-- Performing Test C_FLAG_STD_C99 - Success
+-- Performing Test C_FLAG_WALL
+-- Performing Test C_FLAG_WALL - Success
+-- Performing Test CXX_FLAG_WALL
+-- Performing Test CXX_FLAG_WALL - Success
+-- Performing Test C_FLAG_WEXTRA
+-- Performing Test C_FLAG_WEXTRA - Success
+-- Performing Test CXX_FLAG_WEXTRA
+-- Performing Test CXX_FLAG_WEXTRA - Success
+-- Performing Test C_FLAG_WUNDEF
+-- Performing Test C_FLAG_WUNDEF - Success
+-- Performing Test CXX_FLAG_WUNDEF
+-- Performing Test CXX_FLAG_WUNDEF - Success
+-- Performing Test C_FLAG_WSHADOW
+-- Performing Test C_FLAG_WSHADOW - Success
+-- Performing Test CXX_FLAG_WSHADOW
+-- Performing Test CXX_FLAG_WSHADOW - Success
+-- Performing Test C_FLAG_WCAST_ALIGN
+-- Performing Test C_FLAG_WCAST_ALIGN - Success
+-- Performing Test CXX_FLAG_WCAST_ALIGN
+-- Performing Test CXX_FLAG_WCAST_ALIGN - Success
+-- Performing Test C_FLAG_WCAST_QUAL
+-- Performing Test C_FLAG_WCAST_QUAL - Success
+-- Performing Test CXX_FLAG_WCAST_QUAL
+-- Performing Test CXX_FLAG_WCAST_QUAL - Success
+-- Performing Test C_FLAG_WSTRICT_PROTOTYPES
+-- Performing Test C_FLAG_WSTRICT_PROTOTYPES - Success
+-- Looking for X11
+-- Found X11: /usr/include   
+-- Looking for XOpenDisplay in /usr/lib64/libX11.so;/usr/lib64/libXext.so
+-- Looking for XOpenDisplay in /usr/lib64/libX11.so;/usr/lib64/libXext.so - found
+-- Looking for gethostbyname
+-- Looking for gethostbyname - found
+-- Looking for connect
+-- Looking for connect - found
+-- Looking for remove
+-- Looking for remove - found
+-- Looking for shmat
+-- Looking for shmat - found
+-- Looking for IceConnectionNumber in ICE
+-- Looking for IceConnectionNumber in ICE - found
+-- X11_INCLUDE_DIR: /usr/include
+-- X11_LIBRARIES: /usr/lib64/libSM.so;/usr/lib64/libICE.so;/usr/lib64/libX11.so;/usr/lib64/libXext.so
+-- X11_Xpm_INCLUDE_PATH: /usr/include
+-- X11_Xpm_LIB: /usr/lib64/libXpm.so
+-- X11_Xft_INCLUDE_PATH: /usr/include
+-- X11_Xft_LIB: /usr/lib64/libXft.so
+-- X11_Xext_INCLUDE_PATH: /usr/include
+-- X11_Xext_LIB: /usr/lib64/libXext.so
+-- Could NOT find GIF (missing: GIF_LIBRARY GIF_INCLUDE_DIR) 
+-- Found TIFF: /usr/lib64/libtiff.so (found version "4.0.3") 
+-- Found PNG: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/png/1.6.37/x86_64-centos7-gcc11-opt/lib/libpng.so (found version "1.6.37") 
+-- Found JPEG: /usr/lib64/libjpeg.so (found version "62") 
+-- Building AfterImage library included in ROOT itself
+-- Looking for GSL
+-- Found PkgConfig: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/pkg_config/0.29.2/x86_64-centos7-gcc11-opt/bin/pkg-config (found version "0.29.2") 
+-- Found GSL: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/GSL/2.7/x86_64-centos7-gcc11-opt/include (found suitable version "2.7", minimum required is "1.10") 
+-- Looking for OpenGL
+-- Found OpenGL: /usr/lib64/libOpenGL.so   
+-- Looking for gl2ps
+-- Found gl2ps: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/gl2ps/1.4.0/x86_64-centos7-gcc11-opt/lib/libgl2ps.so  
+-- Looking for LibXml2
+-- Found LibXml2: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/libxml2/2.9.10/x86_64-centos7-gcc11-opt/lib/libxml2.so (found version "2.9.10") 
+-- Found OpenSSL: /usr/lib64/libcrypto.so (found version "1.0.2k")  
+-- Looking for MySQL
+-- Found MySQL: /cvmfs/sft-nightlies.cern.ch/lcg/latest/mysql/10.4.20-c0154/x86_64-centos7-gcc11-opt/include/mysql  
+-- Looking for Oracle
+-- Found sqlplus version: 19.0.0.0.0
+-- Guessed ORACLE_OCI_VERSION value: 9
+-- Found Oracle: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/oracle/19.11.0.0.0/x86_64-centos7-gcc11-opt/lib/libocci.so;/build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/oracle/19.11.0.0.0/x86_64-centos7-gcc11-opt/lib/libclntsh.so;/build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/oracle/19.11.0.0.0/x86_64-centos7-gcc11-opt/lib/libnnz19.so
+-- Looking for SQLite
+-- Found Sqlite: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/sqlite/3320300/x86_64-centos7-gcc11-opt/include  
+-- Looking for FFTW3
+-- Found fftw3 includes at /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/fftw3/3.3.8/x86_64-centos7-gcc11-opt/include
+-- Found fftw3 library at /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/fftw3/3.3.8/x86_64-centos7-gcc11-opt/lib/libfftw3.so
+-- Looking for CFITSIO
+-- Found CFITSIO: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/cfitsio/3.48/x86_64-centos7-gcc11-opt/lib/libcfitsio.so (found version "3.48") 
+-- Looking for XROOTD
+-- Found Xrootd version num: 5.3.1 (setting -DROOTXRDVERS=500030001)
+--              libXrdMain not found: xproofd will be a wrapper around xrootd
+--              libXrdClient not found: use built-in
+--              include_dirs: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/xrootd/5.3.1/x86_64-centos7-gcc11-opt/include/xrootd;/build/jenkins/workspace/lcg_nightly_pipeline/build/projects/ROOT-6.24.06/src/ROOT/6.24.06/proof/xrdinc
+--              libraries: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/xrootd/5.3.1/x86_64-centos7-gcc11-opt/lib64/libXrdUtils.so;/build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/xrootd/5.3.1/x86_64-centos7-gcc11-opt/lib64/libXrdCl.so
+-- Found GFAL: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/Grid/gfal/1.13.0-0/x86_64-centos7-gcc11-opt/include/.  
+-- Found DCAP: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/Grid/dcap/2.47.7-1/x86_64-centos7-gcc11-opt/include  
+-- Checking for module 'davix>=0.6.4'
+--   Found davix, version 0.7.6
+-- Looking for TBB
+-- Found TBB: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/tbb/2020_U2/x86_64-centos7-gcc11-opt (found suitable version "2020.2", minimum required is "2018")  
+-- Detected Compiler: GCC 11.1.0
+-- Performing Test check_cxx_compiler_flag__Wabi
+-- Performing Test check_cxx_compiler_flag__Wabi - Success
+-- Performing Test check_cxx_compiler_flag__fabi_version_0
+-- Performing Test check_cxx_compiler_flag__fabi_version_0 - Success
+-- Performing Test check_cxx_compiler_flag__fabi_compat_version_0
+-- Performing Test check_cxx_compiler_flag__fabi_compat_version_0 - Success
+-- Performing Test check_cxx_compiler_flag__ffp_contract_fast
+-- Performing Test check_cxx_compiler_flag__ffp_contract_fast - Success
+-- target changed from "" to "auto"
+-- Detected CPU: broadwell
+-- Performing Test check_cxx_compiler_flag__march_broadwell
+-- Performing Test check_cxx_compiler_flag__march_broadwell - Success
+-- Performing Test check_cxx_compiler_flag__msse2
+-- Performing Test check_cxx_compiler_flag__msse2 - Success
+-- Performing Test check_cxx_compiler_flag__msse3
+-- Performing Test check_cxx_compiler_flag__msse3 - Success
+-- Looking for C++ include pmmintrin.h
+-- Looking for C++ include pmmintrin.h - found
+-- Performing Test check_cxx_compiler_flag__mssse3
+-- Performing Test check_cxx_compiler_flag__mssse3 - Success
+-- Looking for C++ include tmmintrin.h
+-- Looking for C++ include tmmintrin.h - found
+-- Performing Test check_cxx_compiler_flag__msse4_1
+-- Performing Test check_cxx_compiler_flag__msse4_1 - Success
+-- Looking for C++ include smmintrin.h
+-- Looking for C++ include smmintrin.h - found
+-- Performing Test check_cxx_compiler_flag__msse4_2
+-- Performing Test check_cxx_compiler_flag__msse4_2 - Success
+-- Performing Test check_cxx_compiler_flag__mavx
+-- Performing Test check_cxx_compiler_flag__mavx - Success
+-- Looking for C++ include immintrin.h
+-- Looking for C++ include immintrin.h - found
+-- Performing Test check_cxx_compiler_flag__mfma
+-- Performing Test check_cxx_compiler_flag__mfma - Success
+-- Performing Test check_cxx_compiler_flag__mbmi2
+-- Performing Test check_cxx_compiler_flag__mbmi2 - Success
+-- Performing Test check_cxx_compiler_flag__mavx2
+-- Performing Test check_cxx_compiler_flag__mavx2 - Success
+-- Performing Test check_cxx_compiler_flag__mno_sse4a
+-- Performing Test check_cxx_compiler_flag__mno_sse4a - Success
+-- Performing Test check_cxx_compiler_flag__mno_xop
+-- Performing Test check_cxx_compiler_flag__mno_xop - Success
+-- Performing Test check_cxx_compiler_flag__mno_fma4
+-- Performing Test check_cxx_compiler_flag__mno_fma4 - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512f
+-- Performing Test check_cxx_compiler_flag__mno_avx512f - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512vl
+-- Performing Test check_cxx_compiler_flag__mno_avx512vl - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512pf
+-- Performing Test check_cxx_compiler_flag__mno_avx512pf - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512er
+-- Performing Test check_cxx_compiler_flag__mno_avx512er - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512cd
+-- Performing Test check_cxx_compiler_flag__mno_avx512cd - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512dq
+-- Performing Test check_cxx_compiler_flag__mno_avx512dq - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512bw
+-- Performing Test check_cxx_compiler_flag__mno_avx512bw - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512ifma
+-- Performing Test check_cxx_compiler_flag__mno_avx512ifma - Success
+-- Performing Test check_cxx_compiler_flag__mno_avx512vbmi
+-- Performing Test check_cxx_compiler_flag__mno_avx512vbmi - Success
+-- Looking for VDT
+-- Found Vdt: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/vdt/0.4.3/x86_64-centos7-gcc11-opt/include (found suitable version "0.4", minimum required is "0.4") 
+-- Found CUDA: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/cuda/11.4/x86_64-centos7-gcc11-opt (found version "11.4") 
+-- The CUDA compiler identification is NVIDIA 11.4.120
+-- Detecting CUDA compiler ABI info
+-- Detecting CUDA compiler ABI info - done
+-- Check for working CUDA compiler: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/cuda/11.4/x86_64-centos7-gcc11-opt/bin/nvcc - skipped
+-- Detecting CUDA compile features
+-- Detecting CUDA compile features - done
+CMake Warning (dev) at /cvmfs/sft.cern.ch/lcg/contrib/CMake/3.18.3/Linux-x86_64/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake:273 (message):
+  The package name passed to `find_package_handle_standard_args` (CUDNN) does
+  not match the name of the calling package (CuDNN).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  cmake/modules/FindCuDNN.cmake:40 (find_package_handle_standard_args)
+  cmake/modules/SearchInstalledSoftware.cmake:16 (_find_package)
+  cmake/modules/SearchInstalledSoftware.cmake:1573 (find_package)
+  CMakeLists.txt:219 (include)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Found CUDNN: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/cudnn/8.2.4.15/x86_64-centos7-gcc11-opt/include  
+-- Found cuDNN: v?  (include: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/cudnn/8.2.4.15/x86_64-centos7-gcc11-opt/include, library: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/cudnn/8.2.4.15/x86_64-centos7-gcc11-opt/lib64/libcudnn.so)
+-- CuDNN library found: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/cudnn/8.2.4.15/x86_64-centos7-gcc11-opt/lib64/libcudnn.so
+-- Looking for BLAS for optional parts of TMVA
+-- Looking for Fortran sgemm
+-- Looking for Fortran sgemm - not found
+-- Looking for Fortran sgemm
+-- Looking for Fortran sgemm - found
+-- Found BLAS: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/blas/0.3.17.openblas/x86_64-centos7-gcc11-opt/lib/libopenblas.so  
+-- Performing Test ROOT_HAVE_CXX_ATOMICS_WITHOUT_LIB
+-- Performing Test ROOT_HAVE_CXX_ATOMICS_WITHOUT_LIB - Success
+-- Building LLVM in 'Release' mode.
+-- The ASM compiler identification is GNU
+-- Found assembler: /cvmfs/sft.cern.ch/lcg/releases/gcc/11.1.0-e80bf/x86_64-centos7/bin/gcc
+-- Could NOT find Z3: Found unsuitable version "0.0.0", but required is at least "4.7.1" (found Z3_LIBRARIES-NOTFOUND)
+-- Looking for backtrace
+-- Looking for backtrace - found
+-- backtrace facility detected in default set of libraries
+-- Found Backtrace: /usr/include  
+-- Native target architecture is X86
+-- Threads disabled.
+-- Doxygen disabled.
+-- Go bindings disabled.
+-- Could NOT find OCaml (missing: OCAMLFIND OCAML_VERSION OCAML_STDLIB_PATH) 
+-- OCaml bindings disabled.
+-- Could NOT find Python module pygments
+-- Could NOT find Python module pygments.lexers.c_cpp
+-- Could NOT find Python module yaml
+-- LLVM host triple: x86_64-unknown-linux-gnu
+-- LLVM default target triple: x86_64-unknown-linux-gnu
+-- Building with -fPIC
+-- Found PythonInterp: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/Python/3.9.6/x86_64-centos7-gcc11-opt/bin/python (found version "3.9.6") 
+-- Constructing LLVMBuild project information
+-- Linker detection: GNU ld
+-- Targeting X86
+-- Targeting NVPTX
+-- Clang version: 9.0.1
+-- Cling version (from VERSION file): ROOT_0.9~dev
+-- Cling will look for C++ headers in '/cvmfs/sft.cern.ch/lcg/releases/gcc/11.1.0-e80bf/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0:/cvmfs/sft.cern.ch/lcg/releases/gcc/11.1.0-e80bf/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu:/cvmfs/sft.cern.ch/lcg/releases/gcc/11.1.0-e80bf/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward' at runtime.
+-- And then fallback to: 'g++'
+-- Performing Test CXX_HAS_fno_rtti
+-- Performing Test CXX_HAS_fno_rtti - Success
+-- Performing Test C_HAS_Wno_strict_overflow
+-- Performing Test C_HAS_Wno_strict_overflow - Success
+-- Performing Test C_HAS_Wno_maybe_uninitialized
+-- Performing Test C_HAS_Wno_maybe_uninitialized - Success
+-- Performing Test C_HAS_Wno_parentheses_equality
+-- Performing Test C_HAS_Wno_parentheses_equality - Success
+-- Looking for m
+-- Looking for m - not found
+-- Using Cuda+cuDNN for TMVA Deep Learning on GPU
+-- Performing Test found_setresuid
+-- Performing Test found_setresuid - Success
+-- Performing Test found_stdstringview
+-- Performing Test found_stdstringview - Success
+-- Performing Test found_stod_stringview
+-- Performing Test found_stod_stringview - Failed
+-- Performing Test found_opplusequal_stringview
+-- Performing Test found_opplusequal_stringview - Success
+-- Performing Test found_stdapply
+-- Performing Test found_stdapply - Success
+-- Performing Test found_stdinvoke
+-- Performing Test found_stdinvoke - Success
+-- Performing Test found_stdindexsequence
+-- Performing Test found_stdindexsequence - Success
+-- Performing Test found_attribute_always_inline
+-- Performing Test found_attribute_always_inline - Success
+-- Performing Test has_found_attribute_noinline
+-- Performing Test has_found_attribute_noinline - Success
+-- Performing Test found_hardware_interference_size
+-- Performing Test found_hardware_interference_size - Failed
+Running /build/jenkins/workspace/lcg_nightly_pipeline/build/projects/ROOT-6.24.06/src/ROOT/6.24.06/build/unix/compiledata.sh
+Making /build/jenkins/workspace/lcg_nightly_pipeline/build/projects/ROOT-6.24.06/src/ROOT-6.24.06-build/ginclude/compiledata.h
+-- ROOT Configuration 
+
+System          Linux-4.18.0-305.12.1.el8_4.x86_64
+Processor       16 core Intel Core Processor (Broadwell, IBRS) (x86_64)
+Build type      Release
+Install path    /build/jenkins/workspace/lcg_nightly_pipeline/install/dev4atlas/ROOT/6.24.06/x86_64-centos7-gcc11-opt
+Compiler        GNU 11.1.0
+Compiler flags:
+C                -Wno-implicit-fallthrough -pipe -Wall -W -pthread -O3 -DNDEBUG
+C++              -std=c++17 -Wno-implicit-fallthrough -Wno-noexcept-type -pipe  -Wshadow -Wall -W -Woverloaded-virtual -fsigned-char -pthread -O3 -DNDEBUG
+Linker flags:
+Executable       -rdynamic
+Module          
+Shared           -Wl,--no-undefined -Wl,--hash-style="both"
+
+-- Enabled support for:  asimage builtin_afterimage builtin_clang builtin_cling builtin_ftgl builtin_glew builtin_llvm builtin_lz4 builtin_openui5 builtin_pcre builtin_unuran builtin_xxhash builtin_zstd clad cuda cudnn dataframe davix dcache exceptions fftw3 fitsio fortran gdml gfal gsl_shared http imt mathmore mlp minuit2 mysql opengl oracle pyroot roofit webgui runtime_cxxmodules shared sqlite ssl tmva tmva-cpu tmva-gpu tmva-pymva spectrum unuran vc vdt x11 xml xrootd
+-- Configuring done
+CMake Warning (dev) in tmva/tmva/CMakeLists.txt:
+  Policy CMP0104 is not set: CMAKE_CUDA_ARCHITECTURES now detected for NVCC,
+  empty CUDA_ARCHITECTURES not allowed.  Run "cmake --help-policy CMP0104"
+  for policy details.  Use the cmake_policy command to set the policy and
+  suppress this warning.
+
+  CUDA_ARCHITECTURES is empty for target "TMVA".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Generating done
+-- Build files have been written to: /build/jenkins/workspace/lcg_nightly_pipeline/build/projects/ROOT-6.24.06/src/ROOT-6.24.06-build

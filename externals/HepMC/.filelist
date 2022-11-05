@@ -1,0 +1,7 @@
+/build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39
+/build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt->HepMC/2.06.11-d5a39/x86_64-centos7-gcc11-opt
+share/HepMC/examples/GNUmakefile
+share/HepMC/examples/pythia8/config.sh
+share/HepMC/examples/pythia8/config.csh
+share/HepMC/examples/pythia8/GNUmakefile
+share/HepMC/examples/fio/GNUmakefile

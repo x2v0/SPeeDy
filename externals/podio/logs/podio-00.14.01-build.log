@@ -1,0 +1,21 @@
+[  5%] Building CXX object src/CMakeFiles/podio.dir/ASCIIWriter.cc.o
+[ 11%] Building CXX object src/CMakeFiles/podio.dir/CollectionIDTable.cc.o
+[ 17%] Building CXX object src/CMakeFiles/podio.dir/EventStore.cc.o
+[ 23%] Building CXX object src/CMakeFiles/podio.dir/GenericParameters.cc.o
+[ 29%] Linking CXX shared library libpodio.so
+[ 29%] Built target podio
+[ 35%] Building CXX object src/CMakeFiles/podioRootIO.dir/PythonEventStore.cc.o
+[ 41%] Building CXX object src/CMakeFiles/podioRootIO.dir/ROOTReader.cc.o
+[ 47%] Building CXX object src/CMakeFiles/podioRootIO.dir/ROOTWriter.cc.o
+[ 52%] Generating podioDict.cxx, podioDictDict.rootmap
+[ 58%] Linking CXX shared library libpodioRootIO.so
+[ 58%] Built target podioRootIO
+[ 64%] Building CXX object src/CMakeFiles/podioDict.dir/podioDict.cxx.o
+[ 70%] Building CXX object src/CMakeFiles/podioSioIO.dir/SIOBlock.cc.o
+[ 76%] Building CXX object src/CMakeFiles/podioSioIO.dir/SIOBlockUserData.cc.o
+[ 82%] Linking CXX shared library libpodioDict.so
+[ 82%] Built target podioDict
+[ 88%] Building CXX object src/CMakeFiles/podioSioIO.dir/SIOReader.cc.o
+[ 94%] Building CXX object src/CMakeFiles/podioSioIO.dir/SIOWriter.cc.o
+[100%] Linking CXX shared library libpodioSioIO.so
+[100%] Built target podioSioIO

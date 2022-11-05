@@ -1,0 +1,594 @@
+Scanning dependencies of target ddeve
+[  1%] Building CXX object DDEve/CMakeFiles/ddeve.dir/DDEve/DDEve.cpp.o
+[  1%] Linking CXX executable ../bin/ddeve
+Scanning dependencies of target DD4hepGaudiPluginMgr
+[  1%] Building CXX object GaudiPluginService/CMakeFiles/DD4hepGaudiPluginMgr.dir/interface/DD4hepV2.cpp.o
+[  1%] Building CXX object GaudiPluginService/CMakeFiles/DD4hepGaudiPluginMgr.dir/interface/DD4hepV1.cpp.o
+[  1%] Building CXX object GaudiPluginService/CMakeFiles/DD4hepGaudiPluginMgr.dir/src/PluginServiceV1.cpp.o
+[  1%] Building CXX object GaudiPluginService/CMakeFiles/DD4hepGaudiPluginMgr.dir/src/PluginServiceV2.cpp.o
+[  1%] Built target ddeve
+[  2%] Linking CXX shared library ../lib/libDD4hepGaudiPluginMgr.so
+[  2%] Built target DD4hepGaudiPluginMgr
+Scanning dependencies of target listcomponents
+[  2%] Building CXX object GaudiPluginService/CMakeFiles/listcomponents.dir/src/listcomponents.cpp.o
+[  3%] Linking CXX executable ../bin/listcomponents_dd4hep
+[  3%] Built target listcomponents
+Scanning dependencies of target DDParsers
+[  3%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/Evaluators.cpp.o
+[  4%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Evaluator/ExpressionEvaluator.cpp.o
+[  4%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Evaluator/setSystemOfUnits.cpp.o
+[  4%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Evaluator/setStdMath.cpp.o
+[  4%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Evaluator/Evaluator.cpp.o
+[  4%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ExtraParsers.cpp.o
+[  5%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_Mapint_bool.cpp.o
+[  5%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_Mapint_double.cpp.o
+[  5%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_Mapint_float.cpp.o
+[  5%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_Mapint_long.cpp.o
+[  5%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_Mapped_int.cpp.o
+[  6%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_Mapint_string.cpp.o
+[  6%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_Mapint_int.cpp.o
+[  6%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_Mapped_double.cpp.o
+[  6%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_Mapped_bool.cpp.o
+[  6%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_Mapped_float.cpp.o
+[  6%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_Mapped_string.cpp.o
+[  7%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_Mapped_long.cpp.o
+[  7%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_Mapstring_bool.cpp.o
+[  7%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_Mapstring_double.cpp.o
+[  8%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_Mapstring_float.cpp.o
+[  8%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_Mapstring_int.cpp.o
+[  8%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_Mapstring_long.cpp.o
+[  8%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_list_bool.cpp.o
+[  8%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_Mapstring_string.cpp.o
+[  8%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_list_float.cpp.o
+[  9%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_list_double.cpp.o
+[  9%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_list_int.cpp.o
+[  9%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_list_long.cpp.o
+[  9%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_list_string.cpp.o
+[ 10%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_list_ulong.cpp.o
+[ 10%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_set_bool.cpp.o
+[ 10%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_set_double.cpp.o
+[ 10%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_set_float.cpp.o
+[ 11%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_set_long.cpp.o
+[ 11%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_set_int.cpp.o
+[ 11%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_set_string.cpp.o
+[ 11%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_set_ulong.cpp.o
+[ 11%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_vector_bool.cpp.o
+[ 11%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_vector_double.cpp.o
+[ 12%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_vector_float.cpp.o
+[ 12%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_vector_int.cpp.o
+[ 12%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_vector_long.cpp.o
+[ 12%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_vector_string.cpp.o
+[ 12%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParserStandardList_vector_ulong.cpp.o
+[ 12%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParsersObjects_RotationZYX.cpp.o
+[ 13%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParsersObjects_PxPyPzEVector.cpp.o
+[ 13%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParsersObjects_XYZVector.cpp.o
+[ 13%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParsersObjects_XYZPoint.cpp.o
+[ 13%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParsersStandardMisc1.cpp.o
+[ 14%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParsersStandardMisc2.cpp.o
+[ 14%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParsersStandardMisc3.cpp.o
+[ 14%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParsersStandardMisc4.cpp.o
+[ 14%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParsersStandardMisc5.cpp.o
+[ 14%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ParsersStandardSingle.cpp.o
+[ 15%] Building CXX object DDParsers/CMakeFiles/DDParsers.dir/src/Spirit/ToStream.cpp.o
+[ 15%] Linking CXX shared library ../lib/libDDParsers.so
+[ 15%] Built target DDParsers
+[ 16%] Generating G__DD4hep.cxx, ../lib/G__DD4hep_rdict.pcm
+[ 16%] Generating G__DD4hepGeo.cxx, ../lib/G__DD4hepGeo_rdict.pcm
+[ 16%] Generating G__DD4hepSegmentations.cxx, ../lib/G__DD4hepSegmentations_rdict.pcm
+[ 16%] Generating G__DD4hepProperties.cxx, ../lib/G__DD4hepProperties_rdict.pcm
+Scanning dependencies of target DDCore
+[ 17%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/AlignmentData.cpp.o
+[ 17%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/AlignmentNominalMap.cpp.o
+[ 17%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/Alignments.cpp.o
+[ 17%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/AlignmentsPrinter.cpp.o
+[ 17%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/AlignmentTools.cpp.o
+[ 17%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/AlignmentsProcessor.cpp.o
+[ 17%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/AlignmentsCalculator.cpp.o
+[ 17%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/AlignmentsInterna.cpp.o
+[ 18%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/CartesianGridYZ.cpp.o
+[ 18%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/CartesianGridXYZ.cpp.o
+[ 18%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/CartesianGridXZ.cpp.o
+[ 19%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/BuildType.cpp.o
+[ 19%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/Callback.cpp.o
+[ 19%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/CartesianGridXY.cpp.o
+[ 19%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/CartesianStripY.cpp.o
+[ 19%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/CartesianStripX.cpp.o
+[ 19%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/CartesianStripZ.cpp.o
+[ 19%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/ComponentProperties.cpp.o
+[ 20%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/ConditionAny.cpp.o
+[ 20%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/Conditions.cpp.o
+[ 20%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/ConditionsData.cpp.o
+[ 20%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/ConditionDerived.cpp.o
+[ 20%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/ConditionsDebug.cpp.o
+[ 21%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/ConditionsInterna.cpp.o
+[ 21%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/ConditionsMap.cpp.o
+[ 21%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/ConditionsListener.cpp.o
+[ 21%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/ConditionsPrinter.cpp.o
+[ 21%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/ConditionsProcessor.cpp.o
+[ 22%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/DD4hepRootPersistency.cpp.o
+[ 22%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/DD4hepUI.cpp.o
+[ 22%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/DetElement.cpp.o
+[ 22%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/DetectorData.cpp.o
+[ 22%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/DetectorHelper.cpp.o
+[ 22%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/DetectorInterna.cpp.o
+[ 23%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/DetectorImp.cpp.o
+[ 23%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/DetectorLoad.cpp.o
+[ 23%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/DetectorProcessor.cpp.o
+[ 23%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/DetectorSelector.cpp.o
+[ 24%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/DetectorTools.cpp.o
+[ 24%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/Errors.cpp.o
+[ 24%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/Exceptions.cpp.o
+[ 24%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/ExtensionEntry.cpp.o
+[ 24%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/FieldTypes.cpp.o
+[ 24%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/Filter.cpp.o
+[ 24%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/GeoHandler.cpp.o
+[ 25%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/Fields.cpp.o
+[ 25%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/GeometryTreeDump.cpp.o
+[ 25%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/GlobalAlignment.cpp.o
+[ 26%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/Grammar.cpp.o
+[ 26%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/GrammarTypes.cpp.o
+[ 26%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/GrammarTypesUnparsed.cpp.o
+[ 27%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/IDDescriptor.cpp.o
+[ 27%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/IOV.cpp.o
+[ 27%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/Handle.cpp.o
+[ 27%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/InstanceCount.cpp.o
+[ 27%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/MatrixHelpers.cpp.o
+[ 27%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/MultiSegmentation.cpp.o
+[ 28%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/NamedObject.cpp.o
+[ 28%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/NoSegmentation.cpp.o
+[ 28%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/ObjectPrintout.cpp.o
+[ 28%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/ObjectExtensions.cpp.o
+[ 28%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/Objects.cpp.o
+[ 29%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/ObjectsInterna.cpp.o
+[ 29%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/OpaqueData.cpp.o
+[ 29%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/OpaqueDataBinder.cpp.o
+[ 29%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/OpticalSurfaceManager.cpp.o
+[ 29%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/OpticalSurfaceManagerInterna.cpp.o
+[ 30%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/OpticalSurfaces.cpp.o
+[ 30%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/Path.cpp.o
+[ 30%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/PluginTester.cpp.o
+[ 30%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/PluginCreators.cpp.o
+[ 30%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/Plugins.cpp.o
+[ 31%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/PolarGridRPhi2.cpp.o
+[ 31%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/PolarGridRPhi.cpp.o
+[ 31%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/Primitives.cpp.o
+[ 31%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/Printout.cpp.o
+[ 31%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/PropertyTable.cpp.o
+[ 32%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/Readout.cpp.o
+[ 32%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/Segmentations.cpp.o
+[ 32%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/SegmentationsInterna.cpp.o
+/build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/DD4hep-master/src/DD4hep/master/DDCore/src/Primitives.cpp: In function 'short unsigned int dd4hep::detail::hash16(const void*, std::size_t)':
+/build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/DD4hep-master/src/DD4hep/master/DDCore/src/Primitives.cpp:210:11: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+  210 |   return *(unsigned short*)&value;
+      |           ^~~~~~~~~~~~~~~~~~~~~~~
+[ 32%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/ShapeUtilities.cpp.o
+[ 32%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/Shapes.cpp.o
+[ 34%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/ShapesInterna.cpp.o
+[ 34%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/SpecParRegistry.cpp.o
+[ 34%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/SurfaceInstaller.cpp.o
+[ 34%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/VolumeManager.cpp.o
+[ 34%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/VolumeProcessor.cpp.o
+[ 35%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/Volumes.cpp.o
+[ 35%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/WaferGridXY.cpp.o
+[ 35%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/World.cpp.o
+[ 35%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/XML/Detector.cpp.o
+[ 35%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/XML/DocumentHandler.cpp.o
+[ 36%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/XML/Layering.cpp.o
+[ 36%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/XML/UriReader.cpp.o
+[ 36%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/XML/VolumeBuilder.cpp.o
+[ 36%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/XML/Utilities.cpp.o
+[ 36%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/XML/XMLElements.cpp.o
+[ 37%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/XML/XMLHelpers.cpp.o
+[ 37%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/XML/XMLParsers.cpp.o
+[ 37%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/BitField64.cpp.o
+[ 37%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/XML/XMLTags.cpp.o
+[ 37%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/BitFieldCoder.cpp.o
+[ 38%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/CartesianGrid.cpp.o
+[ 38%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/CartesianGridXY.cpp.o
+[ 38%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/CartesianGridXYZ.cpp.o
+[ 38%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/CartesianGridXZ.cpp.o
+[ 38%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/CartesianGridYZ.cpp.o
+[ 39%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/CartesianStrip.cpp.o
+[ 39%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/CartesianStripX.cpp.o
+[ 39%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/CartesianStripZ.cpp.o
+[ 39%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/CartesianStripY.cpp.o
+[ 39%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/CylindricalSegmentation.cpp.o
+[ 40%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/GridPhiEta.cpp.o
+[ 40%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/GridRPhiEta.cpp.o
+[ 40%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/MegatileLayerGridXY.cpp.o
+[ 40%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/MultiSegmentation.cpp.o
+[ 41%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/NoSegmentation.cpp.o
+[ 41%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/PolarGrid.cpp.o
+[ 41%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/PolarGridRPhi.cpp.o
+[ 41%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/PolarGridRPhi2.cpp.o
+[ 41%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/ProjectiveCylinder.cpp.o
+[ 42%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/Segmentation.cpp.o
+[ 42%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/TiledLayerGridXY.cpp.o
+[ 42%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/WaferGridXY.cpp.o
+[ 42%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/JSON/Detector.cpp.o
+[ 42%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/segmentations/TiledLayerSegmentation.cpp.o
+[ 43%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/JSON/DocumentHandler.cpp.o
+[ 43%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/JSON/Elements.cpp.o
+[ 43%] Building CXX object DDCore/CMakeFiles/DDCore.dir/src/JSON/Helpers.cpp.o
+[ 43%] Building CXX object DDCore/CMakeFiles/DDCore.dir/G__DD4hep.cxx.o
+[ 43%] Building CXX object DDCore/CMakeFiles/DDCore.dir/G__DD4hepSegmentations.cxx.o
+[ 44%] Building CXX object DDCore/CMakeFiles/DDCore.dir/G__DD4hepProperties.cxx.o
+[ 44%] Building CXX object DDCore/CMakeFiles/DDCore.dir/G__DD4hepGeo.cxx.o
+[ 44%] Linking CXX shared library ../lib/libDDCore.so
+[ 44%] Built target DDCore
+[ 44%] Generating G__DDCond.cxx, ../lib/G__DDCond_rdict.pcm
+[ 44%] Generating G__DDCAD.cxx, ../lib/G__DDCAD_rdict.pcm
+[ 44%] Generating G__DDRec.cxx, ../lib/G__DDRec_rdict.pcm
+[ 44%] Generating G__DDEve.cxx, ../lib/G__DDEve_rdict.pcm
+Scanning dependencies of target dumpBfield
+Scanning dependencies of target geoPluginRun
+Scanning dependencies of target geoConverter
+Scanning dependencies of target geoDisplay
+Scanning dependencies of target geoWebDisplay
+Scanning dependencies of target DDAlign
+[ 44%] Building CXX object UtilityApps/CMakeFiles/geoDisplay.dir/src/display.cpp.o
+[ 44%] Building CXX object UtilityApps/CMakeFiles/geoPluginRun.dir/src/plugin_runner.cpp.o
+[ 44%] Building CXX object UtilityApps/CMakeFiles/geoConverter.dir/src/converter.cpp.o
+[ 45%] Building CXX object UtilityApps/CMakeFiles/geoWebDisplay.dir/src/webdisplay.cpp.o
+Scanning dependencies of target DDGDMLPlugins
+[ 45%] Building CXX object DDAlign/CMakeFiles/DDAlign.dir/src/AlignmentsCalib.cpp.o
+[ 45%] Building CXX object UtilityApps/CMakeFiles/dumpBfield.dir/src/dumpBfield.cpp.o
+Scanning dependencies of target DDPythonPlugins
+[ 45%] Building CXX object DDAlign/CMakeFiles/DDAlign.dir/src/AlignmentTags.cpp.o
+[ 45%] Building CXX object DDAlign/CMakeFiles/DDAlign.dir/src/GlobalAlignmentCache.cpp.o
+[ 45%] Building CXX object DDCore/CMakeFiles/DDGDMLPlugins.dir/src/gdml/DetElementCreator.cpp.o
+[ 45%] Building CXX object DDCore/CMakeFiles/DDPythonPlugins.dir/src/python/PythonPlugin.cpp.o
+Scanning dependencies of target DDCorePlugins
+[ 45%] Building CXX object DDCore/CMakeFiles/DDCorePlugins.dir/src/plugins/CodeGenerator.cpp.o
+Scanning dependencies of target DDDigi
+[ 45%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiAction.cpp.o
+[ 45%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiActionSequence.cpp.o
+[ 45%] Linking CXX executable ../bin/dumpBfield
+Scanning dependencies of target DDCAD
+[ 45%] Building CXX object DDCAD/CMakeFiles/DDCAD.dir/src/ASSIMPReader.cpp.o
+Warning: Unused class rule: std::pair<std::string,std::pair<std::pair<std::string,int>,IOV::Key> >
+Warning: Unused class rule: std::pair<std::pair<std::string,int>, IOV::Key>
+Warning: Unused class rule: std::pair<std::string,IOV::Key>
+[ 45%] Building CXX object DDCAD/CMakeFiles/DDCAD.dir/src/ASSIMPWriter.cpp.o
+[ 45%] Linking CXX executable ../bin/geoPluginRun
+[ 45%] Linking CXX shared library ../lib/libDDPythonPlugins.so
+[ 46%] Linking CXX executable ../bin/geoConverter
+[ 46%] Linking CXX executable ../bin/geoWebDisplay
+[ 46%] Building CXX object DDCore/CMakeFiles/DDCorePlugins.dir/src/plugins/Compact2Objects.cpp.o
+[ 46%] Linking CXX executable ../bin/geoDisplay
+Scanning dependencies of target DDCond
+[ 46%] Built target dumpBfield
+[ 46%] Building CXX object DDAlign/CMakeFiles/DDAlign.dir/src/GlobalAlignmentOperators.cpp.o
+[ 46%] Building CXX object DDCond/CMakeFiles/DDCond.dir/src/ConditionsCleanup.cpp.o
+[ 46%] Building CXX object DDCond/CMakeFiles/DDCond.dir/src/ConditionsContent.cpp.o
+[ 46%] Built target geoPluginRun
+[ 47%] Building CXX object DDCond/CMakeFiles/DDCond.dir/src/ConditionsDataLoader.cpp.o
+[ 47%] Built target DDPythonPlugins
+[ 48%] Building CXX object DDCore/CMakeFiles/DDCorePlugins.dir/src/plugins/DetectorCheck.cpp.o
+[ 48%] Built target geoConverter
+[ 48%] Built target geoWebDisplay
+[ 49%] Building CXX object DDCore/CMakeFiles/DDGDMLPlugins.dir/src/gdml/DetNominalCreator.cpp.o
+[ 50%] Building CXX object DDCAD/CMakeFiles/DDCAD.dir/src/CADImport.cpp.o
+[ 50%] Building CXX object DDCore/CMakeFiles/DDGDMLPlugins.dir/src/gdml/GdmlPlugins.cpp.o
+[ 50%] Building CXX object DDCAD/CMakeFiles/DDCAD.dir/src/InputReader.cpp.o
+[ 50%] Built target geoDisplay
+[ 51%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiAttenuator.cpp.o
+Scanning dependencies of target DDRec
+[ 52%] Building CXX object DDRec/CMakeFiles/DDRec.dir/src/CellIDPositionConverter.cpp.o
+[ 52%] Building CXX object DDRec/CMakeFiles/DDRec.dir/src/DetectorData.cpp.o
+Scanning dependencies of target DDEvePlugins
+[ 52%] Building CXX object DDRec/CMakeFiles/DDRec.dir/src/DetectorSurfaces.cpp.o
+[ 53%] Building CXX object DDAlign/CMakeFiles/DDAlign.dir/src/GlobalAlignmentStack.cpp.o
+[ 53%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/lcio/LCIOEventHandler.cpp.o
+[ 53%] Building CXX object DDAlign/CMakeFiles/DDAlign.dir/src/GlobalAlignmentWriter.cpp.o
+[ 53%] Building CXX object DDAlign/CMakeFiles/DDAlign.dir/src/GlobalDetectorAlignment.cpp.o
+[ 53%] Building CXX object DDCore/CMakeFiles/DDGDMLPlugins.dir/src/gdml/ImportPlainRoot.cpp.o
+[ 53%] Building CXX object DDCAD/CMakeFiles/DDCAD.dir/src/OutputWriter.cpp.o
+[ 53%] Building CXX object DDCond/CMakeFiles/DDCond.dir/src/ConditionsDependencyHandler.cpp.o
+[ 53%] Building CXX object DDCond/CMakeFiles/DDCond.dir/src/ConditionsEntry.cpp.o
+[ 53%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiContainerCombine.cpp.o
+[ 53%] Building CXX object DDCAD/CMakeFiles/DDCAD.dir/G__DDCAD.cxx.o
+[ 53%] Building CXX object DDCore/CMakeFiles/DDCorePlugins.dir/src/plugins/DetectorFields.cpp.o
+[ 53%] Building CXX object DDCore/CMakeFiles/DDCorePlugins.dir/src/plugins/DetectorHelperTest.cpp.o
+[ 53%] Building CXX object DDRec/CMakeFiles/DDRec.dir/src/MaterialManager.cpp.o
+[ 53%] Building CXX object DDRec/CMakeFiles/DDRec.dir/src/MaterialScan.cpp.o
+[ 53%] Building CXX object DDCond/CMakeFiles/DDCond.dir/src/ConditionsIOVPool.cpp.o
+[ 54%] Building CXX object DDRec/CMakeFiles/DDRec.dir/src/Surface.cpp.o
+[ 54%] Linking CXX shared library ../lib/libDDAlign.so
+[ 54%] Building CXX object DDCore/CMakeFiles/DDCorePlugins.dir/src/plugins/Geant4XML.cpp.o
+[ 55%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/root7/WebDisplay.cpp.o
+[ 55%] Linking CXX shared library ../lib/libDDGDMLPlugins.so
+[ 55%] Linking CXX shared library ../lib/libDDCAD.so
+[ 55%] Building CXX object DDCond/CMakeFiles/DDCond.dir/src/ConditionsManager.cpp.o
+[ 55%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiContainerDrop.cpp.o
+[ 55%] Built target DDAlign
+[ 55%] Building CXX object DDRec/CMakeFiles/DDRec.dir/src/SurfaceHelper.cpp.o
+[ 55%] Building CXX object DDRec/CMakeFiles/DDRec.dir/src/SurfaceManager.cpp.o
+[ 55%] Built target DDGDMLPlugins
+Scanning dependencies of target Components_DDPythonPlugins
+[ 55%] Generating libDDPythonPlugins.components
+[ 55%] Building CXX object DDRec/CMakeFiles/DDRec.dir/G__DDRec.cxx.o
+[ 55%] Building CXX object DDCore/CMakeFiles/DDCorePlugins.dir/src/plugins/GeometryWalk.cpp.o
+[ 55%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiContainerProcessor.cpp.o
+[ 56%] Building CXX object DDCore/CMakeFiles/DDCorePlugins.dir/src/plugins/JsonProcessor.cpp.o
+[ 56%] Built target DDCAD
+Scanning dependencies of target Components_DDGDMLPlugins
+[ 56%] Generating libDDGDMLPlugins.components
+[ 56%] Building CXX object DDCore/CMakeFiles/DDCorePlugins.dir/src/plugins/LCDD2Output.cpp.o
+[ 57%] Building CXX object DDCond/CMakeFiles/DDCond.dir/src/ConditionsOperators.cpp.o
+Scanning dependencies of target DDAlignPlugins
+[ 57%] Built target Components_DDGDMLPlugins
+[ 58%] Building CXX object DDAlign/CMakeFiles/DDAlignPlugins.dir/src/plugins/GlobalAlignmentParser.cpp.o
+[ 57%] Building CXX object DDAlign/CMakeFiles/DDAlignPlugins.dir/src/plugins/AlignmentsPlugins.cpp.o
+Scanning dependencies of target DDCADPlugins
+[ 59%] Building CXX object DDCAD/CMakeFiles/DDCADPlugins.dir/src/plugins/CADPlugins.cpp.o
+[ 59%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/Annotation.cpp.o
+[ 59%] Building CXX object DDCond/CMakeFiles/DDCond.dir/src/ConditionsPool.cpp.o
+[ 59%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/Calo2DProjection.cpp.o
+[ 59%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/Calo3DProjection.cpp.o
+[ 59%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/CaloLego.cpp.o
+[ 60%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/ContextMenu.cpp.o
+[ 60%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/DD4hepMenu.cpp.o
+[ 60%] Building CXX object DDCond/CMakeFiles/DDCond.dir/src/ConditionsRepository.cpp.o
+[ 60%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/DDEveEventData.cpp.o
+[ 60%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/DDEvePlugins.cpp.o
+[ 60%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/DDG4EventHandler.cpp.o
+[ 61%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/Display.cpp.o
+[ 61%] Linking CXX shared library ../lib/libDDAlignPlugins.so
+[ 61%] Building CXX object DDCond/CMakeFiles/DDCond.dir/src/ConditionsRootPersistency.cpp.o
+[ 61%] Building CXX object DDCore/CMakeFiles/DDCorePlugins.dir/src/plugins/LCDDConverter.cpp.o
+[ 61%] Building CXX object DDCond/CMakeFiles/DDCond.dir/src/ConditionsSlice.cpp.o
+[ 61%] Built target DDAlignPlugins
+[ 61%] Linking CXX shared library ../lib/libDDCADPlugins.so
+[ 61%] Building CXX object DDCore/CMakeFiles/DDCorePlugins.dir/src/plugins/PandoraConverter.cpp.o
+[ 61%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiContext.cpp.o
+Scanning dependencies of target Components_DDAlignPlugins
+[ 62%] Building CXX object DDCond/CMakeFiles/DDCond.dir/src/ConditionsTags.cpp.o
+[ 62%] Generating libDDAlignPlugins.components
+[ 62%] Built target DDCADPlugins
+Scanning dependencies of target Components_DDCADPlugins
+[ 62%] Built target Components_DDAlignPlugins
+[ 62%] Generating libDDCADPlugins.components
+[ 63%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiData.cpp.o
+[ 63%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiEventAction.cpp.o
+[ 63%] Building CXX object DDCore/CMakeFiles/DDCorePlugins.dir/src/plugins/PluginInvoker.cpp.o
+[ 63%] Built target Components_DDCADPlugins
+[ 63%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiHandle.cpp.o
+[ 63%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiInputAction.cpp.o
+[ 63%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiKernel.cpp.o
+[ 64%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiLockedAction.cpp.o
+[ 64%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiOutputAction.cpp.o
+[ 64%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiPlugins.cpp.o
+[ 64%] Building CXX object DDCond/CMakeFiles/DDCond.dir/src/ConditionsTextRepository.cpp.o
+[ 64%] Building CXX object DDCond/CMakeFiles/DDCond.dir/src/ConditionsTreePersistency.cpp.o
+[ 64%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/DisplayConfiguration.cpp.o
+[ 64%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiROOTInput.cpp.o
+[ 64%] Linking CXX shared library ../lib/libDDRec.so
+[ 64%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiROOTOutput.cpp.o
+[ 65%] Building CXX object DDCore/CMakeFiles/DDCorePlugins.dir/src/plugins/ReadoutSegmentations.cpp.o
+[ 65%] Building CXX object DDCond/CMakeFiles/DDCond.dir/G__DDCond.cxx.o
+[ 65%] Built target DDRec
+[ 65%] Building CXX object DDCore/CMakeFiles/DDCorePlugins.dir/src/plugins/ShapePlugins.cpp.o
+[ 67%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiRandomGenerator.cpp.o
+[ 67%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/DisplayConfigurationParser.cpp.o
+[ 67%] Building CXX object DDCore/CMakeFiles/DDCorePlugins.dir/src/plugins/StandardPlugins.cpp.o
+[ 67%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiSegmentProcessor.cpp.o
+[ 67%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/ElementList.cpp.o
+[ 67%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiSegmentSplitter.cpp.o
+[ 67%] Building CXX object DDCore/CMakeFiles/DDCorePlugins.dir/src/plugins/TGeoCodeGenerator.cpp.o
+[ 67%] Building CXX object DDCore/CMakeFiles/DDCorePlugins.dir/src/plugins/VisDensityProcessor.cpp.o
+[ 67%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/EvePgonSetProjectedContextMenu.cpp.o
+[ 68%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/EveShapeContextMenu.cpp.o
+[ 68%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiSegmentationTool.cpp.o
+[ 68%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiSegmentation.cpp.o
+[ 68%] Built target Components_DDPythonPlugins
+[ 69%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiSemaphore.cpp.o
+Scanning dependencies of target DDRecPlugins
+[ 70%] Building CXX object DDRec/CMakeFiles/DDRecPlugins.dir/src/plugins/addVariantParameters.cpp.o
+[ 70%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/EveUserContextMenu.cpp.o
+[ 70%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/EventControl.cpp.o
+[ 70%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiSignalProcessor.cpp.o
+[ 70%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiStoreDump.cpp.o
+[ 71%] Generating G__eve1.cxx, ../lib/G__eve1_rdict.pcm
+[ 71%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/EventHandler.cpp.o
+[ 71%] Linking CXX shared library ../lib/libDDCond.so
+Scanning dependencies of target test_cellid_position_converter
+[ 71%] Building CXX object UtilityApps/CMakeFiles/test_cellid_position_converter.dir/src/test_cellid_position_converter.cpp.o
+Scanning dependencies of target materialBudget
+Scanning dependencies of target DDDetectors
+[ 71%] Building CXX object UtilityApps/CMakeFiles/materialBudget.dir/src/materialBudget.cpp.o
+[ 71%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/DigiSynchronize.cpp.o
+[ 71%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/Beampipe_o1_v01_geo.cpp.o
+[ 71%] Built target DDCond
+[ 71%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/noise/DigiExponentialNoise.cpp.o
+[ 72%] Building CXX object DDCore/CMakeFiles/DDCorePlugins.dir/src/plugins/VisProcessor.cpp.o
+[ 73%] Generating G__eve.cxx, ../lib/G__eve_rdict.pcm
+[ 73%] Building CXX object DDCore/CMakeFiles/DDCorePlugins.dir/src/plugins/VisVolNameProcessor.cpp.o
+[ 74%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/noise/DigiGaussianNoise.cpp.o
+Scanning dependencies of target test_surfaces
+[ 74%] Building CXX object UtilityApps/CMakeFiles/test_surfaces.dir/src/test_surfaces.cpp.o
+[ 74%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/FrameControl.cpp.o
+Scanning dependencies of target print_materials
+Scanning dependencies of target teveLCIO
+[ 75%] Building CXX object UtilityApps/CMakeFiles/print_materials.dir/src/print_materials.cpp.o
+[ 75%] Building CXX object UtilityApps/CMakeFiles/teveLCIO.dir/G__eve1.cxx.o
+Scanning dependencies of target materialScan
+[ 75%] Building CXX object UtilityApps/CMakeFiles/materialScan.dir/src/materialScan.cpp.o
+Scanning dependencies of target graphicalScan
+Scanning dependencies of target teveDisplay
+[ 75%] Building CXX object UtilityApps/CMakeFiles/graphicalScan.dir/src/graphicalScan.cpp.o
+[ 75%] Building CXX object UtilityApps/CMakeFiles/teveDisplay.dir/src/teve_display.cpp.o
+[ 75%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/BoxSegment_geo.cpp.o
+[ 75%] Linking CXX executable ../bin/materialBudget
+[ 76%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/GenericEventHandler.cpp.o
+[ 76%] Linking CXX executable ../bin/test_cellid_position_converter
+[ 76%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/noise/DigiLandauNoise.cpp.o
+[ 76%] Building CXX object UtilityApps/CMakeFiles/teveLCIO.dir/src/teve_display.cpp.o
+[ 76%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/noise/DigiPoissonNoise.cpp.o
+[ 76%] Built target materialBudget
+Scanning dependencies of target test_surface
+[ 77%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/CaloFaceBarrel_surfaces.cpp.o
+[ 77%] Building CXX object DDTest/CMakeFiles/test_surface.dir/src/test_surface.cc.o
+[ 77%] Built target test_cellid_position_converter
+Scanning dependencies of target test_units
+[ 77%] Building CXX object DDTest/CMakeFiles/test_units.dir/src/test_units.cc.o
+[ 77%] Linking CXX executable ../bin/print_materials
+[ 77%] Linking CXX executable ../bin/test_surfaces
+[ 77%] Linking CXX executable ../bin/materialScan
+Scanning dependencies of target test_bitfield64
+[ 77%] Built target print_materials
+[ 77%] Building CXX object DDTest/CMakeFiles/test_bitfield64.dir/src/test_bitfield64.cc.o
+Scanning dependencies of target test_PolarGridRPhi2
+[ 77%] Building CXX object DDTest/CMakeFiles/test_PolarGridRPhi2.dir/src/test_PolarGridRPhi2.cc.o
+[ 77%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/noise/DigiRandomNoise.cpp.o
+[ 77%] Built target test_surfaces
+Scanning dependencies of target test_segmentationHandles
+[ 77%] Built target materialScan
+[ 77%] Building CXX object DDTest/CMakeFiles/test_segmentationHandles.dir/src/test_segmentationHandles.cc.o
+[ 77%] Building CXX object UtilityApps/CMakeFiles/teveDisplay.dir/src/next_event_dummy.cpp.o
+[ 77%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/noise/DigiSignalProcessorSequence.cpp.o
+[ 77%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/HitActors.cpp.o
+Scanning dependencies of target test_bitfieldcoder
+[ 78%] Building CXX object DDTest/CMakeFiles/test_bitfieldcoder.dir/src/test_bitfieldcoder.cc.o
+[ 78%] Linking CXX executable ../bin/graphicalScan
+[ 78%] Building CXX object UtilityApps/CMakeFiles/teveDisplay.dir/G__eve.cxx.o
+[ 78%] Linking CXX executable ../bin/test_bitfield64
+[ 78%] Building CXX object DDRec/CMakeFiles/DDRecPlugins.dir/src/plugins/createSurfaceManager.cpp.o
+[ 78%] Linking CXX executable ../bin/test_units
+[ 78%] Built target graphicalScan
+Scanning dependencies of target test_DetType
+[ 79%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/noise/DigiSubdetectorSequence.cpp.o
+[ 79%] Building CXX object DDTest/CMakeFiles/test_DetType.dir/src/test_DetType.cc.o
+[ 80%] Linking CXX executable ../bin/test_surface
+[ 80%] Building CXX object UtilityApps/CMakeFiles/teveLCIO.dir/src/next_event_lcio.cpp.o
+Scanning dependencies of target test_cellDimensions
+[ 80%] Building CXX object DDTest/CMakeFiles/test_cellDimensions.dir/src/test_cellDimensions.cc.o
+[ 80%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/CaloFaceEndcap_surfaces.cpp.o
+[ 80%] Built target test_bitfield64
+[ 80%] Built target test_units
+[ 80%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/ConeSegment_geo.cpp.o
+Scanning dependencies of target test_cellDimensionsRPhi2
+[ 80%] Linking CXX executable ../bin/test_bitfieldcoder
+[ 80%] Building CXX object DDTest/CMakeFiles/test_cellDimensionsRPhi2.dir/src/test_cellDimensionsRPhi2.cc.o
+[ 80%] Linking CXX executable ../bin/test_PolarGridRPhi2
+[ 80%] Built target test_surface
+[ 80%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/CylinderShell_geo.cpp.o
+[ 80%] Linking CXX executable ../bin/test_segmentationHandles
+[ 80%] Linking CXX shared library ../lib/libDDCorePlugins.so
+[ 80%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/MultiView.cpp.o
+[ 80%] Linking CXX executable ../bin/teveDisplay
+[ 80%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/ParticleActors.cpp.o
+[ 80%] Built target test_bitfieldcoder
+Scanning dependencies of target test_example
+[ 80%] Building CXX object DDTest/CMakeFiles/test_example.dir/src/test_example.cc.o
+[ 80%] Built target test_PolarGridRPhi2
+[ 80%] Linking CXX executable ../bin/test_DetType
+Scanning dependencies of target test_Evaluator
+[ 80%] Built target test_segmentationHandles
+[ 80%] Building CXX object DDTest/CMakeFiles/test_Evaluator.dir/src/test_Evaluator.cc.o
+[ 80%] Built target DDCorePlugins
+Scanning dependencies of target DDCondPlugins
+Scanning dependencies of target Components_DDCorePlugins
+[ 81%] Building CXX object DDCond/CMakeFiles/DDCondPlugins.dir/src/Type1/Manager_Type1.cpp.o
+[ 81%] Generating libDDCorePlugins.components
+[ 81%] Linking CXX shared library ../lib/libDDRecPlugins.so
+[ 81%] Built target test_DetType
+[ 81%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/noise/DigiUniformNoise.cpp.o
+[ 81%] Built target teveDisplay
+[ 81%] Built target Components_DDCorePlugins
+[ 81%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/CylindricalBarrelCalorimeter_geo.cpp.o
+[ 81%] Building CXX object DDCond/CMakeFiles/DDCondPlugins.dir/src/plugins/ConditionsLinearPool.cpp.o
+[ 81%] Linking CXX executable ../bin/test_example
+[ 82%] Linking CXX executable ../bin/teveLCIO
+[ 82%] Built target DDRecPlugins
+[ 83%] Linking CXX executable ../bin/test_cellDimensionsRPhi2
+[ 84%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/CylindricalEndcapCalorimeter_geo.cpp.o
+[ 84%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/PopupMenu.cpp.o
+[ 84%] Linking CXX executable ../bin/test_cellDimensions
+[ 84%] Built target test_example
+[ 85%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/Projection.cpp.o
+[ 85%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/RhoPhiProjection.cpp.o
+[ 86%] Linking CXX executable ../bin/test_Evaluator
+[ 86%] Built target test_cellDimensionsRPhi2
+[ 86%] Built target teveLCIO
+[ 86%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/RhoZProjection.cpp.o
+[ 86%] Building CXX object DDCond/CMakeFiles/DDCondPlugins.dir/src/plugins/ConditionsMappedPool.cpp.o
+[ 86%] Built target test_cellDimensions
+[ 86%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/Utilities.cpp.o
+[ 86%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/View.cpp.o
+[ 86%] Built target test_Evaluator
+[ 86%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/DiskTracker_geo.cpp.o
+[ 86%] Building CXX object DDDigi/CMakeFiles/DDDigi.dir/src/noise/FalphaNoise.cpp.o
+[ 86%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/EcalBarrel_geo.cpp.o
+Scanning dependencies of target Components_DDRecPlugins
+[ 87%] Generating libDDRecPlugins.components
+[ 87%] Building CXX object DDCond/CMakeFiles/DDCondPlugins.dir/src/plugins/ConditionsMultiLoader.cpp.o
+[ 87%] Built target Components_DDRecPlugins
+[ 88%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/View3D.cpp.o
+[ 88%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/src/ViewMenu.cpp.o
+[ 88%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/ForwardDetector_geo.cpp.o
+[ 88%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/GenericSurfaceInstaller.cpp.o
+[ 88%] Linking CXX shared library ../lib/libDDDigi.so
+[ 88%] Building CXX object DDCond/CMakeFiles/DDCondPlugins.dir/src/plugins/ConditionsParser.cpp.o
+[ 89%] Building CXX object DDCond/CMakeFiles/DDCondPlugins.dir/src/plugins/ConditionsPlugins.cpp.o
+[ 89%] Building CXX object DDEve/CMakeFiles/DDEvePlugins.dir/G__DDEve.cxx.o
+[ 90%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/Mask_o1_v01_geo.cpp.o
+[ 90%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/MultiLayerTracker_geo.cpp.o
+[ 90%] Built target DDDigi
+[ 90%] Building CXX object DDCond/CMakeFiles/DDCondPlugins.dir/src/plugins/ConditionsRepositoryParser.cpp.o
+[ 90%] Generating G__DDDigi.cxx, ../lib/G__DDDigi_rdict.pcm
+[ 90%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/PolyconeSupport_geo.cpp.o
+[ 90%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/PolyhedraBarrelCalorimeter2_geo.cpp.o
+[ 90%] Building CXX object DDCond/CMakeFiles/DDCondPlugins.dir/src/plugins/ConditionsRepositoryWriter.cpp.o
+[ 90%] Building CXX object DDCond/CMakeFiles/DDCondPlugins.dir/src/plugins/ConditionsSnapshotRootLoader.cpp.o
+[ 90%] Building CXX object DDCond/CMakeFiles/DDCondPlugins.dir/src/plugins/ConditionsXmlLoader.cpp.o
+[ 91%] Building CXX object DDCond/CMakeFiles/DDCondPlugins.dir/src/plugins/ConditionsUserPool.cpp.o
+[ 91%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/PolyhedraEndcapCalorimeter2_geo.cpp.o
+[ 92%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/PolyhedraEndcapCalorimeter2_surfaces.cpp.o
+[ 92%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/ReflectedDetector_geo.cpp.o
+[ 92%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/SiTrackerBarrel_surfaces.cpp.o
+[ 93%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/SiTrackerEndcap2_geo.cpp.o
+[ 93%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/SiTrackerBarrel_geo.cpp.o
+[ 93%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/SiTrackerEndcap_surfaces.cpp.o
+[ 93%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/Solenoid_o1_v01_gep.cpp.o
+[ 93%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/SubdetectorAssembly_geo.cpp.o
+Scanning dependencies of target DDDigiPlugins
+[ 93%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/SurfaceExamplePlugin.cpp.o
+[ 94%] Building CXX object DDDigi/CMakeFiles/DDDigiPlugins.dir/plugins/CellScanner_CartesianGridXY.cpp.o
+[ 94%] Building CXX object DDDigi/CMakeFiles/DDDigiPlugins.dir/plugins/CellScanner_CartesianGridXYZ.cpp.o
+[ 94%] Building CXX object DDDigi/CMakeFiles/DDDigiPlugins.dir/plugins/Components.cpp.o
+[ 94%] Building CXX object DDDigi/CMakeFiles/DDDigiPlugins.dir/plugins/DigiCellMultiplicyCounter.cpp.o
+[ 95%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/TubeSegment_geo.cpp.o
+[ 95%] Linking CXX shared library ../lib/libDDEvePlugins.so
+[ 95%] Building CXX object DDDetectors/CMakeFiles/DDDetectors.dir/src/VolumeAssembly_geo.cpp.o
+[ 95%] Building CXX object DDDigi/CMakeFiles/DDDigiPlugins.dir/plugins/DigiDepositMapCreator.cpp.o
+[ 96%] Building CXX object DDDigi/CMakeFiles/DDDigiPlugins.dir/plugins/DigiDepositSmearing.cpp.o
+[ 96%] Building CXX object DDDigi/CMakeFiles/DDDigiPlugins.dir/plugins/DigiDepositWeightedPosition.cpp.o
+[ 96%] Building CXX object DDDigi/CMakeFiles/DDDigiPlugins.dir/plugins/DigiHitHistoryDrop.cpp.o
+[ 96%] Building CXX object DDDigi/CMakeFiles/DDDigiPlugins.dir/plugins/DigiIPCreate.cpp.o
+[ 96%] Linking CXX shared library ../lib/libDDCondPlugins.so
+[ 96%] Building CXX object DDDigi/CMakeFiles/DDDigiPlugins.dir/plugins/DigiIPMover.cpp.o
+[ 97%] Building CXX object DDDigi/CMakeFiles/DDDigiPlugins.dir/plugins/DigiRandomNoise.cpp.o
+[ 97%] Built target DDEvePlugins
+[ 97%] Building CXX object DDDigi/CMakeFiles/DDDigiPlugins.dir/plugins/DigiResegment.cpp.o
+Scanning dependencies of target Components_DDEvePlugins
+[ 97%] Building CXX object DDDigi/CMakeFiles/DDDigiPlugins.dir/plugins/DigiSegmentDepositExtractor.cpp.o
+[ 97%] Generating libDDEvePlugins.components
+[ 97%] Built target DDCondPlugins
+[ 97%] Building CXX object DDDigi/CMakeFiles/DDDigiPlugins.dir/plugins/DigiSegmentDepositPrint.cpp.o
+[ 97%] Building CXX object DDDigi/CMakeFiles/DDDigiPlugins.dir/plugins/DigiSimpleADCResponse.cpp.o
+[ 98%] Building CXX object DDDigi/CMakeFiles/DDDigiPlugins.dir/G__DDDigi.cxx.o
+Scanning dependencies of target Components_DDCondPlugins
+[ 98%] Generating libDDCondPlugins.components
+[ 98%] Built target Components_DDCondPlugins
+[ 98%] Linking CXX shared library ../lib/libDDDetectors.so
+[ 98%] Built target DDDetectors
+Scanning dependencies of target Components_DDDetectors
+[100%] Generating libDDDetectors.components
+[100%] Built target Components_DDDetectors
+[100%] Built target Components_DDEvePlugins
+[100%] Linking CXX shared library ../lib/libDDDigiPlugins.so
+[100%] Built target DDDigiPlugins
+Scanning dependencies of target Components_DDDigiPlugins
+[100%] Generating libDDDigiPlugins.components
+[100%] Built target Components_DDDigiPlugins

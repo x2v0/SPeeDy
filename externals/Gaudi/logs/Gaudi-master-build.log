@@ -1,0 +1,1094 @@
+[  0%] Building CXX object GaudiPluginService/CMakeFiles/GaudiPluginService.dir/src/PluginServiceV2.cpp.o
+[  0%] Building CXX object GaudiPluginService/CMakeFiles/GaudiPluginService.dir/src/PluginServiceV1.cpp.o
+[  0%] Generating ConfigurableUser DB for GaudiExamples
+[  0%] Generating ConfigurableUser DB for Gaudi
+[  0%] Generating GaudiKernelDict.cxx and GaudiKernelDict.rootmap and GaudiKernelDict_rdict.pcm
+[  0%] Generating GaudiMPDict.cxx and GaudiMPDict.rootmap and GaudiMPDict_rdict.pcm
+[  0%] Built target GaudiExamples_confuserdb
+[  0%] Building CXX object GaudiPluginService/CMakeFiles/GaudiPluginService.dir/src/capi_pluginservice.cpp.o
+[  0%] Built target Gaudi_confuserdb
+[  0%] Generating GaudiPythonDict.cxx and GaudiPythonDict.rootmap and GaudiPythonDict_rdict.pcm
+[  0%] Generating RootCnvDict.cxx and RootCnvDict.rootmap and RootCnvDict_rdict.pcm
+[  0%] Linking CXX shared library libGaudiPluginService.so
+[  0%] Built target GaudiPluginService
+[  0%] Built target RootCnvDict-gen
+[  0%] Generating GaudiExamplesDict.cxx and GaudiExamplesDict.rootmap and GaudiExamplesDict_rdict.pcm
+[  0%] Built target GaudiKernelDict-gen
+[  0%] Built target GaudiExamplesDict-gen
+[  0%] Built target GaudiMPDict-gen
+[  0%] Building CXX object GaudiCoreSvc/CMakeFiles/JOS_memory_use.dir/tests/src/test_JOS/memory_use.cpp.o
+[  0%] Building CXX object GaudiHive/CMakeFiles/makeThesis.dir/src/bin/makeThesis.cpp.o
+[  0%] Building CXX object GaudiCoreSvc/CMakeFiles/JOS_memory_use.dir/src/JobOptionsSvc/PropertyId.cpp.o
+[  0%] Building CXX object GaudiProfiling/CMakeFiles/PyCPUFamily.dir/src/python/CPUFamily.cpp.o
+[  0%] Linking CXX executable makeThesis
+[  0%] Linking CXX executable JOS_memory_use
+[  0%] Built target makeThesis
+[  0%] Built target JOS_memory_use
+[  0%] Building CXX object GaudiExamples/CMakeFiles/PyExample.dir/src/PythonModule/PyExample.cpp.o
+[  0%] Building CXX object GaudiExamples/CMakeFiles/PyExample.dir/src/PythonModule/Functions.cpp.o
+[  0%] Building CXX object GaudiPluginService/CMakeFiles/listcomponents.dir/src/listcomponents.cpp.o
+[  0%] Building CXX object GaudiPluginService/CMakeFiles/Test_GaudiPluginService_UseCasesLib.dir/tests/src/UseCasesLib.cpp.o
+[  1%] Linking CXX executable listcomponents
+[  1%] Built target listcomponents
+[  1%] Building CXX object GaudiPluginService/CMakeFiles/Test_GaudiPluginService_UseCases.dir/tests/src/UseCasesTests.cpp.o
+[  1%] Building CXX object GaudiPluginService/CMakeFiles/Test_GaudiPluginService_LegacyUseCasesLib.dir/tests/src/LegacyUseCasesLib.cpp.o
+[  1%] Linking CXX shared library libTest_GaudiPluginService_UseCasesLib.so
+[  1%] Built target Test_GaudiPluginService_UseCasesLib
+[  1%] Linking CXX shared library libTest_GaudiPluginService_LegacyUseCasesLib.so
+[  1%] Building CXX object GaudiPluginService/CMakeFiles/Test_GaudiPluginService_LegacyUseCases.dir/tests/src/LegacyUseCasesTests.cpp.o
+[  1%] Built target Test_GaudiPluginService_LegacyUseCasesLib
+[  1%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/AlgContext.cpp.o
+[  1%] Linking CXX shared module PyCPUFamily.so
+[  1%] Linking CXX shared module PyExample.so
+[  1%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Algorithm.cpp.o
+[  1%] Built target PyExample
+[  1%] Built target PyCPUFamily
+[  1%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/AlgorithmHistory.cpp.o
+[  1%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/AlgTool.cpp.o
+[  1%] Linking CXX executable Test_GaudiPluginService_LegacyUseCases
+[  1%] Built target GaudiPythonDict-gen
+[  2%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/AlgToolHistory.cpp.o
+[  3%] Linking CXX executable Test_GaudiPluginService_UseCases
+[  3%] Built target Test_GaudiPluginService_LegacyUseCases
+[  3%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/AllocatorPool.cpp.o
+[  3%] Built target Test_GaudiPluginService_UseCases
+[  3%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Application.cpp.o
+[  3%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Auditor.cpp.o
+[  3%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Bootstrap.cpp.o
+[  3%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ChronoEntity.cpp.o
+[  4%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ComponentManager.cpp.o
+[  4%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ConcurrencyFlags.cpp.o
+[  4%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ContainedObject.cpp.o
+[  4%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ConversionSvc.cpp.o
+[  4%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Converter.cpp.o
+[  4%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/DataHandle.cpp.o
+[  5%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/DataHandleFinder.cpp.o
+[  5%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/DataHandleHolderVisitor.cpp.o
+[  5%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/DataHistory.cpp.o
+[  5%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/DataObject.cpp.o
+[  5%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/DataObjectHandleBase.cpp.o
+[  5%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/DataHandleProperty.cpp.o
+[  6%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/DataObjID.cpp.o
+[  6%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/DataStreamTool.cpp.o
+[  6%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/DataSvc.cpp.o
+[  6%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/DataTypeInfo.cpp.o
+[  6%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Debugger.cpp.o
+[  6%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Dictionary.cpp.o
+[  7%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/DirSearchPath.cpp.o
+[  7%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/EventIDBase.cpp.o
+[  7%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Environment.cpp.o
+[  7%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/EventIDRange.cpp.o
+[  7%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/EventSelectorDataStream.cpp.o
+[  7%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/FunctionalFilterDecision.cpp.o
+[  8%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/GaudiException.cpp.o
+[  8%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/GaudiHandle.cpp.o
+[  8%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/GaudiMain.cpp.o
+[  8%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Guards.cpp.o
+[  8%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/HistoDef.cpp.o
+[  8%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/HistoryObj.cpp.o
+[  9%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/IChronoStatSvc.cpp.o
+[  9%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/IConversionSvc.cpp.o
+[  9%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/IDataProviderSvc.cpp.o
+[  9%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/IInterface.cpp.o
+[  9%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Incident.cpp.o
+[  9%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/IPartitionControl.cpp.o
+[ 10%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ISvcLocator.cpp.o
+[ 10%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ITimelineSvc.cpp.o
+[ 10%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/JobHistory.cpp.o
+[ 10%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/KeyedObjectManager.cpp.o
+[ 10%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/LegacyAlgorithm.cpp.o
+[ 10%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/LinkManager.cpp.o
+[ 11%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/MapBase.cpp.o
+[ 11%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Memory.cpp.o
+In file included from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/yield_k.hpp:23,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:14,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock.hpp:42,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/shared_ptr.hpp:29,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/shared_ptr.hpp:17,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string/symbols.hpp:30,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string.hpp:15,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi.hpp:28,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/qi.hpp:16,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Grammars.h:35,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Factory.h:28,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/DataObjID.cpp:15:
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/core.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/core.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+[ 11%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Message.cpp.o
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_operator.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/operator.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/operator.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+[ 11%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ModuleInfo.cpp.o
+[ 11%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/MinimalEventLoopMgr.cpp.o
+[ 11%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/MsgStream.cpp.o
+[ 12%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/NTupleImplementation.cpp.o
+[ 12%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/NTupleItems.cpp.o
+[ 12%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ParsersCollections.cpp.o
+[ 12%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ParsersHistograms.cpp.o
+[ 12%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ParsersStandardList1.cpp.o
+[ 12%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ParsersStandardList2.cpp.o
+[ 13%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ParsersStandardList3.cpp.o
+[ 13%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ParsersStandardList4.cpp.o
+[ 13%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ParsersStandardMisc1.cpp.o
+[ 13%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ParsersStandardMisc2.cpp.o
+In file included from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/yield_k.hpp:23,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:14,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock.hpp:42,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/shared_ptr.hpp:29,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/shared_ptr.hpp:17,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string/symbols.hpp:30,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string.hpp:15,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi.hpp:28,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/qi.hpp:16,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Grammars.h:35,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Factory.h:28,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersCollections.cpp:16:
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/core.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/core.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_operator.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/operator.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/operator.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+In file included from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/yield_k.hpp:23,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:14,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock.hpp:42,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/shared_ptr.hpp:29,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/shared_ptr.hpp:17,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string/symbols.hpp:30,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string.hpp:15,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi.hpp:28,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/qi.hpp:16,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Grammars.h:35,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Factory.h:28,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersHistograms.cpp:16:
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/core.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/core.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_operator.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/operator.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/operator.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+In file included from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/yield_k.hpp:23,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:14,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock.hpp:42,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/shared_ptr.hpp:29,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/shared_ptr.hpp:17,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string/symbols.hpp:30,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string.hpp:15,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi.hpp:28,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/qi.hpp:16,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Grammars.h:35,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Factory.h:28,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersStandardListCommon.h:17,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersStandardList1.cpp:11:
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/core.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/core.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+[ 13%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ParsersStandardMisc3.cpp.o
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_operator.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/operator.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/operator.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+In file included from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/yield_k.hpp:23,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:14,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock.hpp:42,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/shared_ptr.hpp:29,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/shared_ptr.hpp:17,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string/symbols.hpp:30,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string.hpp:15,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi.hpp:28,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/qi.hpp:16,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Grammars.h:35,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Factory.h:28,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersStandardListCommon.h:17,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersStandardList2.cpp:11:
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/core.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/core.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_operator.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/operator.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/operator.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+In file included from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/yield_k.hpp:23,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:14,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock.hpp:42,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/shared_ptr.hpp:29,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/shared_ptr.hpp:17,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string/symbols.hpp:30,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string.hpp:15,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi.hpp:28,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/qi.hpp:16,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Grammars.h:35,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Factory.h:28,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersStandardListCommon.h:17,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersStandardList3.cpp:11:
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/core.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/core.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_operator.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/operator.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/operator.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+In file included from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/yield_k.hpp:23,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:14,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock.hpp:42,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/shared_ptr.hpp:29,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/shared_ptr.hpp:17,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string/symbols.hpp:30,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string.hpp:15,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi.hpp:28,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/qi.hpp:16,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Grammars.h:35,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Factory.h:28,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersStandardListCommon.h:17,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersStandardList4.cpp:11:
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/core.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/core.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+In file included from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/yield_k.hpp:23,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:14,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock.hpp:42,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/shared_ptr.hpp:29,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/shared_ptr.hpp:17,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string/symbols.hpp:30,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string.hpp:15,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi.hpp:28,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/qi.hpp:16,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Grammars.h:35,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Factory.h:28,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersStandardMiscCommon.h:17,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersStandardMisc1.cpp:11:
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/core.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/core.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_operator.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/operator.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/operator.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_operator.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/operator.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/operator.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+In file included from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/yield_k.hpp:23,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:14,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock.hpp:42,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/shared_ptr.hpp:29,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/shared_ptr.hpp:17,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string/symbols.hpp:30,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string.hpp:15,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi.hpp:28,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/qi.hpp:16,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Grammars.h:35,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Factory.h:28,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersStandardMiscCommon.h:17,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersStandardMisc2.cpp:11:
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/core.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/core.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_operator.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/operator.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/operator.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+[ 13%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ParsersStandardMisc4.cpp.o
+In file included from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/yield_k.hpp:23,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:14,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock.hpp:42,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/shared_ptr.hpp:29,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/shared_ptr.hpp:17,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string/symbols.hpp:30,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string.hpp:15,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi.hpp:28,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/qi.hpp:16,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Grammars.h:35,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Factory.h:28,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersStandardMiscCommon.h:17,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersStandardMisc3.cpp:11:
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/core.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/core.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_operator.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/operator.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/operator.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+[ 14%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ParsersStandardMisc5.cpp.o
+[ 14%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ParsersStandardSingle.cpp.o
+[ 14%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ParsersVct.cpp.o
+[ 14%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/PathResolver.cpp.o
+In file included from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/yield_k.hpp:23,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:14,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock.hpp:42,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/shared_ptr.hpp:29,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/shared_ptr.hpp:17,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string/symbols.hpp:30,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string.hpp:15,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi.hpp:28,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/qi.hpp:16,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Grammars.h:35,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Factory.h:28,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersStandardMiscCommon.h:17,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersStandardMisc4.cpp:11:
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/core.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/core.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+[ 14%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/PrintAlgsSequences.cpp.o
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_operator.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/operator.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/operator.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+In file included from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/yield_k.hpp:23,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:14,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock.hpp:42,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/shared_ptr.hpp:29,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/shared_ptr.hpp:17,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string/symbols.hpp:30,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string.hpp:15,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi.hpp:28,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/qi.hpp:16,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Grammars.h:35,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Factory.h:28,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersStandardMiscCommon.h:17,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersStandardMisc5.cpp:11:
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/core.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/core.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_operator.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/operator.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/operator.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+[ 14%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ProcessDescriptor.cpp.o
+[ 15%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Property.cpp.o
+In file included from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/yield_k.hpp:23,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:14,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock.hpp:42,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/shared_ptr.hpp:29,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/shared_ptr.hpp:17,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string/symbols.hpp:30,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string.hpp:15,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi.hpp:28,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/qi.hpp:16,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Grammars.h:35,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Factory.h:28,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersStandardSingle.cpp:15:
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/core.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/core.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_operator.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/operator.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/operator.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+[ 15%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/PropertyMgr.cpp.o
+[ 15%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Range.cpp.o
+[ 15%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/RegistryEntry.cpp.o
+[ 15%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/RenounceToolInputsVisitor.cpp.o
+[ 15%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/RndmGenerators.cpp.o
+[ 16%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/RndmTypeInfos.cpp.o
+In file included from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/yield_k.hpp:23,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:14,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock.hpp:42,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/shared_ptr.hpp:29,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/shared_ptr.hpp:17,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string/symbols.hpp:30,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string.hpp:15,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi.hpp:28,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/qi.hpp:16,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Grammars.h:35,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Factory.h:28,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/src/Lib/ParsersVct.cpp:17:
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/core.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/core.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_operator.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/operator.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/operator.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+[ 16%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Selector.cpp.o
+[ 16%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Sequence.cpp.o
+[ 16%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Service.cpp.o
+[ 16%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ServiceHistory.cpp.o
+[ 16%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ServiceLocatorHelper.cpp.o
+[ 17%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Sleep.cpp.o
+[ 17%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/SmartDataObjectPtr.cpp.o
+[ 17%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/SmartRefBase.cpp.o
+[ 17%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/SmartRefVector.cpp.o
+[ 17%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Stat.cpp.o
+[ 17%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/StateMachine.cpp.o
+[ 18%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/StatusCode.cpp.o
+[ 18%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/StringKey.cpp.o
+[ 18%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/System.cpp.o
+[ 18%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ThreadLocalContext.cpp.o
+[ 18%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Time.cpp.o
+[ 18%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Timing.cpp.o
+[ 19%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/ToolVisitor.cpp.o
+[ 19%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/TsDataSvc.cpp.o
+[ 19%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/VirtualDestructors.cpp.o
+[ 19%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/Platform/SystemLinux.cpp.o
+[ 19%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernel.dir/src/Lib/WatchdogThread.cpp.o
+[ 19%] Linking CXX shared library libGaudiKernel.so
+[ 19%] Built target GaudiKernel
+[ 19%] Building CXX object GaudiKernel/CMakeFiles/profile_Property.dir/tests/src/profile_Property.cpp.o
+[ 19%] Building CXX object GaudiKernel/CMakeFiles/DirSearchPath_test.dir/tests/src/DirSearchPath_test.cpp.o
+[ 19%] Building CXX object GaudiKernel/CMakeFiles/PathResolver_test.dir/tests/src/PathResolver_test.cpp.o
+[ 19%] Linking CXX executable profile_Property
+[ 19%] Built target profile_Property
+[ 19%] Building CXX object GaudiKernel/CMakeFiles/Parsers_test.dir/tests/src/parsers.cpp.o
+[ 19%] Building CXX object GaudiKernel/CMakeFiles/Memory_test.dir/tests/src/Memory_test.cpp.o
+[ 20%] Building CXX object GaudiKernel/CMakeFiles/ContextSpecificPtrTest.dir/tests/src/test_ContextSpecificPtr.cpp.o
+[ 20%] Linking CXX executable DirSearchPath_test
+[ 21%] Linking CXX executable PathResolver_test
+[ 22%] Linking CXX executable Memory_test
+[ 22%] Building CXX object GaudiKernel/CMakeFiles/test_GAUDI-905.dir/tests/src/GAUDI-905.cpp.o
+[ 22%] Built target DirSearchPath_test
+[ 22%] Building CXX object GaudiKernel/CMakeFiles/test_GAUDI-973.dir/tests/src/GAUDI-973.cpp.o
+[ 22%] Built target Memory_test
+[ 23%] Building CXX object GaudiKernel/CMakeFiles/test_PropertyHolder.dir/tests/src/test_PropertyHolder.cpp.o
+[ 23%] Linking CXX executable test_GAUDI-905
+[ 23%] Built target PathResolver_test
+[ 25%] Building CXX object GaudiKernel/CMakeFiles/test_WeakPropertyRef.dir/tests/src/test_WeakPropertyRef.cpp.o
+[ 25%] Building CXX object GaudiKernel/CMakeFiles/test_Property.dir/tests/src/test_Property.cpp.o
+[ 25%] Building CXX object GaudiKernel/CMakeFiles/test_StatusCode.dir/tests/src/test_StatusCode.cpp.o
+[ 25%] Linking CXX executable test_GAUDI-973
+[ 25%] Built target test_GAUDI-905
+[ 25%] Building CXX object GaudiKernel/CMakeFiles/test_EventIDBase.dir/tests/src/test_EventIDBase.cpp.o
+[ 26%] Building CXX object GaudiKernel/CMakeFiles/test_EventIDRange.dir/tests/src/test_EventIDRange.cpp.o
+[ 26%] Linking CXX executable ContextSpecificPtrTest
+[ 26%] Built target test_GAUDI-973
+[ 26%] Building CXX object GaudiKernel/CMakeFiles/test_SystemTypeinfoName.dir/tests/src/test_SystemTypeinfoName.cpp.o
+[ 26%] Building CXX object GaudiKernel/CMakeFiles/test_SystemCmdLineArgs.dir/tests/src/test_SystemCmdLineArgs.cpp.o
+[ 26%] Building CXX object GaudiKernel/CMakeFiles/test_compose.dir/tests/src/test_compose.cpp.o
+[ 26%] Built target ContextSpecificPtrTest
+[ 26%] Linking CXX executable test_EventIDBase
+[ 26%] Linking CXX executable test_WeakPropertyRef
+[ 26%] Building CXX object GaudiKernel/CMakeFiles/test_reverse.dir/tests/src/test_reverse.cpp.o
+[ 26%] Linking CXX executable test_EventIDRange
+[ 26%] Linking CXX executable test_PropertyHolder
+[ 26%] Linking CXX executable test_StatusCode
+[ 26%] Building CXX object GaudiKernel/CMakeFiles/test_Counters.dir/tests/src/CountersUnitTest.cpp.o
+[ 26%] Built target test_WeakPropertyRef
+[ 26%] Built target test_EventIDBase
+[ 26%] Linking CXX executable test_SystemCmdLineArgs
+[ 26%] Building CXX object GaudiKernel/CMakeFiles/test_CounterHistos.dir/tests/src/CounterHistosUnitTest.cpp.o
+[ 26%] Built target test_PropertyHolder
+[ 26%] Built target test_EventIDRange
+[ 27%] Building CXX object GaudiKernel/CMakeFiles/test_GenericSink.dir/tests/src/GenericSinkUnitTest.cpp.o
+[ 27%] Linking CXX executable test_SystemTypeinfoName
+[ 27%] Built target test_StatusCode
+[ 27%] Linking CXX executable test_compose
+[ 27%] Building CXX object GaudiKernel/CMakeFiles/AttribStringParser_test.dir/tests/src/test_AttribStringParser.cpp.o
+[ 27%] Building CXX object GaudiKernel/CMakeFiles/test_MonotonicArena.dir/tests/src/test_MonotonicArena.cpp.o
+[ 27%] Linking CXX executable test_Property
+[ 27%] Building CXX object GaudiKernel/CMakeFiles/test_GaudiTimer.dir/tests/src/test_GaudiTimer.cpp.o
+[ 27%] Built target test_SystemCmdLineArgs
+[ 27%] Built target test_SystemTypeinfoName
+[ 27%] Built target test_compose
+[ 27%] Linking CXX executable test_reverse
+[ 27%] Building CXX object GaudiKernel/CMakeFiles/test_SerializeSTL.dir/tests/src/test_SerializeSTL.cpp.o
+[ 27%] Built target test_Property
+In file included from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/yield_k.hpp:23,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:14,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock.hpp:42,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/shared_ptr.hpp:29,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/shared_ptr.hpp:17,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/test/execution_monitor.hpp:24,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/test/impl/compiler_log_formatter.ipp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/test/included/unit_test.hpp:18,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/tests/src/parsers.cpp:17:
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/core.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/core.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_operator.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/operator.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/operator.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+[ 27%] Built target test_reverse
+[ 27%] Building CXX object GaudiKernel/CMakeFiles/test_AnyDataObject.dir/tests/src/test_AnyDataObject.cpp.o
+[ 27%] Building CXX object GaudiKernel/CMakeFiles/test_DataHandleVector.dir/tests/src/test_DataHandleVector.cpp.o
+[ 27%] Linking CXX executable test_MonotonicArena
+[ 28%] Building CXX object GaudiKernel/CMakeFiles/test_GaudiTime.dir/tests/src/test_GaudiTime.cpp.o
+[ 28%] Linking CXX executable test_GenericSink
+[ 28%] Building CXX object GaudiKernel/CMakeFiles/test_GaudiTiming.dir/tests/src/test_GaudiTiming.cpp.o
+[ 28%] Built target test_MonotonicArena
+[ 28%] Linking CXX executable test_AnyDataObject
+[ 28%] Linking CXX executable test_SerializeSTL
+[ 28%] Built target test_GenericSink
+[ 29%] Building CXX object GaudiKernel/CMakeFiles/test_LockedHandle.dir/tests/src/test_LockedHandle.cpp.o
+[ 29%] Built target test_AnyDataObject
+[ 29%] Linking CXX executable test_DataHandleVector
+[ 29%] Built target test_SerializeSTL
+[ 29%] Linking CXX executable test_GaudiTimer
+[ 30%] Building CXX object GaudiKernel/CMakeFiles/genconf.dir/src/Util/genconf.cpp.o
+[ 30%] Built target test_DataHandleVector
+[ 30%] Linking CXX executable test_GaudiTime
+[ 30%] Built target test_GaudiTimer
+[ 30%] Built target test_GaudiTime
+[ 30%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamplesLib.dir/src/Lib/Counter.cpp.o
+[ 30%] Building CXX object GaudiUtils/CMakeFiles/GaudiUtilsLib.dir/src/Lib/QuasiRandom.cpp.o
+[ 30%] Linking CXX executable test_Counters
+[ 30%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamplesLib.dir/src/Lib/Event.cpp.o
+[ 30%] Linking CXX executable test_LockedHandle
+[ 30%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvcLib.dir/src/HistogramSvc/HistogramSvc.cpp.o
+[ 31%] Building CXX object GaudiUtils/CMakeFiles/GaudiUtilsLib.dir/src/Lib/Aida2ROOT.cpp.o
+[ 31%] Built target test_Counters
+[ 31%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamplesLib.dir/src/Lib/MyTrack.cpp.o
+[ 31%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamplesLib.dir/src/Lib/MyVertex.cpp.o
+[ 32%] Building CXX object GaudiMP/CMakeFiles/GaudiMPLib.dir/src/Lib/PyROOTPickle.cpp.o
+[ 32%] Building CXX object GaudiMP/CMakeFiles/GaudiMPLib.dir/src/Lib/TESSerializer.cpp.o
+[ 32%] Built target test_LockedHandle
+[ 32%] Building CXX object GaudiUtils/CMakeFiles/GaudiUtilsLib.dir/src/Lib/HistoStrings.cpp.o
+[ 32%] Building CXX object GaudiUtils/CMakeFiles/GaudiUtilsLib.dir/src/Lib/HistoLabels.cpp.o
+[ 32%] Building CXX object GaudiKernel/CMakeFiles/instructionsetLevel.dir/src/Util/instructionsetLevel.cpp.o
+[ 32%] Linking CXX executable test_CounterHistos
+[ 33%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvcLib.dir/src/HistogramSvc/AIDA_visibility_hack.cpp.o
+[ 33%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvcLib.dir/src/HistogramSvc/H1D.cpp.o
+[ 33%] Linking CXX executable test_GaudiTiming
+[ 34%] Linking CXX shared library libGaudiExamplesLib.so
+[ 34%] Linking CXX executable instructionsetLevel
+Consolidate compiler generated dependencies of target GaudiKernelDict
+[ 34%] Building CXX object GaudiUtils/CMakeFiles/GaudiUtilsLib.dir/src/Lib/Histo2String.cpp.o
+[ 34%] Building CXX object GaudiKernel/CMakeFiles/GaudiKernelDict.dir/GaudiKernelDict.cxx.o
+[ 34%] Building CXX object GaudiUtils/CMakeFiles/GaudiUtilsLib.dir/src/Lib/HistoParsers.cpp.o
+[ 34%] Built target test_CounterHistos
+[ 34%] Built target GaudiExamplesLib
+[ 34%] Built target test_GaudiTiming
+[ 34%] Built target instructionsetLevel
+[ 34%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvcLib.dir/src/HistogramSvc/H2D.cpp.o
+[ 34%] Building CXX object GaudiUtils/CMakeFiles/GaudiUtilsLib.dir/src/Lib/HistoTableFormat.cpp.o
+[ 34%] Linking CXX shared library libGaudiMPLib.so
+[ 34%] Building CXX object GaudiCoreSvc/CMakeFiles/test_JOS_base.dir/tests/src/test_JOS/base.cpp.o
+[ 34%] Built target GaudiMPLib
+[ 35%] Building CXX object GaudiUtils/CMakeFiles/GaudiUtilsLib.dir/src/Lib/HistoDump.cpp.o
+[ 35%] Building CXX object GaudiUtils/CMakeFiles/GaudiUtilsLib.dir/src/Lib/HistoStats.cpp.o
+[ 35%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvcLib.dir/src/HistogramSvc/H3D.cpp.o
+[ 35%] Building CXX object GaudiUtils/CMakeFiles/GaudiUtilsLib.dir/src/Lib/HistoXML.cpp.o
+[ 35%] Building CXX object GaudiCoreSvc/CMakeFiles/test_JOS_binding.dir/tests/src/test_JOS/binding.cpp.o
+In file included from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/yield_k.hpp:23,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:14,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock.hpp:42,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/shared_ptr.hpp:29,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/shared_ptr.hpp:17,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string/symbols.hpp:30,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string.hpp:15,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi.hpp:28,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/qi.hpp:16,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Grammars.h:35,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Factory.h:28,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiUtils/src/Lib/HistoParsers.cpp:36:
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/core.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/core.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_operator.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/operator.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/operator.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+[ 35%] Linking CXX executable test_JOS_base
+[ 35%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvcLib.dir/src/HistogramSvc/P1D.cpp.o
+[ 35%] Linking CXX executable AttribStringParser_test
+[ 35%] Built target test_JOS_base
+[ 36%] Building CXX object GaudiCoreSvc/CMakeFiles/JOS_benchmark.dir/tests/src/test_JOS/benchmark.cpp.o
+[ 36%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvcLib.dir/src/HistogramSvc/P2D.cpp.o
+[ 36%] Linking CXX executable test_JOS_binding
+[ 36%] Built target AttribStringParser_test
+[ 36%] Linking CXX shared module libGaudiKernelDict.so
+[ 36%] Building CXX object Gaudi/CMakeFiles/Gaudi.dir/src/main.cpp.o
+[ 36%] Built target test_JOS_binding
+[ 36%] Linking CXX executable Gaudi
+[ 37%] Built target GaudiKernelDict
+[ 37%] Linking CXX executable JOS_benchmark
+[ 38%] Building CXX object GaudiHive/CMakeFiles/concurrentRun.dir/src/bin/concurrentRun.cpp.o
+[ 38%] Building CXX object GaudiProfiling/CMakeFiles/GaudiGenProfilingHtml.dir/src/app/pfm_gen_analysis.cpp.o
+[ 39%] Building CXX object GaudiExamples/CMakeFiles/testAppMgrStateMachine.dir/src/testing/TestAppMgrStateMachine.cpp.o
+[ 39%] Linking CXX executable Parsers_test
+[ 39%] Built target Gaudi
+[ 39%] Built target JOS_benchmark
+[ 40%] Linking CXX shared library libGaudiCommonSvcLib.so
+Consolidate compiler generated dependencies of target GaudiExamplesDict
+[ 41%] Building CXX object GaudiExamples/CMakeFiles/QueueingEventProcessorExample.dir/src/QueueingEventProcessor/main.cpp.o
+[ 41%] Building CXX object GaudiExamples/CMakeFiles/ToolVisitorTest_test.dir/src/ToolVisitorTest/ToolVisitorTest_test.cpp.o
+[ 41%] Building CXX object GaudiExamples/CMakeFiles/ToolVisitorTest_test.dir/src/ToolVisitorTest/ToolVisitorTestLib.cpp.o
+[ 41%] Built target Parsers_test
+[ 41%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamplesDict.dir/GaudiExamplesDict.cxx.o
+[ 41%] Built target GaudiCommonSvcLib
+Consolidate compiler generated dependencies of target GaudiMPDict
+[ 41%] Linking CXX executable testAppMgrStateMachine
+[ 41%] Building CXX object GaudiMP/CMakeFiles/GaudiMPDict.dir/GaudiMPDict.cxx.o
+[ 41%] Built target testAppMgrStateMachine
+[ 41%] Linking CXX executable QueueingEventProcessorExample
+[ 41%] Linking CXX executable GaudiGenProfilingHtml
+[ 41%] Built target QueueingEventProcessorExample
+[ 41%] Linking CXX executable concurrentRun
+[ 41%] Built target GaudiGenProfilingHtml
+[ 41%] Linking CXX executable genconf
+[ 42%] Linking CXX shared module libGaudiExamplesDict.so
+[ 42%] Built target concurrentRun
+[ 42%] Built target GaudiExamplesDict
+[ 42%] Built target genconf
+[ 42%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/ApplicationMgr/ApplicationMgr.cpp.o
+[ 42%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/AlgExecStateSvc/AlgExecStateSvc.cpp.o
+[ 42%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/ApplicationMgr/AppMgrRunable.cpp.o
+[ 42%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/ApplicationMgr/AlgorithmManager.cpp.o
+[ 42%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/ApplicationMgr/DLLClassManager.cpp.o
+[ 42%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/ApplicationMgr/MinimalEventLoopMgr.cpp.o
+[ 43%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/ApplicationMgr/EventLoopMgr.cpp.o
+[ 43%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/ApplicationMgr/ToolSvc.cpp.o
+[ 43%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/ApplicationMgr/ServiceManager.cpp.o
+[ 43%] Linking CXX shared library libGaudiUtilsLib.so
+[ 43%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/EventSelector/DataStreamToolFactory.cpp.o
+[ 43%] Built target GaudiUtilsLib
+[ 43%] Linking CXX shared module libGaudiMPDict.so
+[ 43%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/EventSelector/EventCollectionSelector.cpp.o
+[ 43%] Linking CXX executable ToolVisitorTest_test
+[ 44%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/EventSelector/EventSelector.cpp.o
+[ 44%] Built target GaudiMPDict
+[ 44%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/IncidentSvc/DataOnDemandSvc.cpp.o
+[ 44%] Built target ToolVisitorTest_test
+[ 44%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlgLib.dir/src/lib/EventCounter.cpp.o
+[ 44%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/IncidentSvc/DODBasicMapper.cpp.o
+[ 44%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlgLib.dir/src/lib/FixTESPath.cpp.o
+[ 44%] Building CXX object RootCnv/CMakeFiles/RootCnvLib.dir/src/RootCnvSvc.cpp.o
+[ 44%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/IncidentSvc/IncidentProcAlg.cpp.o
+[ 44%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/IncidentSvc/IncidentSvc.cpp.o
+[ 44%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlgLib.dir/src/lib/GaudiAlgorithm.cpp.o
+[ 45%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlgLib.dir/src/lib/GaudiHistoID.cpp.o
+[ 45%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/JobOptionsSvc/Analyzer.cpp.o
+[ 46%] Building CXX object GaudiUtils/CMakeFiles/testXMLFileCatalogWrite.dir/src/component/createGuidAsString.cpp.o
+[ 46%] Building CXX object GaudiUtils/CMakeFiles/testXMLFileCatalogRead.dir/src/component/createGuidAsString.cpp.o
+[ 46%] Building CXX object GaudiUtils/CMakeFiles/testXMLFileCatalogWrite.dir/src/component/XMLCatalogTest.cpp.o
+[ 46%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlgLib.dir/src/lib/GaudiSequencer.cpp.o
+[ 46%] Building CXX object GaudiUtils/CMakeFiles/testXMLFileCatalogWrite.dir/src/component/XMLFileCatalog.cpp.o
+[ 46%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlgLib.dir/src/lib/GaudiTool.cpp.o
+[ 46%] Building CXX object GaudiUtils/CMakeFiles/testXMLFileCatalogRead.dir/src/component/XMLCatalogTest.cpp.o
+[ 46%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlgLib.dir/src/lib/GetAlg.cpp.o
+[ 47%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/JobOptionsSvc/Catalog.cpp.o
+[ 47%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/JobOptionsSvc/IncludedFiles.cpp.o
+[ 47%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/JobOptionsSvc/JobOptionsSvc.cpp.o
+[ 47%] Building CXX object GaudiUtils/CMakeFiles/testXMLFileCatalogRead.dir/src/component/XMLFileCatalog.cpp.o
+[ 47%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/JobOptionsSvc/Message.cpp.o
+[ 47%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/JobOptionsSvc/Node.cpp.o
+[ 47%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/JobOptionsSvc/Parser.cpp.o
+[ 47%] Building CXX object RootCnv/CMakeFiles/RootCnvLib.dir/src/RootDataConnection.cpp.o
+[ 47%] Building CXX object RootCnv/CMakeFiles/RootCnvLib.dir/src/RootEvtSelector.cpp.o
+[ 48%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/JobOptionsSvc/Position.cpp.o
+[ 48%] Linking CXX executable testXMLFileCatalogWrite
+[ 48%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/JobOptionsSvc/Property.cpp.o
+[ 48%] Building CXX object RootCnv/CMakeFiles/RootCnvLib.dir/src/RootNTupleCnv.cpp.o
+[ 48%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/JobOptionsSvc/PropertyId.cpp.o
+[ 48%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/JobOptionsSvc/PropertyName.cpp.o
+[ 48%] Linking CXX executable testXMLFileCatalogRead
+[ 48%] Built target testXMLFileCatalogWrite
+[ 48%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/JobOptionsSvc/PropertyValue.cpp.o
+[ 48%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlgLib.dir/src/lib/Prescaler.cpp.o
+[ 48%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlgLib.dir/src/lib/Sequencer.cpp.o
+[ 50%] Building CXX object RootCnv/CMakeFiles/RootCnvLib.dir/src/RootStatCnv.cpp.o
+[ 50%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/JobOptionsSvc/PythonConfig.cpp.o
+[ 50%] Built target testXMLFileCatalogRead
+[ 51%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlgLib.dir/src/lib/Tuple.cpp.o
+In file included from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/config/header_deprecated.hpp:18,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:11,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiCoreSvc/src/JobOptionsSvc/Grammar.h:24,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiCoreSvc/src/JobOptionsSvc/Parser.cpp:13:
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/core.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/core.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_fusion.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/fusion.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/fusion.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_operator.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/operator.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/operator.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_stl.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/stl.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/stl.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+[ 52%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/JobOptionsSvc/Units.cpp.o
+In file included from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/yield_k.hpp:23,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:14,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock.hpp:42,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/shared_ptr.hpp:29,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/shared_ptr.hpp:17,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string/symbols.hpp:30,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string.hpp:15,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi.hpp:28,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/qi.hpp:16,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Grammars.h:35,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Factory.h:28,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiCoreSvc/src/JobOptionsSvc/JobOptionsSvc.cpp:20:
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/core.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/core.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+[ 52%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlgLib.dir/src/lib/TupleObj.cpp.o
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_operator.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/operator.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/operator.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+[ 52%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/JobOptionsSvc/Utils.cpp.o
+[ 52%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/MessageSvc/InertMessageSvc.cpp.o
+[ 52%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/MessageSvc/MessageSvcSink.cpp.o
+[ 52%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/MessageSvc/MessageSvc.cpp.o
+[ 52%] Building CXX object GaudiCoreSvc/CMakeFiles/GaudiCoreSvc.dir/src/MessageSvc/JSONSink.cpp.o
+[ 52%] Building CXX object RootCnv/CMakeFiles/RootCnvLib.dir/src/RootDatabaseCnv.cpp.o
+[ 52%] Building CXX object RootCnv/CMakeFiles/RootCnvLib.dir/src/RootDirectoryCnv.cpp.o
+[ 52%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlgLib.dir/src/lib/Fill.cpp.o
+[ 52%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlgLib.dir/src/lib/Print.cpp.o
+[ 52%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlgLib.dir/src/lib/GaudiHistoAlg.cpp.o
+[ 52%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlgLib.dir/src/lib/GaudiHistoTool.cpp.o
+[ 53%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlgLib.dir/src/lib/GetAlgs.cpp.o
+[ 53%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlgLib.dir/src/lib/GaudiTupleAlg.cpp.o
+[ 53%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlgLib.dir/src/lib/GaudiTupleTool.cpp.o
+[ 53%] Building CXX object RootCnv/CMakeFiles/RootCnvLib.dir/src/RootIOHandler.cpp.o
+[ 53%] Building CXX object RootCnv/CMakeFiles/RootCnvLib.dir/src/RootPerfMonSvc.cpp.o
+[ 53%] Building CXX object RootCnv/CMakeFiles/RootCnvLib.dir/src/SysProcStat.cpp.o
+[ 54%] Linking CXX shared library libRootCnvLib.so
+[ 54%] Built target RootCnvLib
+Consolidate compiler generated dependencies of target RootCnvDict
+[ 54%] Building CXX object RootCnv/CMakeFiles/gaudi_merge.dir/merge/merge.cpp.o
+[ 54%] Building CXX object RootCnv/CMakeFiles/RootCnvDict.dir/RootCnvDict.cxx.o
+[ 54%] Building CXX object RootCnv/CMakeFiles/extract_event.dir/merge/extractEvt.cpp.o
+[ 54%] Linking CXX executable extract_event
+[ 55%] Linking CXX shared module libRootCnvDict.so
+[ 55%] Linking CXX executable gaudi_merge
+[ 55%] Built target extract_event
+[ 55%] Built target RootCnvDict
+[ 55%] Built target gaudi_merge
+[ 56%] Linking CXX shared module libGaudiCoreSvc.so
+[ 56%] Built target GaudiCoreSvc
+[ 57%] Building CXX object GaudiKernel/CMakeFiles/test_CustomFactory.dir/tests/src/custom_factory.cpp.o
+[ 57%] Building CXX object GaudiUtils/CMakeFiles/GaudiUtils.dir/src/component/SignalMonitorSvc.cpp.o
+[ 57%] Building CXX object GaudiAud/CMakeFiles/GaudiAud.dir/src/AlgContextAuditor.cpp.o
+[ 57%] Building CXX object GaudiUtils/CMakeFiles/GaudiUtils.dir/src/component/FileReadTool.cpp.o
+[ 57%] Building CXX object GaudiMonitor/CMakeFiles/GaudiMonitor.dir/src/ExceptionSvc.cpp.o
+[ 59%] Building CXX object RootCnv/CMakeFiles/RootCnv.dir/components/Components.cpp.o
+[ 59%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/AlgContextSvc.cpp.o
+[ 59%] Building CXX object GaudiPartProp/CMakeFiles/GaudiPartProp.dir/src/ParticlePropertySvc.cpp.o
+[ 60%] Building CXX object GaudiProfiling/CMakeFiles/GaudiProfiling.dir/src/component/IgHook_IgHookTrace.cpp.o
+[ 60%] Building CXX object GaudiSvc/CMakeFiles/GaudiSvc.dir/src/CPUCrunchSvc/CPUCrunchSvc.cpp.o
+[ 60%] Building CXX object PartPropSvc/CMakeFiles/PartPropSvc.dir/src/PartPropSvc.cpp.o
+[ 60%] Building CXX object RootHistCnv/CMakeFiles/RootHistCnv.dir/src/DirectoryCnv.cpp.o
+[ 60%] Building CXX object RootHistCnv/CMakeFiles/RootHistCnv.dir/src/PersSvc.cpp.o
+[ 60%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/AuditorSvc.cpp.o
+[ 60%] Building CXX object GaudiProfiling/CMakeFiles/GaudiProfiling.dir/src/component/PerfMonAuditor.cpp.o
+[ 60%] Linking CXX shared library libGaudiAlgLib.so
+[ 60%] Linking CXX shared module libtest_CustomFactory.so
+[ 60%] Built target GaudiAlgLib
+[ 60%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/AbortEvent/AbortEventAlg.cpp.o
+[ 60%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/AlgSequencer/HelloWorld.cpp.o
+[ 60%] Built target test_CustomFactory
+[ 60%] Building CXX object GaudiAud/CMakeFiles/GaudiAud.dir/src/ChronoAuditor.cpp.o
+[ 61%] Building CXX object GaudiAud/CMakeFiles/GaudiAud.dir/src/CommonAuditor.cpp.o
+[ 61%] Building CXX object GaudiAud/CMakeFiles/GaudiAud.dir/src/MemoryAuditor.cpp.o
+[ 61%] Linking CXX shared module libRootCnv.so
+[ 61%] Building CXX object RootHistCnv/CMakeFiles/RootHistCnv.dir/src/RConverter.cpp.o
+[ 61%] Building CXX object GaudiUtils/CMakeFiles/GaudiUtils.dir/src/component/IODataManager.cpp.o
+[ 61%] Building CXX object GaudiSvc/CMakeFiles/GaudiSvc.dir/src/DetectorDataSvc/DetDataSvc.cpp.o
+[ 61%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/ChronoStatSvc.cpp.o
+[ 61%] Linking CXX shared module libPartPropSvc.so
+[ 61%] Linking CXX shared module libGaudiProfiling.so
+[ 61%] Linking CXX shared module libGaudiPartProp.so
+[ 61%] Built target RootCnv
+[ 61%] Building CXX object GaudiAud/CMakeFiles/GaudiAud.dir/src/MemStatAuditor.cpp.o
+[ 62%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlg.dir/src/components/ErrorTool.cpp.o
+[ 62%] Built target PartPropSvc
+[ 62%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlg.dir/src/components/TimingAuditor.cpp.o
+[ 62%] Building CXX object GaudiMonitor/CMakeFiles/GaudiMonitor.dir/src/HistorySvc.cpp.o
+[ 62%] Building CXX object GaudiAud/CMakeFiles/GaudiAud.dir/src/NameAuditor.cpp.o
+[ 62%] Built target GaudiProfiling
+[ 62%] Built target GaudiPartProp
+[ 62%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlg.dir/src/components/EventNodeKiller.cpp.o
+[ 62%] Building CXX object RootHistCnv/CMakeFiles/RootHistCnv.dir/src/RCWNTupleCnv.cpp.o
+[ 63%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/AlgResourcePool.cpp.o
+[ 63%] Building CXX object GaudiMP/CMakeFiles/GaudiMP.dir/src/component/IoComponentMgr.cpp.o
+[ 63%] Building CXX object GaudiMP/CMakeFiles/GaudiMP.dir/src/component/RecordOutputStream.cpp.o
+[ 63%] Building CXX object GaudiUtils/CMakeFiles/GaudiUtils.dir/src/component/StalledEventMonitor.cpp.o
+[ 63%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/AlgSequencer/ParentAlg.cpp.o
+[ 63%] Building CXX object GaudiSvc/CMakeFiles/GaudiSvc.dir/src/FileMgr/FileMgr.cpp.o
+[ 63%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlg.dir/src/components/GaudiAlg_entries.cpp.o
+[ 63%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/AlgSequencer/StopperAlg.cpp.o
+[ 63%] Building CXX object GaudiAud/CMakeFiles/GaudiAud.dir/src/ProcStats.cpp.o
+[ 63%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/AlgSequencer/SubAlg.cpp.o
+[ 63%] Linking CXX shared module libGaudiAud.so
+[ 63%] Building CXX object RootHistCnv/CMakeFiles/RootHistCnv.dir/src/RDirectoryCnv.cpp.o
+[ 64%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/AlgSequencer/TemplatedAlg.cpp.o
+[ 64%] Building CXX object GaudiUtils/CMakeFiles/GaudiUtils.dir/src/component/MultiFileCatalog.cpp.o
+[ 64%] Linking CXX shared module libGaudiMonitor.so
+[ 65%] Building CXX object GaudiMP/CMakeFiles/GaudiMP.dir/src/component/ReplayOutputStream.cpp.o
+[ 65%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/AlgTools/MyAlgorithm.cpp.o
+[ 65%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/DataSvc/EvtDataSvc.cpp.o
+[ 65%] Built target GaudiAud
+[ 65%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/DataSvc/EvtStoreSvc.cpp.o
+[ 65%] Built target GaudiMonitor
+[ 66%] Building CXX object RootHistCnv/CMakeFiles/RootHistCnv.dir/src/RFileCnv.cpp.o
+[ 66%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlg.dir/src/components/TimerForSequencer.cpp.o
+[ 67%] Building CXX object GaudiSvc/CMakeFiles/GaudiSvc.dir/src/FileMgr/POSIXFileHandler.cpp.o
+[ 67%] Building CXX object GaudiProfiling/CMakeFiles/GaudiGoogleProfiling.dir/src/component/google/GoogleAuditor.cpp.o
+[ 67%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/AlgsExecutionStates.cpp.o
+[ 67%] Building CXX object GaudiProfiling/CMakeFiles/GaudiValgrindProfiling.dir/src/component/valgrind/CallgrindProfile.cpp.o
+[ 67%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/AlgTools/MyGaudiAlgorithm.cpp.o
+[ 67%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/AvalancheSchedulerSvc.cpp.o
+[ 68%] Building CXX object GaudiSvc/CMakeFiles/GaudiSvc.dir/src/FileMgr/RootFileHandler.cpp.o
+[ 68%] Building CXX object GaudiUtils/CMakeFiles/GaudiUtils.dir/src/component/VFSSvc.cpp.o
+[ 68%] Building CXX object GaudiUtils/CMakeFiles/GaudiUtils.dir/src/component/createGuidAsString.cpp.o
+[ 68%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/ContextEventCounter.cpp.o
+[ 68%] Building CXX object RootHistCnv/CMakeFiles/RootHistCnv.dir/src/RHistogramCnv.cpp.o
+[ 68%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/AlgTools/MyGaudiTool.cpp.o
+[ 68%] Building CXX object GaudiProfiling/CMakeFiles/GaudiJemalloc.dir/src/component/jemalloc/JemallocProfile.cpp.o
+[ 69%] Building CXX object GaudiProfiling/CMakeFiles/GaudiJemalloc.dir/src/component/jemalloc/JemallocProfileSvc.cpp.o
+[ 69%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlg.dir/src/components/HistoTool.cpp.o
+[ 69%] Building CXX object GaudiUtils/CMakeFiles/GaudiUtils.dir/src/component/XMLCatalogTest.cpp.o
+[ 69%] Building CXX object GaudiSvc/CMakeFiles/GaudiSvc.dir/src/MetaDataSvc/MetaDataSvc.cpp.o
+[ 69%] Linking CXX shared module libGaudiMP.so
+[ 69%] Building CXX object GaudiUtils/CMakeFiles/GaudiUtils.dir/src/component/XMLFileCatalog.cpp.o
+[ 69%] Linking CXX shared module libGaudiValgrindProfiling.so
+[ 69%] Building CXX object RootHistCnv/CMakeFiles/RootHistCnv.dir/src/RNTupleCnv.cpp.o
+[ 69%] Building CXX object RootHistCnv/CMakeFiles/RootHistCnv.dir/src/RootCompressionSettings.cpp.o
+[ 69%] Built target GaudiMP
+[ 69%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/CPUCruncher.cpp.o
+[ 69%] Linking CXX shared module libGaudiGoogleProfiling.so
+[ 69%] Building CXX object GaudiPython/CMakeFiles/GaudiPythonLib.dir/src/Lib/AlgDecorators.cpp.o
+[ 69%] Building CXX object GaudiExamples/CMakeFiles/Allocator.dir/src/Allocator/Allocator.cpp.o
+[ 69%] Built target GaudiValgrindProfiling
+[ 69%] Building CXX object GaudiExamples/CMakeFiles/Allocator.dir/src/Allocator/MyClass1A.cpp.o
+[ 69%] Building CXX object GaudiPython/CMakeFiles/GaudiPythonLib.dir/src/Lib/CallbackStreamBuf.cpp.o
+[ 69%] Building CXX object GaudiSvc/CMakeFiles/GaudiSvc.dir/src/NTupleSvc/CollectionCloneAlg.cpp.o
+[ 69%] Building CXX object GaudiSvc/CMakeFiles/GaudiSvc.dir/src/NTupleSvc/NTupleSvc.cpp.o
+[ 69%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/DataSvc/FileRecordDataSvc.cpp.o
+[ 69%] Built target GaudiGoogleProfiling
+[ 69%] Building CXX object RootHistCnv/CMakeFiles/RootHistCnv.dir/src/RRWNTupleCnv.cpp.o
+[ 69%] Building CXX object GaudiPython/CMakeFiles/GaudiPythonLib.dir/src/Lib/Algorithm.cpp.o
+[ 69%] Building CXX object RootHistCnv/CMakeFiles/RootHistCnv.dir/src/RootDirFcn.cpp.o
+[ 69%] Linking CXX shared module libGaudiUtils.so
+[ 69%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/AlgTools/MyServiceWithTool.cpp.o
+[ 70%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/DataSvc/MultiStoreSvc.cpp.o
+[ 70%] Linking CXX shared module libGaudiJemalloc.so
+[ 70%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/AlgTools/MyTool.cpp.o
+[ 70%] Built target GaudiUtils
+[ 71%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/AlgTools/TestTool.cpp.o
+[ 72%] Linking CXX shared module libRootHistCnv.so
+[ 73%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlg.dir/src/components/TupleTool.cpp.o
+[ 73%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/DataSvc/PartitionSwitchAlg.cpp.o
+[ 73%] Building CXX object GaudiExamples/CMakeFiles/Allocator.dir/src/Allocator/MyClass1.cpp.o
+[ 73%] Linking CXX executable Allocator
+[ 73%] Built target GaudiJemalloc
+[ 73%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/DataSvc/PartitionSwitchTool.cpp.o
+[ 73%] Built target RootHistCnv
+[ 73%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/AlgTools/TestToolAlg.cpp.o
+[ 73%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/DataSvc/RecordDataSvc.cpp.o
+[ 73%] Building CXX object GaudiPython/CMakeFiles/GaudiPythonLib.dir/src/Lib/Helpers.cpp.o
+[ 75%] Building CXX object GaudiPython/CMakeFiles/GaudiPythonLib.dir/src/Lib/HistoDecorator.cpp.o
+[ 75%] Built target Allocator
+[ 75%] Building CXX object GaudiAlg/CMakeFiles/GaudiAlg.dir/src/components/SequencerTimerTool.cpp.o
+[ 75%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/AlgTools/TestToolAlgFailure.cpp.o
+[ 75%] Building CXX object GaudiPython/CMakeFiles/GaudiPythonLib.dir/src/Lib/TupleDecorator.cpp.o
+[ 75%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/FetchDataFromFile.cpp.o
+[ 75%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/DataSvc/RunRecordDataSvc.cpp.o
+[ 75%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/AlgTools/TestToolFailing.cpp.o
+[ 75%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/DataSvc/StoreExplorerAlg.cpp.o
+[ 76%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/FetchLeavesFromFile.cpp.o
+[ 77%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/DataSvc/StoreSnifferAlg.cpp.o
+[ 77%] Building CXX object GaudiSvc/CMakeFiles/GaudiSvc.dir/src/NTupleSvc/TagCollectionSvc.cpp.o
+[ 77%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/AnyData/AnyDataAlgorithm.cpp.o
+[ 77%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/HistogramPersistencySvc/RootHistogramSink.cpp.o
+[ 78%] Building CXX object GaudiSvc/CMakeFiles/GaudiSvc.dir/src/THistSvc/THistSvc.cpp.o
+[ 78%] Building CXX object GaudiSvc/CMakeFiles/GaudiSvc.dir/src/RndmGenSvc/HepRndmEngines.cpp.o
+[ 78%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/HiveDataBroker.cpp.o
+[ 78%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/HiveNumbers.cpp.o
+[ 78%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/HiveReadAlgorithm.cpp.o
+[ 78%] Linking CXX shared module libGaudiAlg.so
+[ 78%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/AnyData/AnyViewAlgorithm.cpp.o
+[ 78%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/HiveSlimEventLoopMgr.cpp.o
+[ 78%] Linking CXX shared library libGaudiPythonLib.so
+[ 78%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/HiveTestAlgorithm.cpp.o
+[ 78%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/PersistencySvc/CopyInputStream.cpp.o
+[ 79%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/HiveWhiteBoard.cpp.o
+[ 79%] Built target GaudiPythonLib
+[ 79%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/PersistencySvc/DataSvcFileEntriesTool.cpp.o
+[ 79%] Built target GaudiAlg
+[ 79%] Building CXX object GaudiPython/CMakeFiles/GaudiPython.dir/src/Services/PythonScriptingSvc.cpp.o
+[ 79%] Building CXX object GaudiSvc/CMakeFiles/GaudiSvc.dir/src/RndmGenSvc/RndmEngine.cpp.o
+[ 80%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/Auditors/AuditorTestAlg.cpp.o
+Consolidate compiler generated dependencies of target GaudiPythonDict
+[ 80%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/PrecedenceSvc.cpp.o
+[ 81%] Building CXX object GaudiPython/CMakeFiles/GaudiPythonDict.dir/GaudiPythonDict.cxx.o
+[ 81%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/PRGraph/PrecedenceRulesGraph.cpp.o
+[ 81%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/PRGraph/Visitors/Promoters.cpp.o
+[ 81%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/PersistencySvc/DetPersistencySvc.cpp.o
+[ 81%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/PRGraph/Visitors/Rankers.cpp.o
+[ 81%] Building CXX object GaudiSvc/CMakeFiles/GaudiSvc.dir/src/RndmGenSvc/RndmGenSvc.cpp.o
+[ 81%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/PRGraph/Visitors/Validators.cpp.o
+[ 81%] Linking CXX shared module libGaudiPython.so
+[ 81%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/PersistencySvc/EvtCollectionStream.cpp.o
+[ 82%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/ThreadInitTask.cpp.o
+[ 83%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/PersistencySvc/EvtPersistencySvc.cpp.o
+[ 83%] Built target GaudiPython
+[ 83%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/Auditors/LoggingAuditor.cpp.o
+[ 83%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/bug_34121/bug34121_MyAlgorithm.cpp.o
+[ 83%] Building CXX object GaudiSvc/CMakeFiles/GaudiSvc.dir/src/RndmGenSvc/HepRndmGenerators.cpp.o
+[ 83%] Building CXX object GaudiSvc/CMakeFiles/GaudiSvc.dir/src/RndmGenSvc/RndmGen.cpp.o
+[ 83%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/PersistencySvc/InputCopyStream.cpp.o
+[ 83%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/bug_34121/bug34121_Tool.cpp.o
+[ 83%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/ThreadPoolSvc.cpp.o
+[ 83%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/PersistencySvc/OutputStream.cpp.o
+[ 83%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/PersistencySvc/RecordStream.cpp.o
+[ 83%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/PersistencySvc/PersistencySvc.cpp.o
+[ 83%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/TimelineSvc.cpp.o
+[ 83%] Building CXX object GaudiHive/CMakeFiles/GaudiHive.dir/src/ViewTester.cpp.o
+[ 83%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/ColorMsg/ColorMsgAlg.cpp.o
+[ 84%] Linking CXX shared module libGaudiSvc.so
+[ 84%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/ConditionAccessor/Backend.cpp.o
+[ 85%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/ConditionAccessor/CondSvc.cpp.o
+[ 85%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/ConditionAccessor/User.cpp.o
+[ 85%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/CounterEx/CounterAlg.cpp.o
+[ 85%] Built target GaudiSvc
+[ 85%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/CounterEx/CounterSvcAlg.cpp.o
+[ 85%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/PersistencySvc/RunRecordStream.cpp.o
+[ 85%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/CounterEx/StatSvcAlg.cpp.o
+[ 86%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/PersistencySvc/SequentialOutputStream.cpp.o
+[ 86%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/PersistencySvc/TagCollectionStream.cpp.o
+[ 86%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/HistogramSvc/Factory.cpp.o
+[ 86%] Linking CXX shared module libGaudiPythonDict.so
+[ 86%] Building CXX object GaudiCommonSvc/CMakeFiles/GaudiCommonSvc.dir/src/HistogramPersistencySvc/HistogramPersistencySvc.cpp.o
+[ 86%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/DataOnDemand/DataCreator.cpp.o
+[ 87%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/DataOnDemand/MyDataAlgorithm.cpp.o
+[ 87%] Built target GaudiPythonDict
+[ 87%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/ExtendedProperties/ArrayProperties.cpp.o
+Consolidate compiler generated dependencies of target Gaudi_MergeRootmaps
+[ 87%] Merging .rootmap files for Gaudi
+[ 87%] Built target Gaudi_MergeRootmaps
+[ 87%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/ExtendedProperties/BoostArrayProperties.cpp.o
+[ 87%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/ExtendedProperties/ExtendedProperties.cpp.o
+[ 87%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/ExtendedProperties/ExtendedProperties2.cpp.o
+[ 87%] Linking CXX shared module libGaudiHive.so
+[ 87%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/FileMgr/FileMgrTest.cpp.o
+[ 88%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/FunctionalAlgorithms/MakeAndConsume.cpp.o
+[ 88%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/FunctionalAlgorithms/merging_transformer.cpp.o
+[ 88%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/FunctionalAlgorithms/selector.cpp.o
+[ 88%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/FunctionalAlgorithms/TestObjectVersion.cpp.o
+[ 88%] Built target GaudiHive
+[ 88%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/FunctionalAlgorithms/transformer.cpp.o
+[ 88%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/GaudiCommonTests/GaudiCommonTests.cpp.o
+[ 89%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/Histograms/CounterHistos.cpp.o
+[ 89%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/History/History.cpp.o
+[ 89%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/IncidentSvc/IncidentAsyncTestAlg.cpp.o
+[ 89%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/IncidentSvc/IncidentAsyncTestSvc.cpp.o
+In file included from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/yield_k.hpp:23,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:14,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock.hpp:42,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/shared_ptr.hpp:29,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/shared_ptr.hpp:17,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string/symbols.hpp:30,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi/string.hpp:15,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/home/qi.hpp:28,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/qi.hpp:16,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Grammars.h:35,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Parsers/Factory.h:28,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiExamples/src/ExtendedProperties/ExtendedProperties.cpp:29:
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/core.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/core.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_operator.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/operator.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/operator.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+[ 89%] Linking CXX shared module libGaudiCommonSvc.so
+[ 89%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/IncidentSvc/IncidentListenerTest.cpp.o
+[ 89%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/IncidentSvc/IncidentListenerTestAlg.cpp.o
+[ 90%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/IntelProfiler/CpuHungryAlg.cpp.o
+[ 90%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/Maps/MapAlg.cpp.o
+[ 90%] Built target GaudiCommonSvc
+[ 90%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/MultipleLogStreams/QotdAlg.cpp.o
+[ 90%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/NTuples/NTupleAlgorithm.cpp.o
+[ 90%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/PluginService/BackwardCompatibleAliases.cpp.o
+[ 90%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/PluginService/SpecialCustomFactory.cpp.o
+[ 91%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/Properties/CustomPropertiesAlg.cpp.o
+[ 91%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/Properties/PropertyAlg.cpp.o
+[ 91%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/Properties/PropertyProxy.cpp.o
+[ 91%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/QueueingEventProcessor/QueueingEventLoopMgr.cpp.o
+[ 91%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/QueueingEventProcessor/QueueingApplication.cpp.o
+[ 91%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/ReEntAlg/ReEntAlg.cpp.o
+[ 92%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/Selections/SelCreate.cpp.o
+[ 92%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/Selections/SelFilter.cpp.o
+[ 92%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/StringKeys/StringKeyEx.cpp.o
+[ 92%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/SvcInitLoop/LoopAlg.cpp.o
+[ 92%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/SvcInitLoop/ServiceA.cpp.o
+[ 92%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/SvcInitLoop/ServiceB.cpp.o
+[ 93%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/testing/GAUDI-1185.cpp.o
+[ 93%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/testing/HistogramsTests.cpp.o
+In file included from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/yield_k.hpp:23,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:14,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock.hpp:42,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/smart_ptr/shared_ptr.hpp:29,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/shared_ptr.hpp:17,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/format/alt_sstream.hpp:22,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/format/internals.hpp:24,
+                 from /cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/format.hpp:38,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/Gaudi/Accumulators.h:207,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiKernel/include/GaudiKernel/StatEntity.h:12,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiAlg/include/GaudiAlg/GaudiCommon.h:42,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiAlg/include/GaudiAlg/GaudiAlgorithm.h:26,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiExamples/src/Properties/CustomPropertiesAlg.h:15,
+                 from /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/Gaudi-master/src/Gaudi/master/GaudiExamples/src/Properties/CustomPropertiesAlg.cpp:11:
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_core.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/core.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/core.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+/cvmfs/sft-nightlies.cern.ch/lcg/latest/Boost/1.79.0-0ed37/x86_64-centos7-gcc10-opt/include/boost/spirit/include/phoenix_operator.hpp:12:1: note: ‘#pragma message: This header is deprecated. Use <boost/phoenix/operator.hpp> instead.’
+   12 | BOOST_HEADER_DEPRECATED("<boost/phoenix/operator.hpp>")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+[ 93%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/testing/TestingAlgs.cpp.o
+[ 93%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/testing/TestingSvcs.cpp.o
+[ 93%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/THist/THistRead.cpp.o
+[ 93%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/THist/THistWrite.cpp.o
+[ 94%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/Timing/TimingAlg.cpp.o
+[ 94%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/ToolHandles/Algorithms.cpp.o
+[ 94%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/ToolHandles/FloatTool.cpp.o
+[ 94%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/EvtColsEx/EvtColAlg.cpp.o
+[ 94%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/Histograms/Aida2Root.cpp.o
+[ 94%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/Histograms/GaudiHistoAlgorithm.cpp.o
+[ 95%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/Histograms/HistoAlgorithm.cpp.o
+[ 95%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/Histograms/HistoProps.cpp.o
+[ 95%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/Histograms/HistoTimingAlg.cpp.o
+[ 95%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/IO/EvtCollectionSelector.cpp.o
+[ 95%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/IO/EvtCollectionWrite.cpp.o
+[ 95%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/IO/EvtExtCollectionSelector.cpp.o
+[ 95%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/IO/ExtendedEvtCol.cpp.o
+[ 96%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/IO/ReadAlg.cpp.o
+[ 96%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/IO/ReadHandleAlg.cpp.o
+[ 96%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/IO/ReadTES.cpp.o
+[ 96%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/IO/WriteHandleAlg.cpp.o
+[ 96%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/IO/WriteAlg.cpp.o
+[ 96%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/RandomNumber/RandomNumberAlg.cpp.o
+[ 97%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/PartProp/GaudiPPS.cpp.o
+[ 97%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/PartProp/PartPropExa.cpp.o
+[ 97%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/TupleEx/TupleAlg2.cpp.o
+[ 97%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/TupleEx/TupleAlg3.cpp.o
+[ 97%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/TupleEx/TupleAlg.cpp.o
+[ 97%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/TupleEx/TupleDef.cpp.o
+[ 98%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/MultiInput/DumpAddress.cpp.o
+[ 98%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/MultiInput/MIReadAlg.cpp.o
+[ 98%] Building CXX object GaudiExamples/CMakeFiles/GaudiExamples.dir/src/MultiInput/MIWriteAlg.cpp.o
+[ 98%] Linking CXX shared module libGaudiExamples.so
+[ 98%] Built target GaudiExamples
+[100%] Merging .components files for Gaudi
+[100%] Merging .confdb files for Gaudi
+[100%] Merging .confdb2 files for Gaudi
+[100%] Built target Gaudi_MergeConfdb
+[100%] Built target Gaudi_MergeComponents
+[100%] Built target Gaudi_MergeConfDB2

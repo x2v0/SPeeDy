@@ -1,0 +1,1 @@
+ COMPILER: GNU 11.2.0, HOSTNAME: techlab-arm64-thunderx2-01, GITHASH: '082d19a', HASH: dba76, DESTINATION: HepPDT, DIRECTORY: HepPDT, NAME: HepPDT, VERSION: 2.06.01, REVISION: , PLATFORM: aarch64-centos7-gcc11-opt, SRC: https://lcgpackages.web.cern.ch/tarFiles/sources/HepPDT-2.06.01.tar.gz, DEPENDS:

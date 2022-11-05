@@ -1,0 +1,11 @@
+v2::libDDEvePlugins.so.1.23:DD4hep_DDEve_Calo2DProjection
+v2::libDDEvePlugins.so.1.23:DD4hep_DDEve_Calo3DProjection
+v2::libDDEvePlugins.so.1.23:DD4hep_DDEve_CaloLego
+v2::libDDEvePlugins.so.1.23:DD4hep_DDEve_DDG4EventHandler
+v2::libDDEvePlugins.so.1.23:DD4hep_DDEve_LCIOEventHandler
+v2::libDDEvePlugins.so.1.23:DD4hep_DDEve_MultiView
+v2::libDDEvePlugins.so.1.23:DD4hep_DDEve_RhoPhiProjection
+v2::libDDEvePlugins.so.1.23:DD4hep_DDEve_RhoZProjection
+v2::libDDEvePlugins.so.1.23:DD4hep_DDEve_View3D
+v2::libDDEvePlugins.so.1.23:DD4hep_GeometryWebDisplay
+v2::libDDEvePlugins.so.1.23:ddeve_XML_reader

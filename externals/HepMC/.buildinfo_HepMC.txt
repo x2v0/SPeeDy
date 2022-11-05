@@ -1,0 +1,1 @@
+ COMPILER: GNU 11.1.0, HOSTNAME: centos7-docker, GITHASH: 'ee3f94f', HASH: d5a39, DESTINATION: HepMC, DIRECTORY: HepMC, NAME: HepMC, VERSION: 2.06.11, REVISION: , PLATFORM: x86_64-centos7-gcc11-opt, SRC: https://lcgpackages.web.cern.ch/tarFiles/sources/HepMC-2.06.11.tar.gz, DEPENDS:

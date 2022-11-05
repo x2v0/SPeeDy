@@ -1,0 +1,587 @@
+{ decls }
+namespace MSG {  }
+namespace Gaudi { namespace StateMachine {  } }
+namespace Gaudi { namespace CounterSummary {  } }
+namespace std {  }
+class IService;
+template <typename TYPE> class SmartIF;
+class ISvcLocator;
+class IMessageSvc;
+class IProperty;
+class IDataProviderSvc;
+class IToolSvc;
+class IMonitorSvc;
+class IAuditorSvc;
+class IAlgContextSvc;
+class IAlgorithm;
+class IConversionSvc;
+template <typename T> class SmartIF;
+class IRndmGen;
+class IChronoStatSvc;
+class IHistogramSvc;
+class INTupleSvc;
+class IRndmGenSvc;
+class IExceptionSvc;
+class ITimelineSvc;
+class IHiveWhiteBoard;
+class IAlgExecStateSvc;
+class ISvcManager;
+class IIncidentSvc;
+class IEvtSelector;
+class ISelectStatement;
+namespace Gaudi { namespace Details {  } }
+template <typename KEY> class KeyedObject;
+namespace Containers {  }
+namespace Containers { class map; }
+namespace Containers { template <typename SETUP> class KeyedObjectManager; }
+namespace Containers { class hashmap; }
+namespace Containers { class vector; }
+namespace Containers { class array; }
+class DataObject;
+template <typename TYPE> class SmartRef;
+class ContainedObject;
+class ObjectContainerBase;
+class SmartDataObjectPtr;
+template <typename TYPE, typename LOADER> class SmartDataStorePtr;
+template <typename TYPE> class SmartDataPtr;
+namespace NTuple {  }
+namespace NTuple { template <typename TYP> class Item; }
+namespace NTuple { template <typename TYP> class Array; }
+namespace NTuple { template <typename TYP> class Matrix; }
+template <> class NTuple::Item<bool>;
+class IOpaqueAddress;
+template <> class NTuple::Array<IOpaqueAddress*>;
+template <> class NTuple::Matrix<IOpaqueAddress*>;
+namespace Rndm {  }
+namespace SmartRefVectorImpl {  }
+template <typename TYPE> class SmartRefVector;
+namespace Gaudi {  }
+
+[ libGaudiKernelDict.so ]
+# List of selected classes
+class AlgTool
+class Algorithm
+class ContainedObject
+class Containers::KeyedObjectManager<Containers::array>
+class Containers::KeyedObjectManager<Containers::hashmap>
+class Containers::KeyedObjectManager<Containers::map>
+class Containers::KeyedObjectManager<Containers::vector>
+class DataObject
+class DataObjectHandleBase
+class Gaudi::Details::PropertyBase
+class Gaudi::Time
+class GaudiHandleArrayBase
+class GaudiHandleArrayProperty
+class GaudiHandleBase
+class GaudiHandleInfo
+class GaudiHandleProperty
+class GenericAddress
+class IAddressCreator
+class IAlgContextSvc
+class IAlgManager
+class IAlgTool
+class IAlgorithm
+class IAppMgrUI
+class IAuditor
+class IAuditorSvc
+class IChronoStatSvc
+class IChronoSvc
+class IClassInfo
+class IClassManager
+class IConversionSvc
+class IConverter
+class ICounterSummarySvc
+class IDataManagerSvc
+class IDataProviderSvc
+class IDataSelector
+class IDataSourceMgr
+class IDataStoreAgent
+class IDataStoreLeaves
+class IDataStreamTool
+class IDetDataSvc
+class IEventProcessor
+class IEventTimeDecoder
+class IEvtSelector
+class IExceptionSvc
+class IHistogramSvc
+class IHistorySvc
+class IIncidentListener
+class IIncidentSvc
+class IInspectable
+class IInspector
+class IInterface
+class IMagneticFieldSvc
+class IMessageSvc
+class IMonitorSvc
+class INTuple
+class INTupleSvc
+class INamedInterface
+class IOpaqueAddress
+class IPartPropSvc
+class IParticlePropertySvc
+class IPartitionControl
+class IPersistencySvc
+class IProperty
+class IRegistry
+class IRndmEngine
+class IRndmGen
+class IRndmGen::Param
+class IRndmGenSvc
+class IRunable
+class ISelectStatement
+class ISerialize
+class IService
+class IStagerSvc
+class IStatSvc
+class IStateful
+class ISvcLocator
+class ISvcManager
+class ITHistSvc
+class IToolSvc
+class IUpdateManagerSvc
+class IUpdateManagerSvc::PythonHelper
+class IUpdateable
+class IValidity
+class Incident
+class InterfaceID
+class KeyedObject<int>
+class KeyedObject<long>
+class KeyedObject<unsigned int>
+class KeyedObject<unsigned long>
+class LinkManager
+class LinkManager::Link
+class NTuple::Array<IOpaqueAddress*>
+class NTuple::Array<bool>
+class NTuple::Array<char>
+class NTuple::Array<double>
+class NTuple::Array<float>
+class NTuple::Array<int>
+class NTuple::Array<long>
+class NTuple::Array<short>
+class NTuple::Array<unsigned char>
+class NTuple::Array<unsigned int>
+class NTuple::Array<unsigned long>
+class NTuple::Array<unsigned short>
+class NTuple::ColumnWiseTuple
+class NTuple::Directory
+class NTuple::File
+class NTuple::Item<Long64_t>
+class NTuple::Item<ULong64_t>
+class NTuple::Item<bool>
+class NTuple::Item<char>
+class NTuple::Item<double>
+class NTuple::Item<float>
+class NTuple::Item<int>
+class NTuple::Item<long>
+class NTuple::Item<short>
+class NTuple::Item<unsigned char>
+class NTuple::Item<unsigned int>
+class NTuple::Item<unsigned long>
+class NTuple::Item<unsigned short>
+class NTuple::Matrix<IOpaqueAddress*>
+class NTuple::Matrix<bool>
+class NTuple::Matrix<char>
+class NTuple::Matrix<double>
+class NTuple::Matrix<float>
+class NTuple::Matrix<int>
+class NTuple::Matrix<long>
+class NTuple::Matrix<short>
+class NTuple::Matrix<unsigned char>
+class NTuple::Matrix<unsigned int>
+class NTuple::Matrix<unsigned long>
+class NTuple::Matrix<unsigned short>
+class NTuple::RowWiseTuple
+class ObjectContainerBase
+class Rndm::Binomial
+class Rndm::Bit
+class Rndm::BreitWigner
+class Rndm::BreitWignerCutOff
+class Rndm::Chi2
+class Rndm::DefinedPdf
+class Rndm::Exponential
+class Rndm::Flat
+class Rndm::Gamma
+class Rndm::Gauss
+class Rndm::GaussianTail
+class Rndm::Landau
+class Rndm::Numbers
+class Rndm::Poisson
+class Rndm::StudentT
+class Service
+class SmartDataObjectPtr
+class SmartDataObjectPtr::ObjectFinder
+class SmartDataObjectPtr::ObjectLoader
+class SmartDataPtr<DataObject>
+class SmartDataPtr<ObjectContainerBase>
+class SmartDataStorePtr<DataObject,SmartDataObjectPtr::ObjectLoader>
+class SmartDataStorePtr<ObjectContainerBase,SmartDataObjectPtr::ObjectLoader>
+class SmartIF<IAlgContextSvc>
+class SmartIF<IAlgExecStateSvc>
+class SmartIF<IAlgorithm>
+class SmartIF<IAuditorSvc>
+class SmartIF<IChronoStatSvc>
+class SmartIF<IConversionSvc>
+class SmartIF<IDataProviderSvc>
+class SmartIF<IEvtSelector>
+class SmartIF<IExceptionSvc>
+class SmartIF<IHistogramSvc>
+class SmartIF<IHiveWhiteBoard>
+class SmartIF<IIncidentSvc>
+class SmartIF<IMessageSvc>
+class SmartIF<IMonitorSvc>
+class SmartIF<INTupleSvc>
+class SmartIF<IProperty>
+class SmartIF<IRndmGen>
+class SmartIF<IRndmGenSvc>
+class SmartIF<ISelectStatement>
+class SmartIF<IService>
+class SmartIF<ISvcLocator>
+class SmartIF<ISvcManager>
+class SmartIF<ITimelineSvc>
+class SmartIF<IToolSvc>
+class SmartRef<ContainedObject>
+class SmartRef<DataObject>
+class SmartRef<KeyedObject<int> >
+class SmartRef<KeyedObject<long> >
+class SmartRef<KeyedObject<unsigned int> >
+class SmartRef<KeyedObject<unsigned long> >
+class SmartRef<ObjectContainerBase>
+class SmartRefBase
+class SmartRefVector<ContainedObject>
+class SmartRefVector<DataObject>
+class SmartRefVector<KeyedObject<int> >
+class SmartRefVector<KeyedObject<long> >
+class SmartRefVector<KeyedObject<unsigned int> >
+class SmartRefVector<KeyedObject<unsigned long> >
+class SmartRefVector<ObjectContainerBase>
+class SmartRefVectorImpl::SmartRefVectorPythonizer
+class StatusCode
+class vector<ContainedObject const*>
+class vector<ContainedObject*>
+class vector<DataObject*>
+class vector<LinkManager::Link*>
+class vector<SmartRef<ContainedObject> >
+class vector<SmartRef<DataObject> >
+class vector<SmartRef<KeyedObject<int> > >
+class vector<SmartRef<KeyedObject<long> > >
+class vector<SmartRef<KeyedObject<unsigned int> > >
+class vector<SmartRef<KeyedObject<unsigned long> > >
+class vector<SmartRef<ObjectContainerBase> >
+class vector<const ContainedObject*>
+header GaudiKernel/AlgTool.h
+header GaudiKernel/Algorithm.h
+header GaudiKernel/ContainedObject.h
+header GaudiKernel/DataObject.h
+header GaudiKernel/DataObjectHandleBase.h
+header Gaudi/Details/PropertyBase.h
+header GaudiKernel/Time.h
+header GaudiKernel/GaudiHandle.h
+header Gaudi/Property.h
+header GaudiKernel/GenericAddress.h
+header GaudiKernel/IAddressCreator.h
+header GaudiKernel/IAlgContextSvc.h
+header GaudiKernel/IAlgManager.h
+header GaudiKernel/IAlgTool.h
+header GaudiKernel/IAlgorithm.h
+header GaudiKernel/IAppMgrUI.h
+header GaudiKernel/IAuditor.h
+header GaudiKernel/IAuditorSvc.h
+header GaudiKernel/IChronoStatSvc.h
+header GaudiKernel/IChronoSvc.h
+header GaudiKernel/IClassInfo.h
+header GaudiKernel/IClassManager.h
+header GaudiKernel/IConversionSvc.h
+header GaudiKernel/IConverter.h
+header GaudiKernel/ICounterSummarySvc.h
+header GaudiKernel/IDataManagerSvc.h
+header GaudiKernel/IDataProviderSvc.h
+header GaudiKernel/IDataSourceMgr.h
+header GaudiKernel/IDataStoreAgent.h
+header GaudiKernel/IDataStoreLeaves.h
+header GaudiKernel/IDataStreamTool.h
+header GaudiKernel/IDetDataSvc.h
+header GaudiKernel/IEventProcessor.h
+header GaudiKernel/IEventTimeDecoder.h
+header GaudiKernel/IEvtSelector.h
+header GaudiKernel/IExceptionSvc.h
+header GaudiKernel/IHistogramSvc.h
+header GaudiKernel/IHistorySvc.h
+header GaudiKernel/IIncidentListener.h
+header GaudiKernel/IIncidentSvc.h
+header GaudiKernel/IInspectable.h
+header GaudiKernel/IInspector.h
+header GaudiKernel/IInterface.h
+header GaudiKernel/IMagneticFieldSvc.h
+header GaudiKernel/IMessageSvc.h
+header GaudiKernel/IMonitorSvc.h
+header GaudiKernel/INTuple.h
+header GaudiKernel/INTupleSvc.h
+header GaudiKernel/INamedInterface.h
+header GaudiKernel/IOpaqueAddress.h
+header GaudiKernel/IPartPropSvc.h
+header GaudiKernel/IParticlePropertySvc.h
+header GaudiKernel/IPartitionControl.h
+header GaudiKernel/IPersistencySvc.h
+header GaudiKernel/IProperty.h
+header GaudiKernel/IRegistry.h
+header GaudiKernel/IRndmEngine.h
+header GaudiKernel/IRndmGen.h
+header GaudiKernel/IRndmGenSvc.h
+header GaudiKernel/IRunable.h
+header GaudiKernel/ISelectStatement.h
+header GaudiKernel/ISerialize.h
+header GaudiKernel/IService.h
+header GaudiKernel/IStagerSvc.h
+header GaudiKernel/IStatSvc.h
+header GaudiKernel/IStateful.h
+header GaudiKernel/ISvcLocator.h
+header GaudiKernel/ISvcManager.h
+header GaudiKernel/ITHistSvc.h
+header GaudiKernel/IToolSvc.h
+header GaudiKernel/IUpdateable.h
+header GaudiKernel/IValidity.h
+header GaudiKernel/Incident.h
+header GaudiKernel/LinkManager.h
+header GaudiKernel/NTupleImplementation.h
+header GaudiKernel/NTuple.h
+header GaudiKernel/ObjectContainerBase.h
+header GaudiKernel/RndmGenerators.h
+header GaudiKernel/Service.h
+header GaudiKernel/SmartDataObjectPtr.h
+header GaudiKernel/SmartRefBase.h
+header GaudiKernel/SmartRefVector.h
+header GaudiKernel/StatusCode.h
+# List of selected typedefs and outer classes
+# List of selected enums and outer classes
+enum MSG::Level
+enum MSG::Color
+enum Gaudi::StateMachine::State
+enum Gaudi::StateMachine::Transition
+enum Gaudi::CounterSummary::SaveType
+{ decls }
+namespace GaudiMP {  }
+
+[ libGaudiMPDict.so ]
+# List of selected classes
+class GaudiMP::PyROOTPickle
+class GaudiMP::TESSerializer
+header GaudiMP/PyROOTPickle.h
+header GaudiMP/TESSerializer.h
+{ decls }
+namespace Gaudi { namespace Utils { namespace Histos { namespace Formats {  } } } }
+namespace std {  }
+namespace std { inline namespace __cxx11 {  } }
+namespace Gaudi { namespace Utils {  } }
+namespace Gaudi {  }
+namespace AIDA {  }
+namespace GaudiPython {  }
+class Algorithm;
+template <typename BASE> class GaudiCommon;
+class AlgTool;
+class GaudiAlgorithm;
+namespace GaudiPython { template <typename ALGORITHM> class PyAlg; }
+class GaudiHistoAlg;
+class GaudiTupleAlg;
+namespace Gaudi { namespace Utils { namespace Histos {  } } }
+namespace GaudiAlg {  }
+template <typename PBASE> class GaudiHistos;
+class GaudiTool;
+class ContainedObject;
+namespace GaudiPython { template <typename TYPE> class Printer; }
+template <> class GaudiPython::Printer<ContainedObject>;
+class DataObject;
+template <> class GaudiPython::Printer<DataObject>;
+namespace Tuples {  }
+template <typename PBASE> class GaudiTuples;
+namespace __gnu_cxx {  }
+
+[ libGaudiPythonDict.so ]
+# List of selected classes
+class AIDA::IAxis
+class AIDA::IBaseHistogram
+class AIDA::IHistogram
+class AIDA::IHistogram1D
+class AIDA::IHistogram2D
+class AIDA::IHistogram3D
+class AIDA::IProfile
+class AIDA::IProfile1D
+class AIDA::IProfile2D
+class Chrono
+class ChronoEntity
+class Gaudi::IDataConnection
+class Gaudi::IFileCatalog
+class Gaudi::IFileCatalogMgr
+class Gaudi::IIODataManager
+class Gaudi::RangeBase_
+class Gaudi::StringKey
+class Gaudi::Utils::Aida2ROOT
+class Gaudi::Utils::HistoStats
+class Gaudi::Utils::Histos::HistoStrings
+class Gaudi::Utils::Histos::Table
+class Gaudi::Utils::MapBase
+class GaudiAlg::ID
+class GaudiAlg::Print
+class GaudiAlg::Print1D
+class GaudiAlg::Print1DProf
+class GaudiAlg::Print2D
+class GaudiAlg::Print2DProf
+class GaudiAlg::Print3D
+class GaudiAlg::PrintStat
+class GaudiAlg::PrintTuple
+class GaudiAlgorithm
+class GaudiCommon<AlgTool>
+class GaudiCommon<Algorithm>
+class GaudiHistos<GaudiAlgorithm>
+class GaudiHistos<GaudiTool>
+class GaudiPython::AlgDecorator
+class GaudiPython::CallbackStreamBuf
+class GaudiPython::Helper
+class GaudiPython::HistoDecorator
+class GaudiPython::Printer<ContainedObject>
+class GaudiPython::Printer<DataObject>
+class GaudiPython::PyAlg<GaudiAlgorithm>
+class GaudiPython::PyAlg<GaudiHistoAlg>
+class GaudiPython::PyAlg<GaudiTupleAlg>
+class GaudiPython::PyAlgorithm
+class GaudiPython::TupleAlgDecorator
+class GaudiPython::TupleDecorator
+class GaudiPython::TupleToolDecorator
+class GaudiTuples<GaudiHistoAlg>
+class IErrorTool
+class IGenericTool
+class IHistoTool
+class ISequencerTimerTool
+class ITupleTool
+class ParticleProperty
+class Stat
+class StatEntity
+class Tuples::Tuple
+class _Bit_reference
+class __gnu_cxx::dummy
+class allocator<IAlgorithm*>
+class allocator<IRegistry*>
+class allocator<IService*>
+class basic_ostream<char,char_traits<char> >
+class list<IAlgorithm*>
+class list<IService*>
+class ostream
+class vector<AIDA::IHistogram1D*>
+class vector<AIDA::IHistogram2D*>
+class vector<AIDA::IHistogram3D*>
+class vector<AIDA::IProfile1D*>
+class vector<AIDA::IProfile2D*>
+class vector<Gaudi::Details::PropertyBase const*>
+class vector<Gaudi::Details::PropertyBase*>
+class vector<GaudiAlg::ID>
+class vector<IAlgTool*>
+class vector<IRegistry*>
+class vector<IService*>
+class vector<StatEntity*>
+class vector<const Gaudi::Details::PropertyBase*>
+header AIDA/IAxis.h
+header AIDA/IBaseHistogram.h
+header AIDA/IHistogram.h
+header AIDA/IHistogram1D.h
+header AIDA/IHistogram2D.h
+header AIDA/IHistogram3D.h
+header AIDA/IProfile.h
+header AIDA/IProfile1D.h
+header AIDA/IProfile2D.h
+header GaudiKernel/Chrono.h
+header GaudiKernel/ChronoEntity.h
+header GaudiUtils/IIODataManager.h
+header GaudiUtils/IFileCatalog.h
+header GaudiUtils/IFileCatalogMgr.h
+header GaudiKernel/Range.h
+header GaudiKernel/StringKey.h
+header GaudiUtils/Aida2ROOT.h
+header GaudiUtils/HistoStats.h
+header GaudiUtils/HistoStrings.h
+header GaudiUtils/HistoTableFormat.h
+header GaudiKernel/MapBase.h
+header GaudiAlg/GaudiHistoID.h
+header GaudiAlg/Print.h
+header GaudiAlg/GaudiAlgorithm.h
+header GaudiPython/AlgDecorators.h
+header GaudiPython/CallbackStreamBuf.h
+header GaudiPython/Helpers.h
+header GaudiPython/HistoDecorator.h
+header GaudiPython/Algorithm.h
+header GaudiPython/TupleDecorator.h
+header GaudiAlg/IErrorTool.h
+header GaudiAlg/IGenericTool.h
+header GaudiAlg/IHistoTool.h
+header GaudiAlg/ISequencerTimerTool.h
+header GaudiAlg/ITupleTool.h
+header GaudiKernel/ParticleProperty.h
+header GaudiKernel/Stat.h
+header GaudiKernel/StatEntity.h
+header GaudiAlg/Tuple.h
+# List of selected typedefs and outer classes
+typedef std::ostream
+typedef GaudiAlg::HistoID
+typedef GaudiAlg::TupleID
+# List of selected enums and outer classes
+enum Gaudi::Utils::Histos::Formats::Format
+{ decls }
+namespace std {  }
+namespace Gaudi {  }
+namespace pool {  }
+
+[ libRootCnvDict.so ]
+# List of selected classes
+class Gaudi::RootNTupleDescriptor
+class Gaudi::RootObjectRefs
+class Gaudi::RootRef
+class PoolDbLinkManager
+class PoolDbTokenWrap
+class UCharDbArray
+class pool::Guid
+class pool::Token
+class vector<Gaudi::RootRef>
+class vector<pool::Token*>
+header RootCnv/RootRefs.h
+header RootCnv/PoolClasses.h
+{ decls }
+namespace std {  }
+namespace Gaudi { namespace Examples { class MyTrack; } }
+template <typename TYPE> class ObjectVector;
+namespace Gaudi { namespace Examples { class MyVertex; } }
+namespace Gaudi { namespace Examples { class Collision; } }
+template <typename TYPE> class SmartRef;
+namespace Gaudi { namespace Examples { class Event; } }
+namespace Gaudi { namespace Examples {  } }
+template <typename TYPE> class SmartRefVector;
+namespace Containers { class hashmap; }
+namespace Containers { template <typename SETUP> class KeyedObjectManager; }
+template <typename DATATYPE, typename MAPPING> class KeyedContainer;
+
+[ libGaudiExamplesDict.so ]
+# List of selected classes
+class Gaudi::Examples::Collision
+class Gaudi::Examples::Counter
+class Gaudi::Examples::Event
+class Gaudi::Examples::MyTrack
+class Gaudi::Examples::MyVertex
+class KeyedContainer<Gaudi::Examples::MyTrack,Containers::KeyedObjectManager<Containers::hashmap> >
+class KeyedContainer<Gaudi::Examples::MyVertex,Containers::KeyedObjectManager<Containers::hashmap> >
+class ObjectVector<Gaudi::Examples::MyTrack>
+class ObjectVector<Gaudi::Examples::MyVertex>
+class SmartRef<Gaudi::Examples::Collision>
+class SmartRef<Gaudi::Examples::Event>
+class SmartRef<Gaudi::Examples::MyTrack>
+class SmartRef<Gaudi::Examples::MyVertex>
+class SmartRefVector<Gaudi::Examples::Collision>
+class SmartRefVector<Gaudi::Examples::MyTrack>
+class SmartRefVector<Gaudi::Examples::MyVertex>
+class vector<Gaudi::Examples::MyTrack*>
+class vector<Gaudi::Examples::MyVertex*>
+class vector<KeyedObject<int>*>
+class vector<SmartRef<Gaudi::Examples::Collision> >
+class vector<SmartRef<Gaudi::Examples::MyTrack> >
+class vector<SmartRef<Gaudi::Examples::MyVertex> >
+header GaudiExamples/Collision.h
+header GaudiExamples/Counter.h
+header GaudiExamples/Event.h
+header GaudiExamples/MyTrack.h
+header GaudiExamples/MyVertex.h

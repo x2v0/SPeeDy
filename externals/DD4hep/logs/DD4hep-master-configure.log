@@ -1,0 +1,131 @@
+-- The CXX compiler identification is GNU 11.3.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /cvmfs/sft.cern.ch/lcg/releases/gcc/11.3.0-ad0f5/x86_64-centos7/bin/g++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- The C compiler identification is GNU 11.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /cvmfs/sft.cern.ch/lcg/releases/gcc/11.3.0-ad0f5/x86_64-centos7/bin/gcc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Will be building these packages: DDRec;DDDetectors;DDCond;DDAlign;DDCAD;DDDigi;DDG4;DDEve;UtilityApps
+-- Including DD4hepBuild.cmake
+-- DD4hep_configure_output: set CMAKE_INSTALL_PREFIX to /build/jenkins/workspace/lcg_nightly_pipeline/install/dev5lhcb/DD4hep/master/x86_64-centos7-gcc11-opt
+-- Found nlohmann_json: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev5lhcb/jsonmcpp/3.9.1/x86_64-centos7-gcc11-opt/lib64/cmake/nlohmann_json/nlohmann_jsonConfig.cmake (found suitable version "3.9.1", minimum required is "3.9.1") 
+-- Found Python: /cvmfs/sft-nightlies.cern.ch/lcg/latest/Python/3.9.6-b0f98/x86_64-centos7-gcc11-opt/include/python3.9 (found suitable exact version "3.9.6") found components: Development Development.Module Development.Embed 
+-- |++> Using python executable:  /build/jenkins/workspace/lcg_nightly_pipeline/install/dev5lhcb/Python/3.9.6/x86_64-centos7-gcc11-opt/bin/python3.9
+-- Found Boost: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev5lhcb/Boost/1.77.0/x86_64-centos7-gcc11-opt/lib/cmake/Boost-1.77.0/BoostConfig.cmake (found suitable version "1.77.0", minimum required is "1.49")  
+-- |++> Compiler supports filesystem when linking against stdc++fs
+-- Check for LCIO (2.16.1)
+-- Check for LCIO_LIBRARIES: lcio
+-- Check for LCIO_LCIO_LIBRARY: /build/jenkins/workspace/lcg_nightly_pipeline/install/LCIO/02.16.01-74411/x86_64-centos7-gcc11-opt/lib/liblcio.so -- ok
+-- Found LCIO: /build/jenkins/workspace/lcg_nightly_pipeline/install/LCIO/02.16.01-74411/x86_64-centos7-gcc11-opt  
+-- Found ZLIB: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev5lhcb/zlib/1.2.11/x86_64-centos7-gcc11-opt/lib/libz.so (found version "1.2.11") 
+-- Found SIO: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev5lhcb/SIO/00.01.00/x86_64-centos7-gcc11-opt/include  
+-- Found podio: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev5lhcb/podio/00.13/x86_64-centos7-gcc11-opt/lib64/cmake/podio/podioConfig.cmake  
+-- Found EDM4HEP: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev5lhcb/EDM4hep/00.03/x86_64-centos7-gcc11-opt/lib64/cmake/EDM4HEP/EDM4HEPConfig.cmake  
+-- Performing Test CXX_FLAG_WORKS__Wshadow
+-- Performing Test CXX_FLAG_WORKS__Wshadow - Success
+-- Performing Test CXX_FLAG_WORKS__Wformat_security
+-- Performing Test CXX_FLAG_WORKS__Wformat_security - Success
+-- Performing Test CXX_FLAG_WORKS__Wno_long_long
+-- Performing Test CXX_FLAG_WORKS__Wno_long_long - Success
+-- Performing Test CXX_FLAG_WORKS__Wdeprecated
+-- Performing Test CXX_FLAG_WORKS__Wdeprecated - Success
+-- Performing Test CXX_FLAG_WORKS__fdiagnostics_color=auto
+-- Performing Test CXX_FLAG_WORKS__fdiagnostics_color=auto - Success
+-- Performing Test CXX_FLAG_WORKS__Wall
+-- Performing Test CXX_FLAG_WORKS__Wall - Success
+-- Performing Test CXX_FLAG_WORKS__Wextra
+-- Performing Test CXX_FLAG_WORKS__Wextra - Success
+-- Performing Test CXX_FLAG_WORKS__pedantic
+-- Performing Test CXX_FLAG_WORKS__pedantic - Success
+-- Performing Test CXX_FLAG_WORKS_FTLS_global_dynamic
+-- Performing Test CXX_FLAG_WORKS_FTLS_global_dynamic - Success
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Found XercesC: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev5lhcb/XercesC/3.2.3/x86_64-centos7-gcc11-opt/lib/libxerces-c.so (found version "3.2.3") 
+-- |> Building GaudiPluginService
+-- |> Building DDParsers
+-- |++> Will build DDParsers
+-- |> Building DDCore
+-- |++> Will be Building DDCore
+-- |++++> Building dictionary ... G__DD4hep
+-- |++++> Building dictionary ... G__DD4hepGeo
+-- |++++> Building dictionary ... G__DD4hepProperties
+-- |++++> Building dictionary ... G__DD4hepSegmentations
+-- |++> Boost available, building Json Parsers
+-- |++> Building Plugin: DDCorePlugins
+-- |++> Found Root::GDML: Creating DDGDMLPlugins
+-- |++> Building Plugin: DDGDMLPlugins
+-- |++> Building Plugin: DDPythonPlugins
+-- BUILD Packages: DDRec;DDDetectors;DDCond;DDAlign;DDCAD;DDDigi;DDG4;DDEve;UtilityApps
+-- |> Building DDRec
+-- |++> Will build DDRec
+-- |++++> Building dictionary ... G__DDRec
+-- |++> Building Plugin: DDRecPlugins
+-- |> Building DDDetectors
+-- |++> Building Plugin: DDDetectors
+-- |> Building DDCond
+-- |++++> Building dictionary ... G__DDCond
+-- |++> Building Plugin: DDCondPlugins
+-- |> Building DDAlign
+-- |++> Building Plugin: DDAlignPlugins
+-- |> Building DDCAD
+-- +++> Use existing assimp implementation
+-- Open-Asset-Importer: ASSIMP_INCLUDE_DIRS:  /cvmfs/sft-nightlies.cern.ch/lcg/latest/assimp/5.0.1-2e01c/x86_64-centos7-gcc11-opt/include
+-- Open-Asset-Importer: ASSIMP_LIBRARIES:     libassimp.so.5
+-- |++++> Building dictionary ... G__DDCAD
+-- have target assimp::assimp
+-- |++> Building Plugin: DDCADPlugins
+-- |> Building DDDigi
+-- |++> TBB_IMPORTED_TARGETS -->  TBB::tbbTBB::tbbmallocTBB::tbbmalloc_proxy
+-- |++> TBB found. DDDigi will run multi threaded.
+-- |++++> Building dictionary ... G__DDDigi
+-- |++> Building Plugin: DDDigiPlugins
+-- |++> Geant4 not used. DDDigi will not be able to read DDG4 output.
+-- |> Building DDG4
+-- |++> Not Using geant4, not building DDG4
+-- |> Building DDEve
+-- |++++> Building dictionary ... G__DDEve
+-- Building the web display using ROOT7
+-- |++> Building Plugin: DDEvePlugins
+-- |> Building UtilityApps
+-- |++++> Building dictionary ... G__eve
+-- |++++> Building dictionary ... G__eve1
+-- |++> Enable CTest environment....BUILD:ON 
+-- |++> Using python executable:  /build/jenkins/workspace/lcg_nightly_pipeline/install/dev5lhcb/Python/3.9.6/x86_64-centos7-gcc11-opt/bin/python3.9
+-- 
+-- -------------------------------------------------------------------------------
+-- Change values with: cmake -D<Variable>=<Value>
+-- CMAKE_INSTALL_PREFIX = /build/jenkins/workspace/lcg_nightly_pipeline/install/dev5lhcb/DD4hep/master/x86_64-centos7-gcc11-opt
+-- CMAKE_BUILD_TYPE = Release
+-- CMAKE_CXX_FLAGS = -ftls-model=global-dynamic -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow           -pthread
+-- CMAKE_CXX_STANDARD = 17
+-- CMAKE_SHARED_LINKER_FLAGS =  -pthread -Wl,--no-undefined,--as-needed
+-- BUILD_SHARED_LIBS = ON
+-- BUILD_TESTING = ON
+-- CMAKE_MODULE_PATH =
+--    /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/DD4hep-master/src/DD4hep/master/cmake;
+-- -------------------------------------------------------------------------------
+-- 
+-- Configuring done
+-- Generating done
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    BOOST_ROOT
+    D4HEP_USE_GEANT4
+    ROOTSYS
+
+
+-- Build files have been written to: /build/jenkins/workspace/lcg_nightly_pipeline/build/frameworks/DD4hep-master/src/DD4hep-master-build

@@ -1,0 +1,85 @@
+[ 26%] Built target HepMCS
+[ 52%] Built target HepMC
+[ 59%] Built target HepMCfioS
+[ 69%] Built target HepMCfio
+[ 62%] Built target testWeights
+[ 72%] Built target testMass
+[ 75%] Built target testHepMCIteration
+[ 79%] Built target testStreamIO
+[ 83%] Built target testHepMC
+[ 86%] Built target testUnits
+[ 88%] Built target testFlow
+[ 91%] Built target testPolarization
+[ 94%] Built target testSimpleVector
+[ 97%] Built target testPrintBug
+[100%] Built target testMultipleCopies
+Install the project...
+-- Install configuration: "Release"
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/CompareGenEvent.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/Flow.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/GenEvent.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/GenParticle.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/GenVertex.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/GenCrossSection.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/GenRanges.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/HeavyIon.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/HEPEVT_Wrapper.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/HerwigWrapper.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/IO_AsciiParticles.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/IO_BaseClass.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/IO_Exception.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/IO_GenEvent.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/IO_HEPEVT.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/IO_HERWIG.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/IteratorRange.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/PdfInfo.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/Polarization.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/PythiaWrapper6_4.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/PythiaWrapper6_4_WIN32.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/PythiaWrapper.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/WeightContainer.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/SearchVector.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/SimpleVector.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/SimpleVector.icc
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/StreamHelpers.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/StreamInfo.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/enable_if.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/is_arithmetic.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/TempParticleMap.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/Units.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/Version.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/include/HepMC/HepMCDefs.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/lib/libHepMC.so.4.0.0
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/lib/libHepMC.so.4
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/lib/libHepMC.so
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/lib/libHepMC.a
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/lib/libHepMCfio.so.4.0.0
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/lib/libHepMCfio.so.4
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/lib/libHepMCfio.so
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/lib/libHepMCfio.a
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/example_BuildEventFromScratch.cc
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/example_EventSelection.cc
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/example_UsingIterators.cc
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/example_UsingIterators.txt
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/example_VectorConversion.cc
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/VectorConversion.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/GNUmakefile
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/fio/example_MyHerwig.cc
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/fio/example_MyPythia.cc
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/fio/example_MyPythiaOnlyToHepMC.cc
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/fio/example_PythiaStreamIO.cc
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/fio/initpydata.f
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/fio/initPythia.cc
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/fio/PythiaHelper.h
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/fio/testHerwigCopies.cc
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/fio/testPythiaCopies.cc
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/fio/GNUmakefile
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/pythia8/main31.cc
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/pythia8/main32.cc
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/pythia8/main32.cmnd
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/pythia8/README
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/pythia8/GNUmakefile
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/pythia8/config.csh
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/examples/pythia8/config.sh
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/doc/HepMC2_reference_manual.pdf
+-- Installing: /build/jenkins/workspace/lcg_nightly_pipeline/install/dev3python39/HepMC/2.06.11/x86_64-centos7-gcc11-opt/share/HepMC/doc/HepMC2_user_manual.pdf

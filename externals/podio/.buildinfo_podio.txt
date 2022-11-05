@@ -1,0 +1,1 @@
+ COMPILER: GNU 10.3.0.fp, HOSTNAME: centos7-docker, GITHASH: 'b45f844', HASH: a9be9, DESTINATION: podio, DIRECTORY: podio, NAME: podio, VERSION: 00.14.01, REVISION: , PLATFORM: x86_64-centos7-gcc10fp-opt, SRC: https://lcgpackages.web.cern.ch/tarFiles/sources/podio-00.14.01.tar.gz, DEPENDS: ROOT-HEAD-a51d4,Python-3.9.12-9a1bc,PyYAML-6.0-139f2,SIO-00.01.00-6e311,

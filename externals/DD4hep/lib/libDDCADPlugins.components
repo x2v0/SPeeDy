@@ -1,0 +1,5 @@
+v2::libDDCADPlugins.so.1.23:CAD_Assembly__volume_constructor
+v2::libDDCADPlugins.so.1.23:CAD_MultiVolume__volume_constructor
+v2::libDDCADPlugins.so.1.23:CAD_Shape__shape_constructor
+v2::libDDCADPlugins.so.1.23:DD4hep_CAD_export
+v2::libDDCADPlugins.so.1.23:DD4hep_read_CAD_volumes

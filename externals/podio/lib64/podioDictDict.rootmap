@@ -1,0 +1,57 @@
+{ decls }
+namespace podio {  }
+namespace std {  }
+namespace podio { namespace version {  } }
+namespace podio { template <typename BasicType, typename > class UserDataCollection; }
+
+[ libpodioDict.so ]
+# List of selected classes
+class map<int,podio::GenericParameters>
+class map<string,vector<float> >
+class map<string,vector<float>,less<string>,allocator<pair<const string,vector<float> > > >
+class map<string,vector<int> >
+class map<string,vector<int>,less<string>,allocator<pair<const string,vector<int> > > >
+class map<string,vector<string> >
+class map<string,vector<string>,less<string>,allocator<pair<const string,vector<string> > > >
+class podio::CollectionBase
+class podio::CollectionIDTable
+class podio::FloatVec
+class podio::GenericParameters
+class podio::GenericParameters::MapType<float>
+class podio::GenericParameters::MapType<int>
+class podio::GenericParameters::MapType<std::string>
+class podio::IntVec
+class podio::ObjectID
+class podio::PythonEventStore
+class podio::StringVec
+class podio::UserDataCollection<double,void>
+class podio::UserDataCollection<double>
+class podio::UserDataCollection<float,void>
+class podio::UserDataCollection<float>
+class podio::UserDataCollection<int,void>
+class podio::UserDataCollection<int16_t>
+class podio::UserDataCollection<int32_t>
+class podio::UserDataCollection<int64_t>
+class podio::UserDataCollection<int8_t>
+class podio::UserDataCollection<long,void>
+class podio::UserDataCollection<short,void>
+class podio::UserDataCollection<signed char,void>
+class podio::UserDataCollection<uint16_t>
+class podio::UserDataCollection<uint32_t>
+class podio::UserDataCollection<uint64_t>
+class podio::UserDataCollection<uint8_t>
+class podio::UserDataCollection<unsigned char,void>
+class podio::UserDataCollection<unsigned int,void>
+class podio::UserDataCollection<unsigned long,void>
+class podio::UserDataCollection<unsigned short,void>
+class podio::version::Version
+class vector<float>
+class vector<int>
+class vector<podio::ObjectID>
+class vector<std::tuple<int,std::string,bool> >
+class vector<string>
+class vector<tuple<int,string,bool> >
+header podio/GenericParameters.h
+header podio/ObjectID.h
+header podio/podioVersion.h
+# List of selected typedefs and outer classes

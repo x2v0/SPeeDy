@@ -1,0 +1,5 @@
+/data/sftnight/build/workspace/lcg_nightly_pipeline/install/devARM
+/data/sftnight/build/workspace/lcg_nightly_pipeline/install/devARM/HepPDT/2.06.01/aarch64-centos7-gcc11-opt->HepPDT/2.06.01-dba76/aarch64-centos7-gcc11-opt
+/home/sftnight/build/workspace/lcg_nightly_pipeline/install/devARM/HepPDT/2.06.01/aarch64-centos7-gcc11-opt->HepPDT/2.06.01-dba76/aarch64-centos7-gcc11-opt
+examples/HepPID/GNUmakefile
+examples/HepPDT/GNUmakefile
